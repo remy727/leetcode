@@ -3,7 +3,7 @@
 ### Algorithms
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | Two Sum | [Ruby] | [Ruby](./algorithms/ruby/0001-two-sum.rb) | Easy |
+| 1 | Two Sum | [Ruby](./algorithms/ruby/0001-two-sum.rb) | Easy |
 | 2 | Add Two Numbers | [Ruby](./algorithms/ruby/0002-add-two-numbers.rb) | Medium |
 | 3 | Longest Substring Without Repeating Characters | [Ruby](./algorithms/ruby/0003-longest-substring-without-repeating-characters.rb) | Medium |
 | 4 | Median of Two Sorted Arrays | [Ruby](./algorithms/ruby/0004-median-of-two-sorted-arrays.rb) | Hard |
