@@ -40,6 +40,17 @@
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
 
+### Database
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 175 | Combine Two Tables | [Database](./database/0175-combine-two-tables.sql) | Easy |
+| 181 | Employees Earning More Than Their Managers | [Database](./database/0181-employees-earning-more-than-their-managers.sql) | Easy |
+| 182 | Duplicate Emails | [Database](./database/0182-duplicate-emails.sql) | Easy |
+| 183 | Customers Who Never Order | [Database](./database/0183-customers-who-never-order.sql) | Easy |
+| 196 | Delete Duplicate Emails | [Database](./database/0196-delete-duplicate-emails.sql) | Easy |
+| 197 | Rising Temperature | [Database](./database/0197-rising-temperature.sql) | Easy |
+| 584 | Find Customer Referee | [Database](./database/0584-find-customer-referee.sql) | Easy |
+
 ### Shell
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
