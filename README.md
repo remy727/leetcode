@@ -21,6 +21,7 @@
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
+| 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
