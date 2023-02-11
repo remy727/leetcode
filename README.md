@@ -39,3 +39,11 @@
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
+
+### Shell
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 192 | Word Frequency | [Shell](./shell/0192-word-frequency.sh) | Medium |
+| 193 | Valid Phone Numbers | [Shell](./shell/0192-word-frequency.sh) | Easy |
+| 194 | Transpose File | [Shell](./shell/0194-transpose-file.sh) | Medium |
+| 195 | Tenth Line | [Shell](./shell/0195-tenth-line.sh) | Easy |
