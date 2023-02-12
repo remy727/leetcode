@@ -42,6 +42,7 @@
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
+| 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
 
 ### Database
 | # | Title | Solution | Difficulty |
