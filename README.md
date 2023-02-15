@@ -34,6 +34,7 @@
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets:description.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
+| 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
