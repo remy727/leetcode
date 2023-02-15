@@ -19,7 +19,7 @@
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
-| 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python/0067-add-binary.py) | Easy |
+| 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python3/0067-add-binary.py) | Easy |
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
