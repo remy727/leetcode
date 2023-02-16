@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Problem: # 104. Maximum Depth of Binary Tree
+# Problem: 104. Maximum Depth of Binary Tree
 # URL: https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 # Definition for a binary tree node.
