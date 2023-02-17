@@ -33,7 +33,7 @@
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
-| 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) | Easy |
+| 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets:description.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
