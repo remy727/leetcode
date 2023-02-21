@@ -31,6 +31,7 @@
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
+| 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
 | 557 | Reverse Words in a String III | [Ruby](./algorithms/ruby/0557-reverse-words-in-a-string-iii.rb) | Easy |
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
