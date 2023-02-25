@@ -26,6 +26,7 @@
 | 103 | Binary Tree Zigzag Level Order Traversal | [Ruby](./algorithms/ruby/0103-binary-tree-zigzag-level-order-traversal.rb) | Medium |
 | 104 | Maximum Depth of Binary Tree | [Ruby](./algorithms/ruby/0104-maximum-depth-of-binary-tree.rb) [Python3](./algorithms/python3/0104-maximum-depth-of-binary-tree.py) | Easy |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
+| 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
