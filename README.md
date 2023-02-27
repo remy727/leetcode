@@ -31,6 +31,7 @@
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
+| 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
