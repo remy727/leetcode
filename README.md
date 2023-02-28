@@ -39,6 +39,7 @@
 | 557 | Reverse Words in a String III | [Ruby](./algorithms/ruby/0557-reverse-words-in-a-string-iii.rb) | Easy |
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
+| 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets:description.rb) | Medium |
