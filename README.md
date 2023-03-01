@@ -42,7 +42,8 @@
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
-| 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets:description.rb) | Medium |
+| 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
+| 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
