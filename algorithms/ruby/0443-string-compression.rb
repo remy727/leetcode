@@ -6,21 +6,25 @@
 # @param {Character[]} chars
 # @return {Integer}
 def compress(chars)
+  n = chars.length
+
+  return 1 if n == 1
+
   i = 0
-  len = 0
+  j = 0
   count = 0
 
-  while i < chars.length do
+  while i < n do
     count += 1
 
     if chars[i + 1] != chars[i]
-      chars[len] = chars[i]
-      len += 1
+      chars[j] = chars[i]
+      j += 1
 
       if count > 1
         count.to_s.each_char do |char|
-          chars[len] = char
-          len += 1
+          chars[j] = char
+          j += 1
         end
       end
 
@@ -30,7 +34,7 @@ def compress(chars)
     i += 1
   end
 
-  len
+  j
 end
 
 # **************** #

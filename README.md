@@ -33,7 +33,7 @@
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
-| 443 | String Compression | [Ruby](./algorithms/ruby/0443-string-compression.rb) | Medium |
+| 443 | String Compression | [Ruby](./algorithms/ruby/0443-string-compression.rb) [Python3](./algorithms/python3/0443-string-compression.py) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
