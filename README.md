@@ -16,6 +16,7 @@
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |
 | 26 | Remove Duplicates from Sorted Array | [Ruby](./algorithms/ruby/0026-remove-duplicates-from-sorted-array.rb) | Easy |
 | 27 | Remove Element | [Ruby](./algorithms/ruby/0027-remove-element.rb) | Easy |
+| 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
