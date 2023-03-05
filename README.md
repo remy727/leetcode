@@ -54,6 +54,7 @@
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
+| 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
