@@ -60,6 +60,7 @@
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
+| 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
