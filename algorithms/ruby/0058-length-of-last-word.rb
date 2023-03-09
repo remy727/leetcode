@@ -15,7 +15,7 @@ end
 # ********************#
 
 require "test/unit"
-class Test_remove_element < Test::Unit::TestCase
+class Test_length_of_last_word < Test::Unit::TestCase
   def test_
     assert_equal 5, length_of_last_word("Hello World")
     assert_equal 4, length_of_last_word("   fly me   to   the moon  ")
