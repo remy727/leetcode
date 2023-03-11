@@ -29,6 +29,7 @@
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | [Ruby](./algorithms/ruby/0103-binary-tree-zigzag-level-order-traversal.rb) | Medium |
 | 104 | Maximum Depth of Binary Tree | [Ruby](./algorithms/ruby/0104-maximum-depth-of-binary-tree.rb) [Python3](./algorithms/python3/0104-maximum-depth-of-binary-tree.py) | Easy |
+| 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
