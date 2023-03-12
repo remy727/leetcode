@@ -48,6 +48,19 @@ def reverse1(x)
   neg ? rev * -1 : rev
 end
 
+# **************** #
+#       TEST       #
+# **************** #
+
+require "test/unit"
+class Test_reverse < Test::Unit::TestCase
+  def test_
+    assert_equal 321, reverse(123)
+    assert_equal -321, reverse(-123)
+    assert_equal 21, reverse(120)
+  end
+end
+
 # ********************#
 #     Benchmark       #
 # ********************#
