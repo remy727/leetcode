@@ -10,6 +10,7 @@
 | 5 | Longest Palindromic Substring | [Ruby](./algorithms/ruby/0005-longest-palindromic-substring.rb) | Medium |
 | 6 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0006-zigzag-conversion.rb) | Medium |
 | 7 | Reverse Integer | [Ruby](./algorithms/ruby/0007-reverse-integer.rb) | Medium |
+| 8 | String to Integer (atoi) | [Ruby](./algorithms/ruby/0008-string-to-integer-atoi.rb) | Medium |
 | 9 | Palindrome Number | [Ruby](./algorithms/ruby/0009-palindrome-number.rb) | Easy |
 | 10 | Regular Expression Matching | [Ruby](./algorithms/ruby/0010-regular-expression-matching.rb) | Hard |
 | 13 | Roman to Integer | [Ruby](./algorithms/ruby/0013-roman-to-integer.rb) | Easy |
