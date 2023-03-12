@@ -7,6 +7,7 @@
 | 2 | Add Two Numbers | [Ruby](./algorithms/ruby/0002-add-two-numbers.rb) | Medium |
 | 3 | Longest Substring Without Repeating Characters | [Ruby](./algorithms/ruby/0003-longest-substring-without-repeating-characters.rb) | Medium |
 | 4 | Median of Two Sorted Arrays | [Ruby](./algorithms/ruby/0004-median-of-two-sorted-arrays.rb) | Hard |
+| 5 | Longest Palindromic Substring | [Ruby](./algorithms/ruby/0005-longest-palindromic-substring.rb) | Medium |
 | 6 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0006-zigzag-conversion.rb) | Medium |
 | 9 | Palindrome Number | [Ruby](./algorithms/ruby/0009-palindrome-number.rb) | Easy |
 | 10 | Regular Expression Matching | [Ruby](./algorithms/ruby/0010-regular-expression-matching.rb) | Hard |
