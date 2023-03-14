@@ -36,6 +36,7 @@
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
+| 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
