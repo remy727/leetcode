@@ -58,6 +58,7 @@
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
+| 958 | Check Completeness of a Binary Tree | [Ruby](./algorithms/ruby/0958-check-completeness-of-a-binary-tree.rb) | Medium |
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
 | 1011 | Capacity To Ship Packages Within D Days | [Ruby](./algorithms/ruby/1011-capacity-to-ship-packages-within-d-days.rb) | Medium |
