@@ -14,6 +14,7 @@
 | 9 | Palindrome Number | [Ruby](./algorithms/ruby/0009-palindrome-number.rb) | Easy |
 | 10 | Regular Expression Matching | [Ruby](./algorithms/ruby/0010-regular-expression-matching.rb) | Hard |
 | 11 | Container With Most Water | [Ruby](./algorithms/ruby/0011-container-with-most-water.rb) | Medium |
+| 12 | Integer to Roman | [Ruby](./algorithms/ruby/0012-integer-to-roman.rb) | Medium |
 | 13 | Roman to Integer | [Ruby](./algorithms/ruby/0013-roman-to-integer.rb) | Easy |
 | 14 | Longest Common Prefix | [Ruby](./algorithms/ruby/0014-longest-common-prefix.rb) | Easy |
 | 20 | Valid Parentheses | [Ruby](./algorithms/ruby/0020-valid-parentheses.rb) | Easy |
