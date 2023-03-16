@@ -34,6 +34,7 @@
 | 101 | Symmetric Tree | [Ruby](./algorithms/ruby/0101-symmetric-tree.rb) | Easy |
 | 103 | Binary Tree Zigzag Level Order Traversal | [Ruby](./algorithms/ruby/0103-binary-tree-zigzag-level-order-traversal.rb) | Medium |
 | 104 | Maximum Depth of Binary Tree | [Ruby](./algorithms/ruby/0104-maximum-depth-of-binary-tree.rb) [Python3](./algorithms/python3/0104-maximum-depth-of-binary-tree.py) | Easy |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Ruby](./algorithms/ruby/0106-construct-binary-tree-from-inorder-and-postorder-traversal.rb) | Medium |
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
