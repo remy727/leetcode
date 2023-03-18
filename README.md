@@ -72,6 +72,7 @@
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
+| 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
