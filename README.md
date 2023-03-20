@@ -84,6 +84,7 @@
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
+| 2595 | Number of Even and Odd Bits | [Ruby](./algorithms/ruby/2595-number-of-even-and-odd-bits.rb) | Easy |
 
 ### Database
 | # | Title | Solution | Difficulty |
