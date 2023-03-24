@@ -58,6 +58,7 @@
 | 605 | Design Circular Queue | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
+| 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
@@ -76,6 +77,7 @@
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
+| 1480 | Running Sum of 1d Array | [Ruby](./algorithms/ruby/1480-running-sum-of-1d-array.rb) | Easy |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
