@@ -41,12 +41,14 @@
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
+| 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
+| 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
 | 443 | String Compression | [Ruby](./algorithms/ruby/0443-string-compression.rb) [Python3](./algorithms/python3/0443-string-compression.py) | Medium |
@@ -75,6 +77,7 @@
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [Ruby](./algorithms/ruby/1466-eorder-routes-to-make-all-paths-lead-to-the-city-zero.rb) | Medium |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
 | 1480 | Running Sum of 1d Array | [Ruby](./algorithms/ruby/1480-running-sum-of-1d-array.rb) | Easy |
