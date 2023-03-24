@@ -41,6 +41,7 @@
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
+| 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
