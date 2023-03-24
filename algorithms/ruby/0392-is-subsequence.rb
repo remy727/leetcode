@@ -27,6 +27,8 @@ Output: false
 
 =end
 
+# Runtime 86 ms
+# Memory 212.1 MB
 # @param {String} s
 # @param {String} t
 # @return {Boolean}
