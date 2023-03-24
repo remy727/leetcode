@@ -75,6 +75,7 @@
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
+| 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [Ruby](./algorithms/ruby/1466-eorder-routes-to-make-all-paths-lead-to-the-city-zero.rb) | Medium |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
 | 1480 | Running Sum of 1d Array | [Ruby](./algorithms/ruby/1480-running-sum-of-1d-array.rb) | Easy |
