@@ -60,6 +60,7 @@
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
 | 557 | Reverse Words in a String III | [Ruby](./algorithms/ruby/0557-reverse-words-in-a-string-iii.rb) | Easy |
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
+| 589 | N-ary Tree Preorder Traversal | [Ruby](./algorithms/ruby/0589-n-ary-tree-preorder-traversal.rb) | Easy |
 | 605 | Design Circular Queue | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
