@@ -35,6 +35,11 @@ Output: false
 Input: s1 = "a", s2 = "a"
 Output: true
 
+### Constraints:
+* s1.length == s2.length
+* 1 <= s1.length <= 30
+* s1 and s2 consist of lowercase English letters.
+
 =end
 
 # @param {String} s1
