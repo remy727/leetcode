@@ -32,6 +32,7 @@
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
 | 72 | Edit Distance | [Ruby](./algorithms/ruby/0072-edit-distance.rb) | Hard |
+| 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
 | 101 | Symmetric Tree | [Ruby](./algorithms/ruby/0101-symmetric-tree.rb) | Easy |
 | 102 | Binary Tree Level Order Traversal | [Ruby](./algorithms/ruby/0102-binary-tree-level-order-traversal.rb) | Medium |
