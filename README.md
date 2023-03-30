@@ -32,7 +32,9 @@
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
 | 72 | Edit Distance | [Ruby](./algorithms/ruby/0072-edit-distance.rb) | Hard |
+| 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
+| 98 | Validate Binary Search Tree | [Ruby](./algorithms/ruby/0098-validate-binary-search-tree.rb) | Medium |
 | 101 | Symmetric Tree | [Ruby](./algorithms/ruby/0101-symmetric-tree.rb) | Easy |
 | 102 | Binary Tree Level Order Traversal | [Ruby](./algorithms/ruby/0102-binary-tree-level-order-traversal.rb) | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | [Ruby](./algorithms/ruby/0103-binary-tree-zigzag-level-order-traversal.rb) | Medium |
@@ -48,6 +50,7 @@
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | [Ruby](./algorithms/ruby/0235-lowest-common-ancestor-of-a-binary-search-tree.rb) | Medium |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
