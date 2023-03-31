@@ -45,6 +45,7 @@
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
+| 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
 | 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 206 | Reverse Linked List | [Ruby](./algorithms/ruby/0206-reverse-linked-list.rb) | Easy |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
@@ -90,6 +91,7 @@
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
+| 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [Ruby](./algorithms/ruby/1466-eorder-routes-to-make-all-paths-lead-to-the-city-zero.rb) | Medium |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
