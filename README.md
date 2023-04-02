@@ -26,6 +26,7 @@
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
+| 62 | Unique Paths | [Ruby](./algorithms/ruby/0062-unique-paths.rb) | Medium |
 | 64 | Minimum Path Sum | [Ruby](./algorithms/ruby/0064-minimum-path-sum.rb) | Medium |
 | 66 | Plus One | [Ruby](./algorithms/ruby/0066-plus-one.rb) | Easy |
 | 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python3/0067-add-binary.py) | Easy |
@@ -73,6 +74,7 @@
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
+| 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
@@ -101,6 +103,7 @@
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
 | 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
+| 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | [Ruby](./algorithms/ruby/2348-number-of-zero-filled-subarrays.rb) | Medium |
 | 2360 | Longest Cycle in a Graph | [Ruby](./algorithms/ruby/2360-longest-cycle-in-a-graph.rb) | Hard |
