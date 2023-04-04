@@ -54,6 +54,7 @@
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Ruby](./algorithms/ruby/0235-lowest-common-ancestor-of-a-binary-search-tree.rb) | Medium |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
+| 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
@@ -109,6 +110,7 @@
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | [Ruby](./algorithms/ruby/2348-number-of-zero-filled-subarrays.rb) | Medium |
 | 2360 | Longest Cycle in a Graph | [Ruby](./algorithms/ruby/2360-longest-cycle-in-a-graph.rb) | Hard |
+| 2405 | Count Days Spent Together | [Ruby](./algorithms/ruby/2405-optimal-partition-of-string.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
