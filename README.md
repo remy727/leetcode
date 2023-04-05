@@ -59,6 +59,7 @@
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
 | 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
+| 394 | Decode String | [Ruby](./algorithms/ruby/0394-decode-string.rb) | Medium |
 | 409 | Longest Palindrome | [Ruby](./algorithms/ruby/0409-longest-palindrome.rb) | Easy |
 | 424 | Longest Repeating Character Replacement | [Ruby](./algorithms/ruby/0424-longest-repeating-character-replacement.rb) | Medium |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
@@ -78,6 +79,7 @@
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
+| 844 | Backspace String Compare | [Ruby](./algorithms/ruby/0844-backspace-string-compare.rb) | Easy |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
@@ -113,6 +115,7 @@
 | 2405 | Count Days Spent Together | [Ruby](./algorithms/ruby/2405-optimal-partition-of-string.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
+| 2439 | Minimize Maximum of Array | [Ruby](./algorithms/ruby/2439-minimize-maximum-of-array.rb) | Medium |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | [Ruby](./algorithms/ruby/2492-minimum-score-of-a-path-between-two-cities.rb) | Medium |
