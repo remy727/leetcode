@@ -74,6 +74,7 @@
 | 605 | Design Circular Queue | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
+| 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
@@ -91,10 +92,12 @@
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
 | 1011 | Capacity To Ship Packages Within D Days | [Ruby](./algorithms/ruby/1011-capacity-to-ship-packages-within-d-days.rb) | Medium |
+| 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
+| 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
