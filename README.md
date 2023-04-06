@@ -25,6 +25,7 @@
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
+| 54 | Length of Last Word | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
 | 62 | Unique Paths | [Ruby](./algorithms/ruby/0062-unique-paths.rb) | Medium |
 | 64 | Minimum Path Sum | [Ruby](./algorithms/ruby/0064-minimum-path-sum.rb) | Medium |
@@ -47,6 +48,7 @@
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
+| 202 | Happy Number | [Ruby](./algorithms/ruby/0202-happy-number.rb) | Easy |
 | 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 206 | Reverse Linked List | [Ruby](./algorithms/ruby/0206-reverse-linked-list.rb) | Easy |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
@@ -110,6 +112,7 @@
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
+| 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
