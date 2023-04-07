@@ -24,6 +24,7 @@
 | 27 | Remove Element | [Ruby](./algorithms/ruby/0027-remove-element.rb) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
+| 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 54 | Length of Last Word | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
@@ -94,6 +95,7 @@
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
 | 1011 | Capacity To Ship Packages Within D Days | [Ruby](./algorithms/ruby/1011-capacity-to-ship-packages-within-d-days.rb) | Medium |
+| 1020 | Number of Enclaves | [Ruby](./algorithms/ruby/1020-number-of-enclaves.rb) | Medium |
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
