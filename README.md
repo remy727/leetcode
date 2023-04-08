@@ -17,6 +17,7 @@
 | 12 | Integer to Roman | [Ruby](./algorithms/ruby/0012-integer-to-roman.rb) | Medium |
 | 13 | Roman to Integer | [Ruby](./algorithms/ruby/0013-roman-to-integer.rb) | Easy |
 | 14 | Longest Common Prefix | [Ruby](./algorithms/ruby/0014-longest-common-prefix.rb) | Easy |
+| 19 | Remove Nth Node From End of List | [Ruby](./algorithms/ruby/0019-remove-nth-node-from-end-of-list.rb) | Medium |
 | 20 | Valid Parentheses | [Ruby](./algorithms/ruby/0020-valid-parentheses.rb) | Easy |
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |
 | 23 | Merge k Sorted Lists | [Ruby](./algorithms/ruby/0023-merge-k-sorted-lists.rb) | Hard |
@@ -47,6 +48,7 @@
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
+| 133 | Clone Graph | [Ruby](./algorithms/ruby/0133-clone-graph.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
 | 202 | Happy Number | [Ruby](./algorithms/ruby/0202-happy-number.rb) | Easy |
@@ -55,6 +57,7 @@
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
+| 234 | Palindrome Linked List | [Ruby](./algorithms/ruby/0234-palindrome-linked-list.rb) | Easy |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Ruby](./algorithms/ruby/0235-lowest-common-ancestor-of-a-binary-search-tree.rb) | Medium |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
