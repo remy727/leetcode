@@ -24,6 +24,7 @@
 | 26 | Remove Duplicates from Sorted Array | [Ruby](./algorithms/ruby/0026-remove-duplicates-from-sorted-array.rb) | Easy |
 | 27 | Remove Element | [Ruby](./algorithms/ruby/0027-remove-element.rb) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
+| 33 | Search in Rotated Sorted Array | [Ruby](./algorithms/ruby/0033-search-in-rotated-sorted-array.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
@@ -35,6 +36,7 @@
 | 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python3/0067-add-binary.py) | Easy |
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
+| 71 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Medium |
 | 72 | Edit Distance | [Ruby](./algorithms/ruby/0072-edit-distance.rb) | Hard |
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
