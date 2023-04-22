@@ -2,9 +2,9 @@
 
 # 74. Search a 2D Matrix
 # https://leetcode.com/problems/search-a-2d-matrix
+# Difficulty: Medium
 
 =begin
-
 You are given an m x n integer matrix matrix with the following two properties:
 
 Each row is sorted in non-decreasing order.
@@ -26,7 +26,6 @@ Constraints:
 * n == matrix[i].length
 * 1 <= m, n <= 100
 * -104 <= matrix[i][j], target <= 104
-
 =end
 
 # @param {Integer[][]} matrix

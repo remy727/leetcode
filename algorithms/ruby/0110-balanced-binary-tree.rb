@@ -1,5 +1,9 @@
 # frozen_string_literal: true
 
+# 110. Balanced Binary Tree
+# https://leetcode.com/problems/balanced-binary-tree/
+# Difficulty: Easy
+
 =begin
 
 Given a binary tree, determine if it is height-balanced.
