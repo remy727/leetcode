@@ -111,6 +111,7 @@
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
+| 735 | Asteroid Collision | [Ruby](./algorithms/ruby/0735-asteroid-collision.rb) | Medium |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
