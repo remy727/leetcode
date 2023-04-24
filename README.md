@@ -99,6 +99,7 @@
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
 | 543 | Diameter of Binary Tree | [Ruby](./algorithms/ruby/0543-diameter-of-binary-tree.rb) | Easy |
+| 547 | Number of Provinces | [Ruby](./algorithms/ruby/0547-number-of-provinces.rb) | Medium |
 | 557 | Reverse Words in a String III | [Ruby](./algorithms/ruby/0557-reverse-words-in-a-string-iii.rb) | Easy |
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
 | 589 | N-ary Tree Preorder Traversal | [Ruby](./algorithms/ruby/0589-n-ary-tree-preorder-traversal.rb) | Easy |
@@ -123,6 +124,7 @@
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 946 | Validate Stack Sequences | [Ruby](./algorithms/ruby/0946-validate-stack-sequences.rb) | Medium |
+| 947 | Most Stones Removed with Same Row or Column | [Ruby](./algorithms/ruby/0947-most-stones-removed-with-same-row-or-column.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
 | 958 | Check Completeness of a Binary Tree | [Ruby](./algorithms/ruby/0958-check-completeness-of-a-binary-tree.rb) | Medium |
 | 983 | Minimum Cost For Tickets | [Ruby](./algorithms/ruby/0983-minimum-cost-for-tickets.rb) | Medium |
