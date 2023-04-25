@@ -163,6 +163,7 @@
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
+| 2336 | Smallest Number in Infinite Set | [Ruby](./algorithms/ruby/2336-smallest-number-in-infinite-set.rb) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | [Ruby](./algorithms/ruby/2348-number-of-zero-filled-subarrays.rb) | Medium |
 | 2360 | Longest Cycle in a Graph | [Ruby](./algorithms/ruby/2360-longest-cycle-in-a-graph.rb) | Hard |
 | 2390 | Removing Stars From a String | [Ruby](./algorithms/ruby/2390-removing-stars-from-a-string.rb) | Medium |
