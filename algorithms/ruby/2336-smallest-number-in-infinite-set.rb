@@ -31,7 +31,7 @@ smallestInfiniteSet.popSmallest(); // return 1, since 1 was added back to the se
                                    // is the smallest number, and remove it from the set.
 smallestInfiniteSet.popSmallest(); // return 4, and remove it from the set.
 smallestInfiniteSet.popSmallest(); // return 5, and remove it from the set.
- 
+
 
 Constraints:
 1 <= num <= 1000
