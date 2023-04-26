@@ -79,6 +79,7 @@
 | 232 | Implement Queue using Stacks | [Ruby](./algorithms/ruby/0232-implement-queue-using-stacks.rb) | Easy |
 | 234 | Palindrome Linked List | [Ruby](./algorithms/ruby/0234-palindrome-linked-list.rb) | Easy |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Ruby](./algorithms/ruby/0235-lowest-common-ancestor-of-a-binary-search-tree.rb) | Medium |
+| 258 | Add Digits | [Ruby](./algorithms/ruby/0258-add-digits.rb) | Easy |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
