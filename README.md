@@ -82,6 +82,7 @@
 | 258 | Add Digits | [Ruby](./algorithms/ruby/0258-add-digits.rb) | Easy |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
+| 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
