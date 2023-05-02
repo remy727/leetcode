@@ -165,6 +165,7 @@
 | 1697 | Checking Existence of Edge Length Limited Paths | [Ruby](./algorithms/ruby/1697-checking-existence-of-edge-length-limited-paths.rb) | Hard |
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 1768 | Merge Strings Alternately | [Ruby](./algorithms/ruby/1768-merge-strings-alternately.rb) | Easy |
+| 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
 | 2131 | Longest Palindrome by Concatenating Two Letter Words | [Ruby](./algorithms/ruby/2131-longest-palindrome-by-concatenating-two-letter-words.rb) | Medium |
 | 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
