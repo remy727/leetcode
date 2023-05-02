@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-# Problem: 1071. Greatest Common Divisor of Strings
-# URL: https://leetcode.com/problems/greatest-common-divisor-of-strings
+# 1071. Greatest Common Divisor of Strings
+# https://leetcode.com/problems/greatest-common-divisor-of-strings
+# Difficulty: Easy
 
 # @param {String} str1
 # @param {String} str2
