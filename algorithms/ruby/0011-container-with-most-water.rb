@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-# Problem: 11. Container With Most Water
-# URL: https://leetcode.com/problems/container-with-most-water/
+# 11. Container With Most Water
+# https://leetcode.com/problems/container-with-most-water/
+# Difficulty: Medium
 
 =begin
 
