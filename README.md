@@ -87,6 +87,7 @@
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
+| 334 | Increasing Triplet Subsequence | [Ruby](./algorithms/ruby/0334-increasing-triplet-subsequence.rb) | Medium |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
