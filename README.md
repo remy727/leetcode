@@ -115,6 +115,7 @@
 | 605 | Can Place Flowers | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
 | 621 | Task Scheduler | [Ruby](./algorithms/ruby/0621-task-scheduler.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
+| 649 | Dota2 Senate | [Ruby](./algorithms/ruby/0649-dota2-senate.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
 | 662 | Maximum Width of Binary Tree | [Ruby](./algorithms/ruby/0662-maximum-width-of-binary-tree.rb) | Medium |
 | 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
