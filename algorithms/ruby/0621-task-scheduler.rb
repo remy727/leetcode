@@ -2,7 +2,7 @@
 
 # 621. Task Scheduler
 # https://leetcode.com/problems/task-scheduler
-# Difficulty: Medium
+# Medium
 
 =begin
 Given a characters array tasks, representing the tasks a CPU needs to do, where each letter represents a different task. Tasks could be done in any order. Each task is done in one unit of time. For each unit of time, the CPU could complete either one task or just be idle.

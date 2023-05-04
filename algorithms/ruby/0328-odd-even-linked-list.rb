@@ -2,7 +2,7 @@
 
 # 328. Odd Even Linked List
 # https://leetcode.com/problems/odd-even-linked-list
-# Difficulty: Medium
+# Medium
 
 =begin
 Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.

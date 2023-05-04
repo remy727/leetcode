@@ -2,7 +2,7 @@
 
 # 392. Is Subsequence
 # https://leetcode.com/problems/is-subsequence
-# Difficulty: Easy
+# Easy
 
 =begin
 

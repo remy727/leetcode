@@ -2,7 +2,7 @@
 
 # 2336. Smallest Number in Infinite Set
 # https://leetcode.com/problems/smallest-number-in-infinite-set
-# Difficulty: Medium
+# Medium
 
 =begin
 You have a set which contains all positive integers [1, 2, 3, 4, 5, ...].

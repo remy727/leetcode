@@ -2,7 +2,7 @@
 
 # 46. Permutations
 # https://leetcode.com/problems/permutations
-# Difficulty: Medium
+# Medium
 
 =begin
 Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order.

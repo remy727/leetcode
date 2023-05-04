@@ -2,7 +2,7 @@
 
 # 319. Bulb Switcher
 # https://leetcode.com/problems/bulb-switcher
-# Difficulty: Medium
+# Medium
 
 =begin
 There are n bulbs that are initially off. You first turn on all the bulbs, then you turn off every second bulb.

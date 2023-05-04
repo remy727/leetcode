@@ -2,7 +2,7 @@
 
 # 662. Maximum Width of Binary Tree
 # https://leetcode.com/problems/maximum-width-of-binary-tree/
-# Difficulty: Medium
+# Medium
 
 =begin
 Given the root of a binary tree, return the maximum width of the given tree.

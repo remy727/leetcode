@@ -2,7 +2,7 @@
 
 # 2131. Longest Palindrome by Concatenating Two Letter Words
 # https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words
-# Difficulty: Medium
+# Medium
 
 =begin
 You are given an array of strings words. Each element of words consists of two lowercase English letters.

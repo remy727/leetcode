@@ -2,7 +2,7 @@
 
 # 33. Search in Rotated Sorted Array
 # https://leetcode.com/problems/search-in-rotated-sorted-array
-# Difficulty: Medium
+# Medium
 
 =begin
 There is an integer array nums sorted in ascending order (with distinct values).

@@ -2,7 +2,7 @@
 
 # 155. Min Stack
 # https://leetcode.com/problems/min-stack/
-# Difficulty: Medium
+# Medium
 
 =begin
 Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.

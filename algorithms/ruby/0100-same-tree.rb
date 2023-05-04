@@ -2,7 +2,7 @@
 
 # 100. Same Tree
 # https://leetcode.com/problems/same-tree/
-# Difficulty: Easy
+# Easy
 
 =begin
 Given the roots of two binary trees p and q, write a function to check if they are the same or not.

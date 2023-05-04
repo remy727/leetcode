@@ -2,7 +2,7 @@
 
 # 879. Profitable Schemes
 # https://leetcode.com/problems/profitable-schemes/
-# Difficulty: Hard
+# Hard
 
 =begin
 There is a group of n members, and a list of various crimes they could commit. The ith crime generates a profit[i] and requires group[i] members to participate in it. If a member participates in one crime, that member can't participate in another crime.

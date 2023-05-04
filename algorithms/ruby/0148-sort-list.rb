@@ -2,7 +2,7 @@
 
 # 148. Sort List
 # https://leetcode.com/problems/sort-list
-# Difficulty: Medium
+# Medium
 
 # Definition for singly-linked list.
 # class ListNode

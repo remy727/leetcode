@@ -2,7 +2,7 @@
 
 # 345. Reverse Vowels of a String
 # https://leetcode.com/problems/reverse-vowels-of-a-string
-# Difficulty: Easy
+# Easy
 
 =begin
 Given a string s, reverse only all the vowels in the string and return it.

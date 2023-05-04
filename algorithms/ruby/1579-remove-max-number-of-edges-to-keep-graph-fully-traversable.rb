@@ -2,7 +2,7 @@
 
 # 1579. Remove Max Number of Edges to Keep Graph Fully Traversable
 # https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable
-# Difficulty: Hard
+# Hard
 
 =begin
 Alice and Bob have an undirected graph of n nodes and three types of edges:

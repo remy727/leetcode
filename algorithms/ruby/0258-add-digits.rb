@@ -2,7 +2,7 @@
 
 # 258. Add Digits
 # https://leetcode.com/problems/add-digits
-# Difficulty: Easy
+# Easy
 
 =begin
 Given an integer num, repeatedly add all its digits until the result has only one digit, and return it.

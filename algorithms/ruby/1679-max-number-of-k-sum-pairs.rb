@@ -2,7 +2,7 @@
 
 # 1679. Max Number of K-Sum Pairs
 # https://leetcode.com/problems/max-number-of-k-sum-pairs
-# Difficulty: Medium
+# Medium
 
 =begin
 You are given an integer array nums and an integer k.

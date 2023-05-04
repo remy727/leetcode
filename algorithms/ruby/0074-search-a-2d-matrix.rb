@@ -2,7 +2,7 @@
 
 # 74. Search a 2D Matrix
 # https://leetcode.com/problems/search-a-2d-matrix
-# Difficulty: Medium
+# Medium
 
 =begin
 You are given an m x n integer matrix matrix with the following two properties:

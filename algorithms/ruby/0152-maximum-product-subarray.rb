@@ -2,7 +2,7 @@
 
 # 152. Maximum Product Subarray
 # https://leetcode.com/problems/maximum-product-subarray/
-# Difficulty: Medium
+# Medium
 
 =begin
 Given an integer array nums, find a subarray that has the largest product, and return the product.

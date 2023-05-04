@@ -2,7 +2,7 @@
 
 # 1312. Minimum Insertion Steps to Make a String Palindrome
 # https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
-# Difficulty: Hard
+# Hard
 
 =begin
 Given a string s. In one step you can insert any character at any index of the string.

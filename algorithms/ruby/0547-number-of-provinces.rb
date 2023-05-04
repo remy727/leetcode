@@ -2,7 +2,7 @@
 
 # 547. Number of Provinces
 # https://leetcode.com/problems/number-of-provinces
-# Difficulty: Medium
+# Medium
 
 =begin
 There are n cities. Some of them are connected, while some are not. If city a is connected directly with city b, and city b is connected directly with city c, then city a is connected indirectly with city c.

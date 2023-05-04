@@ -2,7 +2,7 @@
 
 # 151. Reverse Words in a String
 # https://leetcode.com/problems/reverse-words-in-a-string
-# Difficulty: Medium
+# Medium
 
 =begin
 Given an input string s, reverse the order of the words.

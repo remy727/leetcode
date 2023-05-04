@@ -2,7 +2,7 @@
 
 # 227. Basic Calculator II
 # https://leetcode.com/pcalculatelems/basic-calculator-ii
-# Difficulty: Medium
+# Medium
 
 =begin
 Given a string s which represents an expression, evaluate this expression and return its value.
