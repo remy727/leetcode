@@ -157,6 +157,7 @@
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
 | 1431 | Kids With the Greatest Number of Candies | [Ruby](./algorithms/ruby/1431-kids-with-the-greatest-number-of-candies.rb) | Easy |
 | 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | [Ruby](./algorithms/ruby/1456-maximum-number-of-vowels-in-a-substring-of-given-length.rb) | Medium |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [Ruby](./algorithms/ruby/1466-eorder-routes-to-make-all-paths-lead-to-the-city-zero.rb) | Medium |
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
