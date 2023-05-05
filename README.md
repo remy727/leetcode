@@ -175,6 +175,7 @@
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
 | 1697 | Checking Existence of Edge Length Limited Paths | [Ruby](./algorithms/ruby/1697-checking-existence-of-edge-length-limited-paths.rb) | Hard |
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
+| 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
 | 1768 | Merge Strings Alternately | [Ruby](./algorithms/ruby/1768-merge-strings-alternately.rb) | Easy |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
