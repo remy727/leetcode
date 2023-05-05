@@ -143,6 +143,7 @@
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
 | 990 | Satisfiability of Equality Equations | [Ruby](./algorithms/ruby/0990-satisfiability-of-equality-equations.rb) | Medium |
 | 994 | Rotting Oranges | [Ruby](./algorithms/ruby/0994-rotting-oranges.rb) | Medium |
+| 1004 | Max Consecutive Ones III | [Ruby](./algorithms/ruby/1004-max-consecutive-ones-iii.rb) | Medium |
 | 1011 | Capacity To Ship Packages Within D Days | [Ruby](./algorithms/ruby/1011-capacity-to-ship-packages-within-d-days.rb) | Medium |
 | 1020 | Number of Enclaves | [Ruby](./algorithms/ruby/1020-number-of-enclaves.rb) | Medium |
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
