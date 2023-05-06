@@ -166,6 +166,7 @@
 | 1480 | Running Sum of 1d Array | [Ruby](./algorithms/ruby/1480-running-sum-of-1d-array.rb) | Easy |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | [Ruby](./algorithms/ruby/1491-average-salary-excluding-the-minimum-and-maximum-salary.rb) | Easy |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [Ruby](./algorithms/ruby/1493-longest-subarray-of-1s-after-deleting-one-element.rb) | Medium |
+| 1498 | Number of Subsequences That Satisfy the Given Sum Condition | [Ruby](./algorithms/ruby/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.rb) | Medium |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
