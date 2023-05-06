@@ -172,6 +172,7 @@
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
+| 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1679 | Max Number of K-Sum Pairs | [Ruby](./algorithms/ruby/1679-max-number-of-k-sum-pairs.rb) | Medium |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
