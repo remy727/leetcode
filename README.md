@@ -121,6 +121,7 @@
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
 | 662 | Maximum Width of Binary Tree | [Ruby](./algorithms/ruby/0662-maximum-width-of-binary-tree.rb) | Medium |
 | 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
+| 700 | Search in a Binary Search Tree | [Ruby](./algorithms/ruby/0700-search-in-a-binary-search-tree.rb) | Easy |
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
