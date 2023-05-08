@@ -129,6 +129,7 @@
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
 | 844 | Backspace String Compare | [Ruby](./algorithms/ruby/0844-backspace-string-compare.rb) | Easy |
+| 872 | Leaf-Similar Trees | [Ruby](./algorithms/ruby/0872-leaf-similar-trees.rb) | Medium |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
 | 879 | Profitable Schemes | [Ruby](./algorithms/ruby/0879-profitable-schemes.rb) | Hard |
