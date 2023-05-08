@@ -102,10 +102,12 @@
 | 417 | Pacific Atlantic Water Flow | [Ruby](./algorithms/ruby/0417-pacific-atlantic-water-flow.rb) | Medium |
 | 424 | Longest Repeating Character Replacement | [Ruby](./algorithms/ruby/0424-longest-repeating-character-replacement.rb) | Medium |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
+| 435 | Non-overlapping Intervals | [Ruby](./algorithms/ruby/0435-non-overlapping-intervals.rb) | Medium |
 | 437 | Path Sum III | [Ruby](./algorithms/ruby/0437-path-sum-iii.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
 | 443 | String Compression | [Ruby](./algorithms/ruby/0443-string-compression.rb) [Python3](./algorithms/python3/0443-string-compression.py) | Medium |
 | 450 | Delete Node in a BST | [Ruby](./algorithms/ruby/0450-delete-node-in-a-bst.rb) | Medium |
+| 452 | Minimum Number of Arrows to Burst Balloons | [Ruby](./algorithms/ruby/0452-minimum-number-of-arrows-to-burst-balloons.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
@@ -163,6 +165,7 @@
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
+| 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
