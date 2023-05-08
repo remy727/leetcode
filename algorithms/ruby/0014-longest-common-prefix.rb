@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-# Problem: 14. Longest Common Prefix
-# URL: https://leetcode.com/problems/longest-common-prefix
+# 14. Longest Common Prefix
+# https://leetcode.com/problems/longest-common-prefix
+# Easy
 
 # @param {String[]} strs
 # @return {String}
