@@ -128,6 +128,7 @@
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 735 | Asteroid Collision | [Ruby](./algorithms/ruby/0735-asteroid-collision.rb) | Medium |
+| 739 | Daily Temperatures | [Ruby](./algorithms/ruby/0739-daily-temperatures.rb) | Medium |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
@@ -139,6 +140,7 @@
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
 | 879 | Profitable Schemes | [Ruby](./algorithms/ruby/0879-profitable-schemes.rb) | Hard |
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
+| 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 933 | Number of Recent Calls | [Ruby](./algorithms/ruby/0933-number-of-recent-calls.rb) | Easy |
