@@ -96,6 +96,7 @@
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
 | 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
 | 394 | Decode String | [Ruby](./algorithms/ruby/0394-decode-string.rb) | Medium |
+| 399 | Evaluate Division | [Ruby](./algorithms/ruby/0399-evaluate-division.rb) | Medium |
 | 409 | Longest Palindrome | [Ruby](./algorithms/ruby/0409-longest-palindrome.rb) | Easy |
 | 416 | Partition Equal Subset Sum | [Ruby](./algorithms/ruby/0416-partition-equal-subset-sum.rb) | Medium |
 | 417 | Pacific Atlantic Water Flow | [Ruby](./algorithms/ruby/0417-pacific-atlantic-water-flow.rb) | Medium |
