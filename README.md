@@ -104,6 +104,7 @@
 | 437 | Path Sum III | [Ruby](./algorithms/ruby/0437-path-sum-iii.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
 | 443 | String Compression | [Ruby](./algorithms/ruby/0443-string-compression.rb) [Python3](./algorithms/python3/0443-string-compression.py) | Medium |
+| 450 | Delete Node in a BST | [Ruby](./algorithms/ruby/0450-delete-node-in-a-bst.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
