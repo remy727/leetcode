@@ -131,6 +131,7 @@
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
+| 841 | Backspace String Compare | [Ruby](./algorithms/ruby/0841-keys-and-rooms.rb) | Medium |
 | 844 | Backspace String Compare | [Ruby](./algorithms/ruby/0844-backspace-string-compare.rb) | Easy |
 | 872 | Leaf-Similar Trees | [Ruby](./algorithms/ruby/0872-leaf-similar-trees.rb) | Medium |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
