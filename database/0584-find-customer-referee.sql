@@ -1,5 +1,5 @@
--- Problem: 584. Find Customer Referee
--- URL: https://leetcode.com/problems/find-customer-referee
+-- 584. Find Customer Referee
+-- https://leetcode.com/problems/find-customer-referee
 
 -- Write your MySQL query statement below
 SELECT

@@ -1,5 +1,5 @@
-# Problem: 502. IPO
-# URL: https://leetcode.com/problems/ipo
+# 502. IPO
+# https://leetcode.com/problems/ipo
 
 import heapq
 

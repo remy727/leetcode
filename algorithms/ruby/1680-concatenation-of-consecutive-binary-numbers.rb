@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1680. Concatenation of Consecutive Binary Numbers
-# URL: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers
+# 1680. Concatenation of Consecutive Binary Numbers
+# https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers
 
 # @param {Integer} n
 # @return {Integer}

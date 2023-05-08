@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# Problem: 8. String to Integer (atoi)
+# 8. String to Integer (atoi)
 # URL:https://leetcode.com/problems/string-to-integer-atoi
 
 =begin

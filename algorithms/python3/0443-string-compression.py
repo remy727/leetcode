@@ -1,10 +1,10 @@
-# Problem: 443. String Compression
-# URL: https://leetcode.com/problems/string-compression
+# 443. String Compression
+# https://leetcode.com/problems/string-compression
 
 class Solution:
   def compress(self, chars: list[str]) -> int:
     n = len(chars)
-    
+
     if n == 1:
       return 1
 

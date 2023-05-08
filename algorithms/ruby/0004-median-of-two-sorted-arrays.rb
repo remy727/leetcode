@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 4. Median of Two Sorted Arrays
-# URL: https://leetcode.com/problems/median-of-two-sorted-arrays
+# 4. Median of Two Sorted Arrays
+# https://leetcode.com/problems/median-of-two-sorted-arrays
 
 # @param {Integer[]} nums1
 # @param {Integer[]} nums2

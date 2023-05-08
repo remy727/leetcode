@@ -1,5 +1,5 @@
--- Problem: 196. Delete Duplicate Emails
--- URL: https://leetcode.com/problems/delete-duplicate-emails
+-- 196. Delete Duplicate Emails
+-- https://leetcode.com/problems/delete-duplicate-emails
 
 -- Please write a DELETE statement and DO NOT write a SELECT statement.
 -- Write your MySQL query statement below

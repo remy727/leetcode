@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 344. Reverse String
-# URL: https://leetcode.com/problems/reverse-string
+# 344. Reverse String
+# https://leetcode.com/problems/reverse-string
 
 # @param {Character[]} s
 # @return {Void} Do not return anything, modify s in-place instead.

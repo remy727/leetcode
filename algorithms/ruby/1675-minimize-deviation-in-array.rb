@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1675. Minimize Deviation in Array
-# URL: https://leetcode.com/problems/minimize-deviation-in-array
+# 1675. Minimize Deviation in Array
+# https://leetcode.com/problems/minimize-deviation-in-array
 
 # @param {Integer[]} nums
 # @return {Integer}

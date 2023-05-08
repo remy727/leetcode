@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 989. Add to Array-Form of Integer
-# URL: https://leetcode.com/problems/add-to-array-form-of-integer
+# 989. Add to Array-Form of Integer
+# https://leetcode.com/problems/add-to-array-form-of-integer
 
 # TODO: IMPROVE
 

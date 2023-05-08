@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1539. Kth Missing Positive Number
-# URL: https://leetcode.com/problems/kth-missing-positive-number
+# 1539. Kth Missing Positive Number
+# https://leetcode.com/problems/kth-missing-positive-number
 
 # @param {Integer[]} arr
 # @param {Integer} k

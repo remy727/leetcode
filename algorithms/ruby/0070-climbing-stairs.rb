@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 70. Climbing Stairs
-# URL: https://leetcode.com/problems/climbing-stairs
+# 70. Climbing Stairs
+# https://leetcode.com/problems/climbing-stairs
 
 # @param {Integer} n
 # @return {Integer}

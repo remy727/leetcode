@@ -1,5 +1,5 @@
-# Problem: 104. Maximum Depth of Binary Tree
-# URL: https://leetcode.com/problems/maximum-depth-of-binary-tree
+# 104. Maximum Depth of Binary Tree
+# https://leetcode.com/problems/maximum-depth-of-binary-tree
 
 # Definition for a binary tree node.
 # class TreeNode:

@@ -1,5 +1,5 @@
-# Problem: 2187. Minimum Time to Complete Trips
-# URL: https://leetcode.com/problems/minimum-time-to-complete-trips
+# 2187. Minimum Time to Complete Trips
+# https://leetcode.com/problems/minimum-time-to-complete-trips
 
 class Solution:
 	def minimumTime(self, time: list[int], totalTrips: int) -> int:

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1155. Number of Dice Rolls With Target Sum
-# URL: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
+# 1155. Number of Dice Rolls With Target Sum
+# https://leetcode.com/problems/number-of-dice-rolls-with-target-sum
 
 # @param {Integer} n
 # @param {Integer} k

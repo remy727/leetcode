@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 912. Sort an Array
-# URL: https://leetcode.com/problems/sort-an-array
+# 912. Sort an Array
+# https://leetcode.com/problems/sort-an-array
 
 # @param {Integer[]} nums
 # @return {Integer[]}

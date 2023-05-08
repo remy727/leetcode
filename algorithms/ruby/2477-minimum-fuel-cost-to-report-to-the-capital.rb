@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 2477. Minimum Fuel Cost to Report to the Capital
-# URL: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
+# 2477. Minimum Fuel Cost to Report to the Capital
+# https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital
 
 # @param {Integer[][]} roads
 # @param {Integer} seats

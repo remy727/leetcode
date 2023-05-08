@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 12. Integer to Roman
-# URL: https://leetcode.com/problems/integer-to-roman
+# 12. Integer to Roman
+# https://leetcode.com/problems/integer-to-roman
 
 =begin
 

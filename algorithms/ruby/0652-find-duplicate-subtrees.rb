@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 652. Find Duplicate Subtrees
-# URL: https://leetcode.com/problems/find-duplicate-subtrees
+# 652. Find Duplicate Subtrees
+# https://leetcode.com/problems/find-duplicate-subtrees
 
 # Definition for a binary tree node.
 # class TreeNode

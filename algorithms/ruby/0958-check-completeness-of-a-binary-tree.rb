@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 958. Check Completeness of a Binary Tree
-# URL: https://leetcode.com/problems/check-completeness-of-a-binary-tree
+# 958. Check Completeness of a Binary Tree
+# https://leetcode.com/problems/check-completeness-of-a-binary-tree
 
 =begin
 

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 6. Verifying an Alien Dictionary
-# URL: https://leetcode.com/problems/zigzag-conversion
+# 6. Verifying an Alien Dictionary
+# https://leetcode.com/problems/zigzag-conversion
 
 # @param {String} s
 # @param {Integer} num_rows

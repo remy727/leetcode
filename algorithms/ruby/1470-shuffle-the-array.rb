@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1470. Shuffle the Array
-# URL: https://leetcode.com/problems/shuffle-the-array
+# 1470. Shuffle the Array
+# https://leetcode.com/problems/shuffle-the-array
 
 # @param {Integer[]} nums
 # @param {Integer} n

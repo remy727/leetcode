@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 67. Add Binary
-# URL: https://leetcode.com/problems/add-binary
+# 67. Add Binary
+# https://leetcode.com/problems/add-binary
 
 # @param {String} a
 # @param {String} b

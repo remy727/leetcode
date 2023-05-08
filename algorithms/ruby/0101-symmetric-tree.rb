@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 101. Symmetric Tree
-# URL: https://leetcode.com/problems/symmetric-tree
+# 101. Symmetric Tree
+# https://leetcode.com/problems/symmetric-tree
 
 =begin
 

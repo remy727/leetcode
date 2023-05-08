@@ -1,5 +1,5 @@
--- Problem: 182. Duplicate Emails
--- URL: https://leetcode.com/problems/duplicate-emails
+-- 182. Duplicate Emails
+-- https://leetcode.com/problems/duplicate-emails
 
 -- Write your MySQL query statement below
 SELECT

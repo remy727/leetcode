@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 382. Linked List Random Node
-# URL: https://leetcode.com/problems/linked-list-random-node
+# 382. Linked List Random Node
+# https://leetcode.com/problems/linked-list-random-node
 
 # Definition for singly-linked list.
 # class ListNode

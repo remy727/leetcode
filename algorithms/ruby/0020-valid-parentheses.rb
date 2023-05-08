@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 20. Valid Parentheses
-# URL: https://leetcode.com/problems/valid-parentheses
+# 20. Valid Parentheses
+# https://leetcode.com/problems/valid-parentheses
 
 # @param {String} s
 # @return {Boolean}

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 502. IPO
-# URL: https://leetcode.com/problems/ipo
+# 502. IPO
+# https://leetcode.com/problems/ipo
 
 # @param {Integer} k
 # @param {Integer} w

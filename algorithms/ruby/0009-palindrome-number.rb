@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 9. Palindrome Number
-# URL: https://leetcode.com/problems/palindrome-number
+# 9. Palindrome Number
+# https://leetcode.com/problems/palindrome-number
 
 # @param {Integer} x
 # @return {Boolean}

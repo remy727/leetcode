@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 23. Merge k Sorted Lists
-# URL: https://leetcode.com/problems/merge-k-sorted-lists
+# 23. Merge k Sorted Lists
+# https://leetcode.com/problems/merge-k-sorted-lists
 
 =begin
 

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 103. Binary Tree Zigzag Level Order Traversal
-# URL: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+# 103. Binary Tree Zigzag Level Order Traversal
+# https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
 
 # Definition for a binary tree node.
 # class TreeNode

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 427. Construct Quad Tree
-# URL: https://leetcode.com/problems/construct-quad-tree
+# 427. Construct Quad Tree
+# https://leetcode.com/problems/construct-quad-tree
 
 # Definition for a QuadTree node.
 # class Node

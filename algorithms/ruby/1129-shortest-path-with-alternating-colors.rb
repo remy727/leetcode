@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1129. Shortest Path with Alternating Colors
-# URL: https://leetcode.com/problems/shortest-path-with-alternating-colors
+# 1129. Shortest Path with Alternating Colors
+# https://leetcode.com/problems/shortest-path-with-alternating-colors
 
 # @param {Integer} n
 # @param {Integer[][]} red_edges

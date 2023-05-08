@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 567. Permutation in String
-# URL: https://leetcode.com/problems/permutation-in-string
+# 567. Permutation in String
+# https://leetcode.com/problems/permutation-in-string
 
 # @param {String} s1
 # @param {String} s2

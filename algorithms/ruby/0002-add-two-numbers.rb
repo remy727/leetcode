@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 2. Add Two Numbers
-# URL: https://leetcode.com/problems/add-two-numbers
+# 2. Add Two Numbers
+# https://leetcode.com/problems/add-two-numbers
 
 # Definition for singly-linked list.
 # class ListNode

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 783. Minimum Distance Between BST Nodes
-# URL: https://leetcode.com/problems/minimum-distance-between-bst-nodes
+# 783. Minimum Distance Between BST Nodes
+# https://leetcode.com/problems/minimum-distance-between-bst-nodes
 
 # Definition for a binary tree node.
 # class TreeNode

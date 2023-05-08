@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 13. Roman to Integer
-# URL: https://leetcode.com/problems/roman-to-integer
+# 13. Roman to Integer
+# https://leetcode.com/problems/roman-to-integer
 
 ROMAN_VALUES = {
   "I" => 1,

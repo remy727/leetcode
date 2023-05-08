@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 904. Fruit Into Baskets
-# URL: https://leetcode.com/problems/fruit-into-baskets
+# 904. Fruit Into Baskets
+# https://leetcode.com/problems/fruit-into-baskets
 
 # @param {Integer[]} fruits
 # @return {Integer}

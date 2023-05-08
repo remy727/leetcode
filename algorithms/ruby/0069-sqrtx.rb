@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 69. Sqrt(x)
-# URL: https://leetcode.com/problems/sqrtx
+# 69. Sqrt(x)
+# https://leetcode.com/problems/sqrtx
 
 # @param {Integer} x
 # @return {Integer}

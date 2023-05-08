@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 35. Search Insert Position
-# URL: https://leetcode.com/problems/search-insert-position
+# 35. Search Insert Position
+# https://leetcode.com/problems/search-insert-position
 
 # @param {Integer[]} nums
 # @param {Integer} target

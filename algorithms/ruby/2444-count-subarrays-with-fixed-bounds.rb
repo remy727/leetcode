@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 2444. Count Subarrays With Fixed Bounds
-# URL: https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+# 2444. Count Subarrays With Fixed Bounds
+# https://leetcode.com/problems/count-subarrays-with-fixed-bounds
 
 # @param {Integer[]} nums
 # @param {Integer} min_k

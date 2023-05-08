@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 211. Design Add and Search Words Data Structure
-# URL: https://leetcode.com/problems/design-add-and-search-words-data-structure
+# 211. Design Add and Search Words Data Structure
+# https://leetcode.com/problems/design-add-and-search-words-data-structure
 
 =begin
 

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 45. Jump Game II
-# URL: https://leetcode.com/problems/jump-game-ii
+# 45. Jump Game II
+# https://leetcode.com/problems/jump-game-ii
 
 # @param {Integer[]} nums
 # @return {Integer}

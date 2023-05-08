@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 509. Fibonacci Number
-# URL: https://leetcode.com/problems/fibonacci-number
+# 509. Fibonacci Number
+# https://leetcode.com/problems/fibonacci-number
 
 # @param {Integer} n
 # @return {Integer}

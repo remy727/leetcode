@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 66. Plus One
-# URL: https://leetcode.com/problems/plus-one
+# 66. Plus One
+# https://leetcode.com/problems/plus-one
 
 =begin
 

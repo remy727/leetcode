@@ -1,7 +1,8 @@
 # frozen_string_literal: true
 
-# Problem: 72. Edit Distance
-# URL: https://leetcode.com/problems/edit-distance
+# 72. Edit Distance
+# https://leetcode.com/problems/edit-distance
+# Hard
 
 # @param {String} word1
 # @param {String} word2

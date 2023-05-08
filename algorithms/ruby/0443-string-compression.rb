@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 443. String Compression
-# URL: https://leetcode.com/problems/string-compression
+# 443. String Compression
+# https://leetcode.com/problems/string-compression
 
 # @param {Character[]} chars
 # @return {Integer}

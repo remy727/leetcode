@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 2409. Count Days Spent Together
-# URL: https://leetcode.com/problems/count-days-spent-together
+# 2409. Count Days Spent Together
+# https://leetcode.com/problems/count-days-spent-together
 
 # @param {String} arrive_alice
 # @param {String} leave_alice

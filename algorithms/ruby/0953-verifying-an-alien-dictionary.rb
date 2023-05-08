@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 953. Verifying an Alien Dictionary
-# URL: https://leetcode.com/problems/verifying-an-alien-dictionary
+# 953. Verifying an Alien Dictionary
+# https://leetcode.com/problems/verifying-an-alien-dictionary
 
 # @param {String[]} words
 # @param {String} order

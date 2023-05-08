@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 10. Regular Expression Matching
-# URL: https://leetcode.com/problems/regular-expression-matching
+# 10. Regular Expression Matching
+# https://leetcode.com/problems/regular-expression-matching
 
 # @param {String} s
 # @param {String} p

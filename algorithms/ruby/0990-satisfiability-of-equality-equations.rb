@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 990. Satisfiability of Equality Equations
-# URL: https://leetcode.com/problems/satisfiability-of-equality-equations
+# 990. Satisfiability of Equality Equations
+# https://leetcode.com/problems/satisfiability-of-equality-equations
 
 # @param {String[]} equations
 # @return {Boolean}

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 21. Merge Two Sorted Lists
-# URL: https://leetcode.com/problems/merge-two-sorted-lists
+# 21. Merge Two Sorted Lists
+# https://leetcode.com/problems/merge-two-sorted-lists
 
 # Definition for singly-linked list.
 # class ListNode

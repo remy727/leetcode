@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1523. Count Odd Numbers in an Interval Range
-# URL: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
+# 1523. Count Odd Numbers in an Interval Range
+# https://leetcode.com/problems/count-odd-numbers-in-an-interval-range
 
 # @param {Integer} low
 # @param {Integer} high

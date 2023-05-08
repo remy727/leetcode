@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 2413. Smallest Even Multiple
-# URL: https://leetcode.com/problems/smallest-even-multiple
+# 2413. Smallest Even Multiple
+# https://leetcode.com/problems/smallest-even-multiple
 
 # @param {Integer} n
 # @return {Integer}

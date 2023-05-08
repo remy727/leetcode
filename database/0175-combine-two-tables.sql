@@ -1,5 +1,5 @@
--- Problem: 175. Combine Two Tables
--- URL: https://leetcode.com/problems/combine-two-tables
+-- 175. Combine Two Tables
+-- https://leetcode.com/problems/combine-two-tables
 
 -- Write your MySQL query statement below
 SELECT

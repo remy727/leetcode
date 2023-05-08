@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 129. Sum Root to Leaf Numbers
-# URL: https://leetcode.com/problems/sum-root-to-leaf-numbers
+# 129. Sum Root to Leaf Numbers
+# https://leetcode.com/problems/sum-root-to-leaf-numbers
 
 =begin
 

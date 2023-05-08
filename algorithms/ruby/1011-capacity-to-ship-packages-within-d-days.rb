@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1011. Capacity To Ship Packages Within D Days
-# URL: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+# 1011. Capacity To Ship Packages Within D Days
+# https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
 
 # @param {Integer[]} weights
 # @param {Integer} days

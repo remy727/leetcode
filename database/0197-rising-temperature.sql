@@ -1,5 +1,5 @@
--- Problem: 197. Rising Temperature
--- URL: https://leetcode.com/problems/rising-temperature
+-- 197. Rising Temperature
+-- https://leetcode.com/problems/rising-temperature
 
 -- Write your MySQL query statement below
 SELECT

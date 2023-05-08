@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 622. Design Circular Queue
-# URL: https://leetcode.com/problems/design-circular-queue
+# 622. Design Circular Queue
+# https://leetcode.com/problems/design-circular-queue
 
 class MyCircularQueue
   #     :type k: Integer

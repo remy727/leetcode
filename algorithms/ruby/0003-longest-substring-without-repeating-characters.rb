@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 3. Longest Substring Without Repeating Characters
-# URL: https://leetcode.com/problems/longest-substring-without-repeating-characters
+# 3. Longest Substring Without Repeating Characters
+# https://leetcode.com/problems/longest-substring-without-repeating-characters
 
 # @param {String} s
 # @return {Integer}

@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1472. Design Browser History
-# URL: https://leetcode.com/problems/design-browser-history
+# 1472. Design Browser History
+# https://leetcode.com/problems/design-browser-history
 
 =begin
 
@@ -35,7 +35,7 @@ class BrowserHistory
 
 
 =begin
-  :type url: String
+  :type String
   :rtype: Void
 =end
   def visit(url)

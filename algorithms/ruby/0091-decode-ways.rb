@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 91. Decode Ways
-# URL: https://leetcode.com/problems/decode-ways
+# 91. Decode Ways
+# https://leetcode.com/problems/decode-ways
 
 # @param {String} s
 # @return {Integer}

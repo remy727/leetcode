@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 540. Single Element in a Sorted Array
-# URL: https://leetcode.com/problems/single-element-in-a-sorted-array
+# 540. Single Element in a Sorted Array
+# https://leetcode.com/problems/single-element-in-a-sorted-array
 
 # @param {Integer[]} nums
 # @return {Integer}

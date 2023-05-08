@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 1345. Jump Game IV
-# URL: https://leetcode.com/problems/jump-game-iv
+# 1345. Jump Game IV
+# https://leetcode.com/problems/jump-game-iv
 
 # @param {Integer[]} arr
 # @return {Integer}

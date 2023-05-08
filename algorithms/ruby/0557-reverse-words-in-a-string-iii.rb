@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 557. Reverse Words in a String III
-# URL: https://leetcode.com/problems/reverse-words-in-a-string-iii
+# 557. Reverse Words in a String III
+# https://leetcode.com/problems/reverse-words-in-a-string-iii
 
 # @param {String} s
 # @return {String}

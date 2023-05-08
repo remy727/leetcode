@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Problem: 58. Length of Last Word
-# URL: https://leetcode.com/problems/length-of-last-word
+# 58. Length of Last Word
+# https://leetcode.com/problems/length-of-last-word
 
 # @param {String} s
 # @return {Integer}
