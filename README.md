@@ -207,6 +207,7 @@
 | 2095 | Delete the Middle Node of a Linked List | [Ruby](./algorithms/ruby/2095-delete-the-middle-node-of-a-linked-list.rb) | Medium |
 | 2130 | Maximum Twin Sum of a Linked List | [Ruby](./algorithms/ruby/2130-maximum-twin-sum-of-a-linked-list.rb) | Medium |
 | 2131 | Longest Palindrome by Concatenating Two Letter Words | [Ruby](./algorithms/ruby/2131-longest-palindrome-by-concatenating-two-letter-words.rb) | Medium |
+| 2140 | Solving Questions With Brainpower | [Ruby](./algorithms/ruby/2140-solving-questions-with-brainpower.rb) | Medium |
 | 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
 | 2215 | Find the Difference of Two Arrays | [Ruby](./algorithms/ruby/2215-find-the-difference-of-two-arrays.rb) | Easy |
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
