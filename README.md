@@ -171,6 +171,7 @@
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
+| 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
