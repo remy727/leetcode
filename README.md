@@ -95,6 +95,7 @@
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
 | 334 | Increasing Triplet Subsequence | [Ruby](./algorithms/ruby/0334-increasing-triplet-subsequence.rb) | Medium |
+| 338 | Counting Bits | [Ruby](./algorithms/ruby/0338-counting-bits.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
 | 374 | Guess Number Higher or Lower | [Ruby](./algorithms/ruby/0374-guess-number-higher-or-lower.rb) | Easy |
