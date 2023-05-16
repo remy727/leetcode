@@ -134,6 +134,7 @@
 | 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
 | 700 | Search in a Binary Search Tree | [Ruby](./algorithms/ruby/0700-search-in-a-binary-search-tree.rb) | Easy |
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
+| 714 | Best Time to Buy and Sell Stock with Transaction | [Ruby](./algorithms/ruby/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.rb) | Medium |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 735 | Asteroid Collision | [Ruby](./algorithms/ruby/0735-asteroid-collision.rb) | Medium |
