@@ -2,6 +2,8 @@
 
 # 783. Minimum Distance Between BST Nodes
 # https://leetcode.com/problems/minimum-distance-between-bst-nodes
+# Easy
+# TODO: Write Tests
 
 # Definition for a binary tree node.
 # class TreeNode
