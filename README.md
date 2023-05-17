@@ -231,6 +231,7 @@
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
 | 2439 | Minimize Maximum of Array | [Ruby](./algorithms/ruby/2439-minimize-maximum-of-array.rb) | Medium |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
+| 2462 | Total Cost to Hire K Workers | [Python3](./algorithms/python3/2462-total-cost-to-hire-k-workers.py) | Medium |
 | 2466 | Count Ways To Build Good Strings | [Ruby](./algorithms/ruby/2466-count-ways-to-build-good-strings.rb) | Medium |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | [Ruby](./algorithms/ruby/2492-minimum-score-of-a-path-between-two-cities.rb) | Medium |
