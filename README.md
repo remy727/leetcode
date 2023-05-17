@@ -18,6 +18,7 @@
 | 13 | Roman to Integer | [Ruby](./algorithms/ruby/0013-roman-to-integer.rb) | Easy |
 | 14 | Longest Common Prefix | [Ruby](./algorithms/ruby/0014-longest-common-prefix.rb) | Easy |
 | 16 | 3Sum Closest | [Ruby](./algorithms/ruby/0016-3sum-closest.rb) | Medium |
+| 17 | Letter Combinations of a Phone Number | [Ruby](./algorithms/ruby/0017-letter-combinations-of-a-phone-number.rb) | Medium |
 | 19 | Remove Nth Node From End of List | [Ruby](./algorithms/ruby/0019-remove-nth-node-from-end-of-list.rb) | Medium |
 | 20 | Valid Parentheses | [Ruby](./algorithms/ruby/0020-valid-parentheses.rb) | Easy |
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |

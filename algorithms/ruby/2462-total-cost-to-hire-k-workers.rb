@@ -56,7 +56,7 @@ end
 require "test/unit"
 class Test_total_cost < Test::Unit::TestCase
   def test_
-    assert_equal 11, total_cost([17,12,10,2,7,2,11,20,8], 3, 4)
-    assert_equal 4, total_cost([1,2,4,1], 3, 3)
+    assert_equal 11, total_cost([17, 12, 10, 2, 7, 2, 11, 20, 8], 3, 4)
+    assert_equal 4, total_cost([1, 2, 4, 1], 3, 3)
   end
 end
