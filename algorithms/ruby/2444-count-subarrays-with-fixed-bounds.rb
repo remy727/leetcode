@@ -38,7 +38,7 @@ end
 # ********************#
 
 require "test/unit"
-class Test_minimum_fuel_cost < Test::Unit::TestCase
+class Test_count_subarrays < Test::Unit::TestCase
   def test_
     assert_equal 2, count_subarrays([1, 3, 5, 2, 7, 5], 1, 5)
     assert_equal 10, count_subarrays([1, 1, 1, 1], 1, 1)
