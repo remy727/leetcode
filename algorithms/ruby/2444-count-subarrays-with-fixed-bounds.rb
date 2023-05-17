@@ -2,6 +2,7 @@
 
 # 2444. Count Subarrays With Fixed Bounds
 # https://leetcode.com/problems/count-subarrays-with-fixed-bounds
+# Hard
 
 # @param {Integer[]} nums
 # @param {Integer} min_k
