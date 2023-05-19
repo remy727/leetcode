@@ -71,6 +71,7 @@
 | 152 | Maximum Product Subarray | [Ruby](./algorithms/ruby/0152-maximum-product-subarray.rb) | Medium |
 | 155 | Min Stack | [Ruby](./algorithms/ruby/0155-min-stack.rb) | Medium |
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
+| 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
 | 198 | House Robber | [Ruby](./algorithms/ruby/0198-house-robber.rb) | Medium |
 | 199 | Binary Tree Right Side View | [Ruby](./algorithms/ruby/0199-binary-tree-right-side-view.rb) | Medium |
