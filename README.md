@@ -34,6 +34,7 @@
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 46 | Permutations | [Ruby](./algorithms/ruby/0046-permutations) | Medium |
 | 54 | Spiral Matrix | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
+| 55 | Jump Game | [Ruby](./algorithms/ruby/0055-jump-game.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
 | 59 | Spiral Matrix II | [Ruby](./algorithms/ruby/0059-spiral-matrix-ii.rb) | Medium |
 | 62 | Unique Paths | [Ruby](./algorithms/ruby/0062-unique-paths.rb) | Medium |
