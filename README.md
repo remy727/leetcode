@@ -73,6 +73,7 @@
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
 | 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
+| 189 | Rotate Array | [Ruby](./algorithms/ruby/0189-rotate-array.rb) | Medium |
 | 198 | House Robber | [Ruby](./algorithms/ruby/0198-house-robber.rb) | Medium |
 | 199 | Binary Tree Right Side View | [Ruby](./algorithms/ruby/0199-binary-tree-right-side-view.rb) | Medium |
 | 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
