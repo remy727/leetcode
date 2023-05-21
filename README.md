@@ -108,6 +108,7 @@
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
 | 374 | Guess Number Higher or Lower | [Ruby](./algorithms/ruby/0374-guess-number-higher-or-lower.rb) | Easy |
+| 380 | Insert Delete GetRandom O(1) | [Ruby](./algorithms/ruby/0380-insert-delete-getrandom-o1.rb) | Medium |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
 | 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
