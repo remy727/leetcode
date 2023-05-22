@@ -31,6 +31,7 @@
 | 30 | Substring with Concatenation of All Words | [Ruby](./algorithms/ruby/0030-substring-with-concatenation-of-all-words.rb) | Hard |
 | 33 | Search in Rotated Sorted Array | [Ruby](./algorithms/ruby/0033-search-in-rotated-sorted-array.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
+| 36 | Valid Sudoku | [Ruby](./algorithms/ruby/0036-valid-sudoku.rb) | Medium |
 | 39 | Combination Sum | [Ruby](./algorithms/ruby/0039-combination-sum.rb) | Medium |
 | 42 | Trapping Rain Water | [Ruby](./algorithms/ruby/0042-trapping-rain-water.rb) | Hard |
 | 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
