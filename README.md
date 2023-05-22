@@ -257,6 +257,7 @@
 | 2542 | Maximum Subsequence Score | [Ruby](./algorithms/ruby/2542-maximum-subsequence-score.rb) | Medium |
 | 2595 | Number of Even and Odd Bits | [Ruby](./algorithms/ruby/2595-number-of-even-and-odd-bits.rb) | Easy |
 | 2696 | Minimum String Length After Removing Substrings | [Ruby](./algorithms/ruby/2696-minimum-string-length-after-removing-substrings.rb) | Easy |
+| 2697 | Lexicographically Smallest Palindrome | [Ruby](./algorithms/ruby/2697-lexicographically-smallest-palindrome.rb) | Easy |
 
 ### Database
 | # | Title | Solution | Difficulty |
