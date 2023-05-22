@@ -108,6 +108,7 @@
 | 338 | Counting Bits | [Ruby](./algorithms/ruby/0338-counting-bits.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
+| 347 | Top K Frequent Elements | [Ruby](./algorithms/ruby/0347-top-k-frequent-elements.rb) | Medium |
 | 374 | Guess Number Higher or Lower | [Ruby](./algorithms/ruby/0374-guess-number-higher-or-lower.rb) | Easy |
 | 380 | Insert Delete GetRandom O(1) | [Ruby](./algorithms/ruby/0380-insert-delete-getrandom-o1.rb) | Medium |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
