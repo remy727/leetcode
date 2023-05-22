@@ -66,6 +66,7 @@
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 133 | Clone Graph | [Ruby](./algorithms/ruby/0133-clone-graph.rb) | Medium |
+| 134 | Gas Station | [Ruby](./algorithms/ruby/0134-gas-station.rb) | Easy |
 | 136 | Single Number | [Ruby](./algorithms/ruby/0136-single-number.rb) | Easy |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 148 | Sort List | [Ruby](./algorithms/ruby/0148-sort-list.rb) | Medium |
