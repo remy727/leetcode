@@ -28,6 +28,7 @@
 | 26 | Remove Duplicates from Sorted Array | [Ruby](./algorithms/ruby/0026-remove-duplicates-from-sorted-array.rb) | Easy |
 | 27 | Remove Element | [Ruby](./algorithms/ruby/0027-remove-element.rb) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
+| 30 | Substring with Concatenation of All Words | [Ruby](./algorithms/ruby/0030-substring-with-concatenation-of-all-words.rb) | Hard |
 | 33 | Search in Rotated Sorted Array | [Ruby](./algorithms/ruby/0033-search-in-rotated-sorted-array.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 39 | Combination Sum | [Ruby](./algorithms/ruby/0039-combination-sum.rb) | Medium |
