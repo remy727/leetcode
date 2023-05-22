@@ -51,6 +51,7 @@
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
 | 71 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Medium |
 | 72 | Edit Distance | [Ruby](./algorithms/ruby/0072-edit-distance.rb) | Hard |
+| 73 | Set Matrix Zeroes | [Ruby](./algorithms/ruby/0073-set-matrix-zeroes.rb) | Medium |
 | 74 | Search a 2D Matrix | [Ruby](./algorithms/ruby/0074-search-a-2d-matrix.rb) | Medium |
 | 76 | Minimum Window Substring | [Ruby](./algorithms/ruby/0076-minimum-window-substring.rb) | Hard |
 | 80 | Remove Duplicates from Sorted Array II | [Ruby](./algorithms/ruby/0080-remove-duplicates-from-sorted-array-ii.rb) | Medium |
@@ -110,6 +111,7 @@
 | 274 | H-Index | [Ruby](./algorithms/ruby/0274-h-index.rb) | Medium |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 283 | Move Zeroes | [Ruby](./algorithms/ruby/0283-move-zeroes.rb) | Easy |
+| 289 | Game of Life | [Ruby](./algorithms/ruby/0289-game-of-life.rb) | Medium |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
