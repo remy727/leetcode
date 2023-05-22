@@ -42,6 +42,7 @@
 | 64 | Minimum Path Sum | [Ruby](./algorithms/ruby/0064-minimum-path-sum.rb) | Medium |
 | 66 | Plus One | [Ruby](./algorithms/ruby/0066-plus-one.rb) | Easy |
 | 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python3/0067-add-binary.py) | Easy |
+| 68 | Text Justification | [Ruby](./algorithms/ruby/0068-text-justification.rb) | Hard |
 | 69 | Sqrt(x) | [Ruby](./algorithms/ruby/0069-sqrtx.rb) | Easy |
 | 70 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Easy |
 | 71 | Climbing Stairs | [Ruby](./algorithms/ruby/0070-climbing-stairs.rb) | Medium |
