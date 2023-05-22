@@ -90,6 +90,7 @@
 | 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 206 | Reverse Linked List | [Ruby](./algorithms/ruby/0206-reverse-linked-list.rb) | Easy |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
+| 209 | Minimum Size Subarray Sum | [Ruby](./algorithms/ruby/0209-minimum-size-subarray-sum.rb) | Medium |
 | 210 | Course Schedule II | [Ruby](./algorithms/ruby/0210-course-schedule-ii.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 215 | Kth Largest Element in an Array | [Ruby](./algorithms/ruby/0215-kth-largest-element-in-an-array.rb) | Medium |
