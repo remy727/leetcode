@@ -66,6 +66,7 @@
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
+| 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 133 | Clone Graph | [Ruby](./algorithms/ruby/0133-clone-graph.rb) | Medium |
 | 134 | Gas Station | [Ruby](./algorithms/ruby/0134-gas-station.rb) | Easy |
