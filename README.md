@@ -30,6 +30,7 @@
 | 33 | Search in Rotated Sorted Array | [Ruby](./algorithms/ruby/0033-search-in-rotated-sorted-array.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 39 | Combination Sum | [Ruby](./algorithms/ruby/0039-combination-sum.rb) | Medium |
+| 42 | Trapping Rain Water | [Ruby](./algorithms/ruby/0042-trapping-rain-water.rb) | Hard |
 | 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
 | 46 | Permutations | [Ruby](./algorithms/ruby/0046-permutations) | Medium |
