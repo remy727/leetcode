@@ -36,7 +36,8 @@
 | 42 | Trapping Rain Water | [Ruby](./algorithms/ruby/0042-trapping-rain-water.rb) | Hard |
 | 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
-| 46 | Permutations | [Ruby](./algorithms/ruby/0046-permutations) | Medium |
+| 46 | Permutations | [Ruby](./algorithms/ruby/0046-permutations.rb) | Medium |
+| 48 | Rotate Image | [Ruby](./algorithms/ruby/0048-rotate-image.rb) | Medium |
 | 54 | Spiral Matrix | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
 | 55 | Jump Game | [Ruby](./algorithms/ruby/0055-jump-game.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
