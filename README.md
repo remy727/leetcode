@@ -17,6 +17,7 @@
 | 12 | Integer to Roman | [Ruby](./algorithms/ruby/0012-integer-to-roman.rb) | Medium |
 | 13 | Roman to Integer | [Ruby](./algorithms/ruby/0013-roman-to-integer.rb) | Easy |
 | 14 | Longest Common Prefix | [Ruby](./algorithms/ruby/0014-longest-common-prefix.rb) | Easy |
+| 15 | 3Sum | [Ruby](./algorithms/ruby/0015-3sum.rb) | Medium |
 | 16 | 3Sum Closest | [Ruby](./algorithms/ruby/0016-3sum-closest.rb) | Medium |
 | 17 | Letter Combinations of a Phone Number | [Ruby](./algorithms/ruby/0017-letter-combinations-of-a-phone-number.rb) | Medium |
 | 19 | Remove Nth Node From End of List | [Ruby](./algorithms/ruby/0019-remove-nth-node-from-end-of-list.rb) | Medium |
@@ -78,6 +79,7 @@
 | 152 | Maximum Product Subarray | [Ruby](./algorithms/ruby/0152-maximum-product-subarray.rb) | Medium |
 | 155 | Min Stack | [Ruby](./algorithms/ruby/0155-min-stack.rb) | Medium |
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
+| 167 | Two Sum II - Input Array Is Sorted | [Ruby](./algorithms/ruby/0167-two-sum-ii-input-array-is-sorted.rb) | Medium |
 | 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
 | 189 | Rotate Array | [Ruby](./algorithms/ruby/0189-rotate-array.rb) | Medium |
