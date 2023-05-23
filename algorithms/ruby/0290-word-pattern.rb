@@ -34,7 +34,24 @@ All the words in s are separated by a single space.
 # @param {String} s
 # @return {Boolean}
 def word_pattern(pattern, s)
-  s.split.map(&pattern.chars.zip(s.split).to_h.invert) == pattern.chars
+  p1 = pattern.chars
+  p2 = s.split " "
+  return false if p1.size != p2.size
+  hmap = {}
+
+  p1.each_with_index do |c, idx|
+    ptr = "pat_#{c}"
+    st = "word_#{p2[idx]}"
+    if hmap[ptr].nil? && hmap[st].nil?
+      hmap[ptr] = idx
+      hmap[st] = idx
+    elsif !hmap[ptr].nil? && !hmap[st].nil? && hmap[ptr] == hmap[st]
+      next
+    else
+      return false
+    end
+  end
+  true
 end
 
 # **************** #
