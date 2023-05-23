@@ -73,6 +73,7 @@
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
 | 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
+| 128 | Longest Consecutive Sequence | [Ruby](./algorithms/ruby/0128-longest-consecutive-sequence.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 133 | Clone Graph | [Ruby](./algorithms/ruby/0133-clone-graph.rb) | Medium |
 | 134 | Gas Station | [Ruby](./algorithms/ruby/0134-gas-station.rb) | Easy |
@@ -100,6 +101,7 @@
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
 | 215 | Kth Largest Element in an Array | [Ruby](./algorithms/ruby/0215-kth-largest-element-in-an-array.rb) | Medium |
 | 216 | Combination Sum III | [Ruby](./algorithms/ruby/0216-combination-sum-iii.rb) | Medium |
+| 219 | Contains Duplicate II | [Ruby](./algorithms/ruby/0219-contains-duplicate-ii.rb) | Easy |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
 | 230 | Kth Smallest Element in a BST | [Ruby](./algorithms/ruby/0230-kth-smallest-element-in-a-bst.rb) | Medium |
