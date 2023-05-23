@@ -81,6 +81,7 @@
 | 136 | Single Number | [Ruby](./algorithms/ruby/0136-single-number.rb) | Easy |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 148 | Sort List | [Ruby](./algorithms/ruby/0148-sort-list.rb) | Medium |
+| 150 | Evaluate Reverse Polish Notation | [Ruby](./algorithms/ruby/0150-evaluate-reverse-polish-notation.rb) | Medium |
 | 151 | Reverse Words in a String | [Ruby](./algorithms/ruby/0151-reverse-words-in-a-string.rb) | Medium |
 | 152 | Maximum Product Subarray | [Ruby](./algorithms/ruby/0152-maximum-product-subarray.rb) | Medium |
 | 155 | Min Stack | [Ruby](./algorithms/ruby/0155-min-stack.rb) | Medium |
