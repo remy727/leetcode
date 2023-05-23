@@ -103,6 +103,7 @@
 | 215 | Kth Largest Element in an Array | [Ruby](./algorithms/ruby/0215-kth-largest-element-in-an-array.rb) | Medium |
 | 216 | Combination Sum III | [Ruby](./algorithms/ruby/0216-combination-sum-iii.rb) | Medium |
 | 219 | Contains Duplicate II | [Ruby](./algorithms/ruby/0219-contains-duplicate-ii.rb) | Easy |
+| 224 | Basic Calculator | [Ruby](./algorithms/ruby/0224-basic-calculator.rb) | Hard |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
 | 228 | Summary Ranges | [Ruby](./algorithms/ruby/0228-summary-ranges.rb) | Easy |
