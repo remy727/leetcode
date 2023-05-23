@@ -112,6 +112,7 @@
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 283 | Move Zeroes | [Ruby](./algorithms/ruby/0283-move-zeroes.rb) | Easy |
 | 289 | Game of Life | [Ruby](./algorithms/ruby/0289-game-of-life.rb) | Medium |
+| 290 | Word Pattern | [Ruby](./algorithms/ruby/0290-word-pattern.rb) | Easy |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
