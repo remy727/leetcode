@@ -29,7 +29,7 @@ Constraints:
 # @return {Integer}
 def length_of_lis(nums)
   tails = Array.new
-  k = 0 # k is length of tails array
+  k = 0
   nums.each do |num|
     start, finish = 0, k
     while start != finish
