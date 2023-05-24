@@ -44,6 +44,7 @@
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
 | 59 | Spiral Matrix II | [Ruby](./algorithms/ruby/0059-spiral-matrix-ii.rb) | Medium |
 | 62 | Unique Paths | [Ruby](./algorithms/ruby/0062-unique-paths.rb) | Medium |
+| 63 | Unique Paths II | [Ruby](./algorithms/ruby/0063-unique-paths-ii.rb) | Medium |
 | 64 | Minimum Path Sum | [Ruby](./algorithms/ruby/0064-minimum-path-sum.rb) | Medium |
 | 66 | Plus One | [Ruby](./algorithms/ruby/0066-plus-one.rb) | Easy |
 | 67 | Add Binary | [Ruby](./algorithms/ruby/0067-add-binary.rb) [Python3](./algorithms/python3/0067-add-binary.py) | Easy |
@@ -59,6 +60,7 @@
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 88 | Merge Sorted Array | [Ruby](./algorithms/ruby/0088-merge-sorted-array.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
+| 97 | Interleaving String | [Ruby](./algorithms/ruby/0097-interleaving-string.rb) | Medium |
 | 98 | Validate Binary Search Tree | [Ruby](./algorithms/ruby/0098-validate-binary-search-tree.rb) | Medium |
 | 100 | Same Tree | [Ruby](./algorithms/ruby/0100-same-tree.rb) | Easy |
 | 101 | Symmetric Tree | [Ruby](./algorithms/ruby/0101-symmetric-tree.rb) | Easy |
@@ -70,8 +72,10 @@
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 110 | Balanced Binary Tree | [Ruby](./algorithms/ruby/0110-balanced-binary-tree.rb) | Easy |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
+| 120 | Triangle | [Ruby](./algorithms/ruby/0120-triangle.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
+| 123 | Best Time to Buy and Sell Stock III | [Ruby](./algorithms/ruby/0123-best-time-to-buy-and-sell-stock-iii.rb) | Hard |
 | 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
 | 128 | Longest Consecutive Sequence | [Ruby](./algorithms/ruby/0128-longest-consecutive-sequence.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
@@ -89,6 +93,7 @@
 | 167 | Two Sum II - Input Array Is Sorted | [Ruby](./algorithms/ruby/0167-two-sum-ii-input-array-is-sorted.rb) | Medium |
 | 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
+| 188 | Best Time to Buy and Sell Stock IV | [Ruby](./algorithms/ruby/0188-best-time-to-buy-and-sell-stock-iv.rb) | Hard |
 | 189 | Rotate Array | [Ruby](./algorithms/ruby/0189-rotate-array.rb) | Medium |
 | 198 | House Robber | [Ruby](./algorithms/ruby/0198-house-robber.rb) | Medium |
 | 199 | Binary Tree Right Side View | [Ruby](./algorithms/ruby/0199-binary-tree-right-side-view.rb) | Medium |
@@ -103,6 +108,7 @@
 | 215 | Kth Largest Element in an Array | [Ruby](./algorithms/ruby/0215-kth-largest-element-in-an-array.rb) | Medium |
 | 216 | Combination Sum III | [Ruby](./algorithms/ruby/0216-combination-sum-iii.rb) | Medium |
 | 219 | Contains Duplicate II | [Ruby](./algorithms/ruby/0219-contains-duplicate-ii.rb) | Easy |
+| 221 | Maximal Square | [Ruby](./algorithms/ruby/0221-maximal-square.rb) | Medium |
 | 224 | Basic Calculator | [Ruby](./algorithms/ruby/0224-basic-calculator.rb) | Hard |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
@@ -121,6 +127,7 @@
 | 289 | Game of Life | [Ruby](./algorithms/ruby/0289-game-of-life.rb) | Medium |
 | 290 | Word Pattern | [Ruby](./algorithms/ruby/0290-word-pattern.rb) | Easy |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
+| 300 | Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0300-longest-increasing-subsequence.rb) | Medium |
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
