@@ -86,6 +86,7 @@
 | 139 | Word Break | [Ruby](./algorithms/ruby/0139-word-break.rb) | Medium |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 148 | Sort List | [Ruby](./algorithms/ruby/0148-sort-list.rb) | Medium |
+| 149 | Max Points on a Line | [Ruby](./algorithms/ruby/0149-max-points-on-a-line.rb) | Hard |
 | 150 | Evaluate Reverse Polish Notation | [Ruby](./algorithms/ruby/0150-evaluate-reverse-polish-notation.rb) | Medium |
 | 151 | Reverse Words in a String | [Ruby](./algorithms/ruby/0151-reverse-words-in-a-string.rb) | Medium |
 | 152 | Maximum Product Subarray | [Ruby](./algorithms/ruby/0152-maximum-product-subarray.rb) | Medium |
