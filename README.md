@@ -95,6 +95,7 @@
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
 | 167 | Two Sum II - Input Array Is Sorted | [Ruby](./algorithms/ruby/0167-two-sum-ii-input-array-is-sorted.rb) | Medium |
 | 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
+| 172 | Factorial Trailing Zeroes | [Ruby](./algorithms/ruby/0172-factorial-trailing-zeroes.rb) | Medium |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
 | 188 | Best Time to Buy and Sell Stock IV | [Ruby](./algorithms/ruby/0188-best-time-to-buy-and-sell-stock-iv.rb) | Hard |
 | 189 | Rotate Array | [Ruby](./algorithms/ruby/0189-rotate-array.rb) | Medium |
