@@ -39,6 +39,7 @@
 | 46 | Permutations | [Ruby](./algorithms/ruby/0046-permutations.rb) | Medium |
 | 48 | Rotate Image | [Ruby](./algorithms/ruby/0048-rotate-image.rb) | Medium |
 | 49 | Group Anagrams | [Ruby](./algorithms/ruby/0049-group-anagrams.rb) | Medium |
+| 50 | Pow(x, n) | [Ruby](./algorithms/ruby/0050-powx-n.rb) | Medium |
 | 54 | Spiral Matrix | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
 | 55 | Jump Game | [Ruby](./algorithms/ruby/0055-jump-game.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
