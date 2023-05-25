@@ -102,6 +102,7 @@
 | 198 | House Robber | [Ruby](./algorithms/ruby/0198-house-robber.rb) | Medium |
 | 199 | Binary Tree Right Side View | [Ruby](./algorithms/ruby/0199-binary-tree-right-side-view.rb) | Medium |
 | 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
+| 201 | Bitwise AND of Numbers Range | [Ruby](./algorithms/ruby/0201-bitwise-and-of-numbers-range.rb) | Medium |
 | 202 | Happy Number | [Ruby](./algorithms/ruby/0202-happy-number.rb) | Easy |
 | 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 206 | Reverse Linked List | [Ruby](./algorithms/ruby/0206-reverse-linked-list.rb) | Easy |
