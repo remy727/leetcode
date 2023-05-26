@@ -25,6 +25,7 @@
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |
 | 23 | Merge k Sorted Lists | [Ruby](./algorithms/ruby/0023-merge-k-sorted-lists.rb) | Hard |
 | 24 | Swap Nodes in Pairs | [Ruby](./algorithms/ruby/0024-swap-nodes-in-pairs.rb) | Medium |
+| 25 | Reverse Nodes in k-Group | [Ruby](./algorithms/ruby/0025-reverse-nodes-in-k-group.rb) | Hard |
 | 26 | Remove Duplicates from Sorted Array | [Ruby](./algorithms/ruby/0026-remove-duplicates-from-sorted-array.rb) | Easy |
 | 27 | Remove Element | [Ruby](./algorithms/ruby/0027-remove-element.rb) | Easy |
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
