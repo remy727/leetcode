@@ -45,6 +45,7 @@
 | 55 | Jump Game | [Ruby](./algorithms/ruby/0055-jump-game.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
 | 59 | Spiral Matrix II | [Ruby](./algorithms/ruby/0059-spiral-matrix-ii.rb) | Medium |
+| 61 | Rotate List | [Ruby](./algorithms/ruby/0061-rotate-list.rb) | Medium |
 | 62 | Unique Paths | [Ruby](./algorithms/ruby/0062-unique-paths.rb) | Medium |
 | 63 | Unique Paths II | [Ruby](./algorithms/ruby/0063-unique-paths-ii.rb) | Medium |
 | 64 | Minimum Path Sum | [Ruby](./algorithms/ruby/0064-minimum-path-sum.rb) | Medium |
@@ -60,6 +61,7 @@
 | 76 | Minimum Window Substring | [Ruby](./algorithms/ruby/0076-minimum-window-substring.rb) | Hard |
 | 80 | Remove Duplicates from Sorted Array II | [Ruby](./algorithms/ruby/0080-remove-duplicates-from-sorted-array-ii.rb) | Medium |
 | 82 | Remove Duplicates from Sorted List II | [Ruby](./algorithms/ruby/0082-remove-duplicates-from-sorted-list-ii.rb) | Medium |
+| 86 | Partition List | [Ruby](./algorithms/ruby/0086-partition-list.rb) | Medium |
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 88 | Merge Sorted Array | [Ruby](./algorithms/ruby/0088-merge-sorted-array.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
@@ -92,6 +94,7 @@
 | 139 | Word Break | [Ruby](./algorithms/ruby/0139-word-break.rb) | Medium |
 | 141 | Linked List Cycle | [Ruby](./algorithms/ruby/0141-linked-list-cycle.rb) | Easy |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
+| 146 | LRU Cache | [Ruby](./algorithms/ruby/0146-lru-cache.rb) | Medium |
 | 148 | Sort List | [Ruby](./algorithms/ruby/0148-sort-list.rb) | Medium |
 | 149 | Max Points on a Line | [Ruby](./algorithms/ruby/0149-max-points-on-a-line.rb) | Hard |
 | 150 | Evaluate Reverse Polish Notation | [Ruby](./algorithms/ruby/0150-evaluate-reverse-polish-notation.rb) | Medium |
