@@ -100,6 +100,7 @@
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
 | 188 | Best Time to Buy and Sell Stock IV | [Ruby](./algorithms/ruby/0188-best-time-to-buy-and-sell-stock-iv.rb) | Hard |
 | 189 | Rotate Array | [Ruby](./algorithms/ruby/0189-rotate-array.rb) | Medium |
+| 191 | Number of 1 Bits | [Ruby](./algorithms/ruby/0191-number-of-1-bits.rb) | Easy |
 | 198 | House Robber | [Ruby](./algorithms/ruby/0198-house-robber.rb) | Medium |
 | 199 | Binary Tree Right Side View | [Ruby](./algorithms/ruby/0199-binary-tree-right-side-view.rb) | Medium |
 | 200 | Number of Islands | [Ruby](./algorithms/ruby/0200-number-of-islands.rb) | Medium |
