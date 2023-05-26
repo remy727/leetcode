@@ -221,6 +221,7 @@
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
+| 1140 | Stone Game II | [Ruby](./algorithms/ruby/1140-stone-game-ii.rb) | Medium |
 | 1143 | Longest Common Subsequence | [Ruby](./algorithms/ruby/1143-longest-common-subsequence.rb) | Medium |
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | [Ruby](./algorithms/ruby/1161-maximum-level-sum-of-a-binary-tree.rb) | Medium |
