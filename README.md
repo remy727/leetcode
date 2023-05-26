@@ -59,6 +59,7 @@
 | 74 | Search a 2D Matrix | [Ruby](./algorithms/ruby/0074-search-a-2d-matrix.rb) | Medium |
 | 76 | Minimum Window Substring | [Ruby](./algorithms/ruby/0076-minimum-window-substring.rb) | Hard |
 | 80 | Remove Duplicates from Sorted Array II | [Ruby](./algorithms/ruby/0080-remove-duplicates-from-sorted-array-ii.rb) | Medium |
+| 82 | Remove Duplicates from Sorted List II | [Ruby](./algorithms/ruby/0082-remove-duplicates-from-sorted-list-ii.rb) | Medium |
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 88 | Merge Sorted Array | [Ruby](./algorithms/ruby/0088-merge-sorted-array.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
