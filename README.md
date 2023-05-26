@@ -86,6 +86,7 @@
 | 136 | Single Number | [Ruby](./algorithms/ruby/0136-single-number.rb) | Easy |
 | 137 | Single Number II | [Ruby](./algorithms/ruby/0137-single-number-ii.rb) | Medium |
 | 139 | Word Break | [Ruby](./algorithms/ruby/0139-word-break.rb) | Medium |
+| 141 | Linked List Cycle | [Ruby](./algorithms/ruby/0141-linked-list-cycle.rb) | Easy |
 | 142 | Linked List Cycle II | [Ruby](./algorithms/ruby/0142-linked-list-cycle-ii.rb) | Medium |
 | 148 | Sort List | [Ruby](./algorithms/ruby/0148-sort-list.rb) | Medium |
 | 149 | Max Points on a Line | [Ruby](./algorithms/ruby/0149-max-points-on-a-line.rb) | Hard |
