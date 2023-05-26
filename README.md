@@ -61,6 +61,7 @@
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
 | 88 | Merge Sorted Array | [Ruby](./algorithms/ruby/0088-merge-sorted-array.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
+| 92 | Reverse Linked List II | [Ruby](./algorithms/ruby/0092-reverse-linked-list-ii.rb) | Medium |
 | 97 | Interleaving String | [Ruby](./algorithms/ruby/0097-interleaving-string.rb) | Medium |
 | 98 | Validate Binary Search Tree | [Ruby](./algorithms/ruby/0098-validate-binary-search-tree.rb) | Medium |
 | 100 | Same Tree | [Ruby](./algorithms/ruby/0100-same-tree.rb) | Easy |
