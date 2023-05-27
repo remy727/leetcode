@@ -244,6 +244,7 @@
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
+| 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
 | 1431 | Kids With the Greatest Number of Candies | [Ruby](./algorithms/ruby/1431-kids-with-the-greatest-number-of-candies.rb) | Easy |
 | 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
