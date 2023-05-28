@@ -79,6 +79,7 @@
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 110 | Balanced Binary Tree | [Ruby](./algorithms/ruby/0110-balanced-binary-tree.rb) | Easy |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
+| 117 | Populating Next Right Pointers in Each Node II | [Ruby](./algorithms/ruby/0117-populating-next-right-pointers-in-each-node-ii.rb) | Medium |
 | 120 | Triangle | [Ruby](./algorithms/ruby/0120-triangle.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
