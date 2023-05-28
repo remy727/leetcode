@@ -259,6 +259,7 @@
 | 1498 | Number of Subsequences That Satisfy the Given Sum Condition | [Ruby](./algorithms/ruby/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.rb) | Medium |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
+| 1547 | Minimum Cost to Cut a Stick | [Ruby](./algorithms/ruby/1547-minimum-cost-to-cut-a-stick.rb) | Hard |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [Ruby](./algorithms/ruby/1557-minimum-number-of-vertices-to-reach-all-nodes.rb) | Medium |
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
