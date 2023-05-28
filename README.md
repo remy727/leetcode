@@ -73,6 +73,7 @@
 | 102 | Binary Tree Level Order Traversal | [Ruby](./algorithms/ruby/0102-binary-tree-level-order-traversal.rb) | Medium |
 | 103 | Binary Tree Zigzag Level Order Traversal | [Ruby](./algorithms/ruby/0103-binary-tree-zigzag-level-order-traversal.rb) | Medium |
 | 104 | Maximum Depth of Binary Tree | [Ruby](./algorithms/ruby/0104-maximum-depth-of-binary-tree.rb) [Python3](./algorithms/python3/0104-maximum-depth-of-binary-tree.py) | Easy |
+| 105 | Construct Binary Tree from Preorder and Inorder Traversal | [Ruby](./algorithms/ruby/0105-construct-binary-tree-from-preorder-and-inorder-traversal.rb) | Medium |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | [Ruby](./algorithms/ruby/0106-construct-binary-tree-from-inorder-and-postorder-traversal.rb) | Medium |
 | 108 | Convert Sorted Array to Binary Search Tree | [Ruby](./algorithms/ruby/0108-convert-sorted-array-to-binary-search-tree.rb) | Easy |
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
