@@ -189,6 +189,7 @@
 | 605 | Can Place Flowers | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
 | 621 | Task Scheduler | [Ruby](./algorithms/ruby/0621-task-scheduler.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
+| 637 | Average of Levels in Binary Tree | [Ruby](./algorithms/ruby/0637-average-of-levels-in-binary-tree.rb) | Easy |
 | 643 | Maximum Average Subarray I | [Ruby](./algorithms/ruby/0643-maximum-average-subarray-i.rb) | Easy |
 | 649 | Dota2 Senate | [Ruby](./algorithms/ruby/0649-dota2-senate.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
