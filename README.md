@@ -86,6 +86,7 @@
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
 | 123 | Best Time to Buy and Sell Stock III | [Ruby](./algorithms/ruby/0123-best-time-to-buy-and-sell-stock-iii.rb) | Hard |
+| 124 | Binary Tree Maximum Path Sum | [Ruby](./algorithms/ruby/0124-binary-tree-maximum-path-sum.rb) | Hard |
 | 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
 | 128 | Longest Consecutive Sequence | [Ruby](./algorithms/ruby/0128-longest-consecutive-sequence.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
@@ -129,6 +130,7 @@
 | 216 | Combination Sum III | [Ruby](./algorithms/ruby/0216-combination-sum-iii.rb) | Medium |
 | 219 | Contains Duplicate II | [Ruby](./algorithms/ruby/0219-contains-duplicate-ii.rb) | Easy |
 | 221 | Maximal Square | [Ruby](./algorithms/ruby/0221-maximal-square.rb) | Medium |
+| 222 | Count Complete Tree Nodes | [Ruby](./algorithms/ruby/0222-count-complete-tree-nodes.rb) | Medium |
 | 224 | Basic Calculator | [Ruby](./algorithms/ruby/0224-basic-calculator.rb) | Hard |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
