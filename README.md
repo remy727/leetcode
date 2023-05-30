@@ -129,6 +129,7 @@
 | 209 | Minimum Size Subarray Sum | [Ruby](./algorithms/ruby/0209-minimum-size-subarray-sum.rb) | Medium |
 | 210 | Course Schedule II | [Ruby](./algorithms/ruby/0210-course-schedule-ii.rb) | Medium |
 | 211 | Design Add and Search Words Data Structure | [Ruby](./algorithms/ruby/0211-design-add-and-search-words-data-structure.rb) | Medium |
+| 212 | Word Search II | [Ruby](./algorithms/ruby/0212-word-search-ii.rb) | Hard |
 | 215 | Kth Largest Element in an Array | [Ruby](./algorithms/ruby/0215-kth-largest-element-in-an-array.rb) | Medium |
 | 216 | Combination Sum III | [Ruby](./algorithms/ruby/0216-combination-sum-iii.rb) | Medium |
 | 219 | Contains Duplicate II | [Ruby](./algorithms/ruby/0219-contains-duplicate-ii.rb) | Easy |
