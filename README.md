@@ -59,6 +59,7 @@
 | 73 | Set Matrix Zeroes | [Ruby](./algorithms/ruby/0073-set-matrix-zeroes.rb) | Medium |
 | 74 | Search a 2D Matrix | [Ruby](./algorithms/ruby/0074-search-a-2d-matrix.rb) | Medium |
 | 76 | Minimum Window Substring | [Ruby](./algorithms/ruby/0076-minimum-window-substring.rb) | Hard |
+| 77 | Combinations | [Ruby](./algorithms/ruby/0077-combinations.rb) | Medium |
 | 80 | Remove Duplicates from Sorted Array II | [Ruby](./algorithms/ruby/0080-remove-duplicates-from-sorted-array-ii.rb) | Medium |
 | 82 | Remove Duplicates from Sorted List II | [Ruby](./algorithms/ruby/0082-remove-duplicates-from-sorted-list-ii.rb) | Medium |
 | 86 | Partition List | [Ruby](./algorithms/ruby/0086-partition-list.rb) | Medium |
