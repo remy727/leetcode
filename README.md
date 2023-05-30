@@ -90,6 +90,7 @@
 | 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
 | 128 | Longest Consecutive Sequence | [Ruby](./algorithms/ruby/0128-longest-consecutive-sequence.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
+| 130 | Surrounded Regions | [Ruby](./algorithms/ruby/0130-surrounded-regions.rb) | Medium |
 | 133 | Clone Graph | [Ruby](./algorithms/ruby/0133-clone-graph.rb) | Medium |
 | 134 | Gas Station | [Ruby](./algorithms/ruby/0134-gas-station.rb) | Easy |
 | 135 | Candy | [Ruby](./algorithms/ruby/0135-candy.rb) | Hard |
@@ -122,6 +123,7 @@
 | 202 | Happy Number | [Ruby](./algorithms/ruby/0202-happy-number.rb) | Easy |
 | 205 | Isomorphic Strings | [Ruby](./algorithms/ruby/0205-isomorphic-strings.rb) | Easy |
 | 206 | Reverse Linked List | [Ruby](./algorithms/ruby/0206-reverse-linked-list.rb) | Easy |
+| 207 | Course Schedule | [Ruby](./algorithms/ruby/0207-course-schedule.rb) | Medium |
 | 208 | Implement Trie (Prefix Tree) | [Ruby](./algorithms/ruby/0208-implement-trie-prefix-tree.rb) | Medium |
 | 209 | Minimum Size Subarray Sum | [Ruby](./algorithms/ruby/0209-minimum-size-subarray-sum.rb) | Medium |
 | 210 | Course Schedule II | [Ruby](./algorithms/ruby/0210-course-schedule-ii.rb) | Medium |
