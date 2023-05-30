@@ -198,6 +198,7 @@
 | 700 | Search in a Binary Search Tree | [Ruby](./algorithms/ruby/0700-search-in-a-binary-search-tree.rb) | Easy |
 | 703 | Kth Largest Element in a Stream | [Ruby](./algorithms/ruby/0703-kth-largest-element-in-a-stream.rb) | Easy |
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
+| 705 | Design HashSet | [Ruby](./algorithms/ruby/0705-design-hashset.rb) | Easy |
 | 714 | Best Time to Buy and Sell Stock with Transaction | [Ruby](./algorithms/ruby/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.rb) | Medium |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
