@@ -88,6 +88,7 @@
 | 123 | Best Time to Buy and Sell Stock III | [Ruby](./algorithms/ruby/0123-best-time-to-buy-and-sell-stock-iii.rb) | Hard |
 | 124 | Binary Tree Maximum Path Sum | [Ruby](./algorithms/ruby/0124-binary-tree-maximum-path-sum.rb) | Hard |
 | 125 | Valid Palindrome | [Ruby](./algorithms/ruby/0125-valid-palindrome.rb) | Easy |
+| 127 | Word Ladder | [Ruby](./algorithms/ruby/0127-word-ladder.rb) | Hard |
 | 128 | Longest Consecutive Sequence | [Ruby](./algorithms/ruby/0128-longest-consecutive-sequence.rb) | Medium |
 | 129 | Sum Root to Leaf Numbers | [Ruby](./algorithms/ruby/0129-sum-root-to-leaf-numbers.rb) | Medium |
 | 130 | Surrounded Regions | [Ruby](./algorithms/ruby/0130-surrounded-regions.rb) | Medium |
@@ -173,6 +174,7 @@
 | 417 | Pacific Atlantic Water Flow | [Ruby](./algorithms/ruby/0417-pacific-atlantic-water-flow.rb) | Medium |
 | 424 | Longest Repeating Character Replacement | [Ruby](./algorithms/ruby/0424-longest-repeating-character-replacement.rb) | Medium |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
+| 433 | Minimum Genetic Mutation | [Ruby](./algorithms/ruby/0433-minimum-genetic-mutation.rb) | Medium |
 | 435 | Non-overlapping Intervals | [Ruby](./algorithms/ruby/0435-non-overlapping-intervals.rb) | Medium |
 | 437 | Path Sum III | [Ruby](./algorithms/ruby/0437-path-sum-iii.rb) | Medium |
 | 438 | Find All Anagrams in a String | [Ruby](./algorithms/ruby/0438-find-all-anagrams-in-a-string.rb) | Medium |
@@ -222,6 +224,7 @@
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
 | 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
+| 909 | Snakes and Ladders | [Ruby](./algorithms/ruby/0909-snakes-and-ladders.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 933 | Number of Recent Calls | [Ruby](./algorithms/ruby/0933-number-of-recent-calls.rb) | Easy |
 | 934 | Shortest Bridge | [Ruby](./algorithms/ruby/0934-shortest-bridge.rb) | Medium |
