@@ -32,6 +32,7 @@
 | 28 | Find the Index of the First Occurrence in a String | [Ruby](./algorithms/ruby/0028-find-the-index-of-the-first-occurrence-in-a-string.rb) | Medium |
 | 30 | Substring with Concatenation of All Words | [Ruby](./algorithms/ruby/0030-substring-with-concatenation-of-all-words.rb) | Hard |
 | 33 | Search in Rotated Sorted Array | [Ruby](./algorithms/ruby/0033-search-in-rotated-sorted-array.rb) | Medium |
+| 34 | Find First and Last Position of Element in Sorted Array | [Ruby](./algorithms/ruby/0034-find-first-and-last-position-of-element-in-sorted-array.rb) | Medium |
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 36 | Valid Sudoku | [Ruby](./algorithms/ruby/0036-valid-sudoku.rb) | Medium |
 | 39 | Combination Sum | [Ruby](./algorithms/ruby/0039-combination-sum.rb) | Medium |
@@ -112,6 +113,7 @@
 | 150 | Evaluate Reverse Polish Notation | [Ruby](./algorithms/ruby/0150-evaluate-reverse-polish-notation.rb) | Medium |
 | 151 | Reverse Words in a String | [Ruby](./algorithms/ruby/0151-reverse-words-in-a-string.rb) | Medium |
 | 152 | Maximum Product Subarray | [Ruby](./algorithms/ruby/0152-maximum-product-subarray.rb) | Medium |
+| 153 | Find Minimum in Rotated Sorted Array | [Ruby](./algorithms/ruby/0153-find-minimum-in-rotated-sorted-array.rb) | Medium |
 | 155 | Min Stack | [Ruby](./algorithms/ruby/0155-min-stack.rb) | Medium |
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
 | 167 | Two Sum II - Input Array Is Sorted | [Ruby](./algorithms/ruby/0167-two-sum-ii-input-array-is-sorted.rb) | Medium |
