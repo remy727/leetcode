@@ -23,6 +23,7 @@
 | 19 | Remove Nth Node From End of List | [Ruby](./algorithms/ruby/0019-remove-nth-node-from-end-of-list.rb) | Medium |
 | 20 | Valid Parentheses | [Ruby](./algorithms/ruby/0020-valid-parentheses.rb) | Easy |
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |
+| 22 | Generate Parentheses | [Ruby](./algorithms/ruby/0022-generate-parentheses.rb) | Medium |
 | 23 | Merge k Sorted Lists | [Ruby](./algorithms/ruby/0023-merge-k-sorted-lists.rb) | Hard |
 | 24 | Swap Nodes in Pairs | [Ruby](./algorithms/ruby/0024-swap-nodes-in-pairs.rb) | Medium |
 | 25 | Reverse Nodes in k-Group | [Ruby](./algorithms/ruby/0025-reverse-nodes-in-k-group.rb) | Hard |
