@@ -159,6 +159,7 @@
 | 283 | Move Zeroes | [Ruby](./algorithms/ruby/0283-move-zeroes.rb) | Easy |
 | 289 | Game of Life | [Ruby](./algorithms/ruby/0289-game-of-life.rb) | Medium |
 | 290 | Word Pattern | [Ruby](./algorithms/ruby/0290-word-pattern.rb) | Easy |
+| 295 | Find Median from Data Stream | [Ruby](./algorithms/ruby/0295-find-median-from-data-stream.rb) | Hard |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 300 | Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0300-longest-increasing-subsequence.rb) | Medium |
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
@@ -169,6 +170,7 @@
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
 | 347 | Top K Frequent Elements | [Ruby](./algorithms/ruby/0347-top-k-frequent-elements.rb) | Medium |
+| 373 | Find K Pairs with Smallest Sums | [Ruby](./algorithms/ruby/0373-find-k-pairs-with-smallest-sums.rb) | Medium |
 | 374 | Guess Number Higher or Lower | [Ruby](./algorithms/ruby/0374-guess-number-higher-or-lower.rb) | Easy |
 | 380 | Insert Delete GetRandom O(1) | [Ruby](./algorithms/ruby/0380-insert-delete-getrandom-o1.rb) | Medium |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
