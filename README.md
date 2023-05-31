@@ -186,6 +186,7 @@
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
+| 530 | Minimum Absolute Difference in BST | [Ruby](./algorithms/ruby/0530-minimum-absolute-difference-in-bst.rb) | Easy |
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
 | 543 | Diameter of Binary Tree | [Ruby](./algorithms/ruby/0543-diameter-of-binary-tree.rb) | Easy |
 | 547 | Number of Provinces | [Ruby](./algorithms/ruby/0547-number-of-provinces.rb) | Medium |
