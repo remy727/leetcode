@@ -258,6 +258,7 @@
 | 1137 | N-th Tribonacci Number | [Ruby](./algorithms/ruby/1137-n-th-tribonacci-number.rb) | Easy |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
+| 1396 | Design Underground System | [Ruby](./algorithms/ruby/1396-design-underground-system.rb) | Medium |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
