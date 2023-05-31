@@ -48,7 +48,7 @@ end
 # **************** #
 
 require "test/unit"
-class Test_spiral_order < Test::Unit::TestCase
+class Test_can_jump < Test::Unit::TestCase
   def test_
     assert_equal true, can_jump([2, 3, 1, 1, 4])
     assert_equal false, can_jump([3, 2, 1, 0, 4])

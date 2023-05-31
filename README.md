@@ -43,6 +43,7 @@
 | 49 | Group Anagrams | [Ruby](./algorithms/ruby/0049-group-anagrams.rb) | Medium |
 | 50 | Pow(x, n) | [Ruby](./algorithms/ruby/0050-powx-n.rb) | Medium |
 | 52 | N-Queens II | [Ruby](./algorithms/ruby/0052-n-queens-ii.rb) | Hard |
+| 53 | Maximum Subarray | [Ruby](./algorithms/ruby/0053-maximum-subarray.rb) | Medium |
 | 54 | Spiral Matrix | [Ruby](./algorithms/ruby/0054-spiral-matrix.rb) | Medium |
 | 55 | Jump Game | [Ruby](./algorithms/ruby/0055-jump-game.rb) | Medium |
 | 58 | Length of Last Word | [Ruby](./algorithms/ruby/0058-length-of-last-word.rb) | Easy |
@@ -232,6 +233,7 @@
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 909 | Snakes and Ladders | [Ruby](./algorithms/ruby/0909-snakes-and-ladders.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
+| 918 | Maximum Sum Circular Subarray | [Ruby](./algorithms/ruby/0918-maximum-sum-circular-subarray.rb) | Medium |
 | 933 | Number of Recent Calls | [Ruby](./algorithms/ruby/0933-number-of-recent-calls.rb) | Easy |
 | 934 | Shortest Bridge | [Ruby](./algorithms/ruby/0934-shortest-bridge.rb) | Medium |
 | 946 | Validate Stack Sequences | [Ruby](./algorithms/ruby/0946-validate-stack-sequences.rb) | Medium |
