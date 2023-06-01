@@ -344,6 +344,10 @@
 | 196 | Delete Duplicate Emails | [Database](./database/0196-delete-duplicate-emails.sql) | Easy |
 | 197 | Rising Temperature | [Database](./database/0197-rising-temperature.sql) | Easy |
 | 584 | Find Customer Referee | [Database](./database/0584-find-customer-referee.sql) | Easy |
+| 595 | Big Countries | [Database](./database/0595-big-countries.sql) | Easy |
+| 1148 | Article Views I | [Database](./database/1148-article-views-i.sql) | Easy |
+| 1683 | Invalid Tweets | [Database](./database/1683-invalid-tweets.sql) | Easy |
+| 1757 | Recyclable and Low Fat Products | [Database](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
 
 ### Shell
 | # | Title | Solution | Difficulty |
