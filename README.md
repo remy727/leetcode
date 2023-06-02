@@ -347,6 +347,7 @@
 | 584 | Find Customer Referee | [Database](./database/0584-find-customer-referee.sql) | Easy |
 | 595 | Big Countries | [Database](./database/0595-big-countries.sql) | Easy |
 | 1148 | Article Views I | [Database](./database/1148-article-views-i.sql) | Easy |
+| 1378 | Replace Employee ID With The Unique Identifier | [Database](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
 | 1683 | Invalid Tweets | [Database](./database/1683-invalid-tweets.sql) | Easy |
 | 1757 | Recyclable and Low Fat Products | [Database](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
 
