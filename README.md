@@ -307,6 +307,7 @@
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 2095 | Delete the Middle Node of a Linked List | [Ruby](./algorithms/ruby/2095-delete-the-middle-node-of-a-linked-list.rb) | Medium |
+| 2101 | Detonate the Maximum Bombs | [Ruby](./algorithms/ruby/2101-detonate-the-maximum-bombs.rb) | Medium |
 | 2130 | Maximum Twin Sum of a Linked List | [Ruby](./algorithms/ruby/2130-maximum-twin-sum-of-a-linked-list.rb) | Medium |
 | 2131 | Longest Palindrome by Concatenating Two Letter Words | [Ruby](./algorithms/ruby/2131-longest-palindrome-by-concatenating-two-letter-words.rb) | Medium |
 | 2140 | Solving Questions With Brainpower | [Ruby](./algorithms/ruby/2140-solving-questions-with-brainpower.rb) | Medium |
