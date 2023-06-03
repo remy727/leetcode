@@ -256,6 +256,7 @@
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1091 | Shortest Path in Binary Matrix | [Ruby](./algorithms/ruby/1091-shortest-path-in-binary-matrix.rb) | Medium |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
+| 1137 | N-th Tribonacci Number | [Ruby](./algorithms/ruby/1137-n-th-tribonacci-number.rb) | Easy |
 | 1140 | Stone Game II | [Ruby](./algorithms/ruby/1140-stone-game-ii.rb) | Medium |
 | 1143 | Longest Common Subsequence | [Ruby](./algorithms/ruby/1143-longest-common-subsequence.rb) | Medium |
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
@@ -266,9 +267,9 @@
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
-| 1137 | N-th Tribonacci Number | [Ruby](./algorithms/ruby/1137-n-th-tribonacci-number.rb) | Easy |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
+| 1376 | Time Needed to Inform All Employees | [Ruby](./algorithms/ruby/1376-time-needed-to-inform-all-employees.rb) | Medium |
 | 1396 | Design Underground System | [Ruby](./algorithms/ruby/1396-design-underground-system.rb) | Medium |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
