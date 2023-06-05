@@ -263,6 +263,7 @@
 | 1161 | Maximum Level Sum of a Binary Tree | [Ruby](./algorithms/ruby/1161-maximum-level-sum-of-a-binary-tree.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
+| 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
