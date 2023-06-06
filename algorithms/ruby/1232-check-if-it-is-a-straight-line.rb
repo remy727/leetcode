@@ -42,7 +42,7 @@ end
 require "test/unit"
 class Test_check_straight_line < Test::Unit::TestCase
   def test_
-    assert_equal true, check_straight_line([[1,2],[2,3],[3,4],[4,5],[5,6],[6,7]])
-    assert_equal false, check_straight_line([[1,1],[2,2],[3,4],[4,5],[5,6],[7,7]])
+    assert_equal true, check_straight_line([[1, 2], [2, 3], [3, 4], [4, 5], [5, 6], [6, 7]])
+    assert_equal false, check_straight_line([[1, 1], [2, 2], [3, 4], [4, 5], [5, 6], [7, 7]])
   end
 end
