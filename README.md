@@ -352,6 +352,7 @@
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
 | 1148 | Article Views I | [Database](./database/1148-article-views-i.sql) | Easy |
 | 1378 | Replace Employee ID With The Unique Identifier | [Database](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | [Database](./database/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | Easy |
 | 1683 | Invalid Tweets | [Database](./database/1683-invalid-tweets.sql) | Easy |
 | 1757 | Recyclable and Low Fat Products | [Database](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
 
