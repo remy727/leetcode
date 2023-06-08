@@ -268,6 +268,7 @@
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
+| 1351 | Count Negative Numbers in a Sorted Matrix | [Ruby](./algorithms/ruby/1351-count-negative-numbers-in-a-sorted-matrix.rb) | Easy |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1376 | Time Needed to Inform All Employees | [Ruby](./algorithms/ruby/1376-time-needed-to-inform-all-employees.rb) | Medium |
