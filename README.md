@@ -219,6 +219,7 @@
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 735 | Asteroid Collision | [Ruby](./algorithms/ruby/0735-asteroid-collision.rb) | Medium |
 | 739 | Daily Temperatures | [Ruby](./algorithms/ruby/0739-daily-temperatures.rb) | Medium |
+| 744 | Find Smallest Letter Greater Than Target | [Ruby](./algorithms/ruby/0744-find-smallest-letter-greater-than-target.rb) | Easy |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
