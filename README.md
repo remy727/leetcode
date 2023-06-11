@@ -260,6 +260,7 @@
 | 1137 | N-th Tribonacci Number | [Ruby](./algorithms/ruby/1137-n-th-tribonacci-number.rb) | Easy |
 | 1140 | Stone Game II | [Ruby](./algorithms/ruby/1140-stone-game-ii.rb) | Medium |
 | 1143 | Longest Common Subsequence | [Ruby](./algorithms/ruby/1143-longest-common-subsequence.rb) | Medium |
+| 1146 | Snapshot Array | [Ruby](./algorithms/ruby/1146-snapshot-array.rb) | Medium |
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | [Ruby](./algorithms/ruby/1161-maximum-level-sum-of-a-binary-tree.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
