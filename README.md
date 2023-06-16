@@ -294,6 +294,7 @@
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1547 | Minimum Cost to Cut a Stick | [Ruby](./algorithms/ruby/1547-minimum-cost-to-cut-a-stick.rb) | Hard |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [Ruby](./algorithms/ruby/1557-minimum-number-of-vertices-to-reach-all-nodes.rb) | Medium |
+| 1569 | Number of Ways to Reorder Array to Get Same BST | [Ruby](./algorithms/ruby/1569-number-of-ways-to-reorder-array-to-get-same-bst.rb) | Hard |
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
