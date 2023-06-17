@@ -264,6 +264,7 @@
 | 1155 | Number of Dice Rolls With Target Sum | [Ruby](./algorithms/ruby/1155-number-of-dice-rolls-with-target-sum.rb) | Medium |
 | 1161 | Maximum Level Sum of a Binary Tree | [Ruby](./algorithms/ruby/1161-maximum-level-sum-of-a-binary-tree.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
+| 1187 | Make Array Strictly Increasing | [Ruby](./algorithms/ruby/1187-make-array-strictly-increasing.rb) | Hard |
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
