@@ -252,6 +252,7 @@
 | 1004 | Max Consecutive Ones III | [Ruby](./algorithms/ruby/1004-max-consecutive-ones-iii.rb) | Medium |
 | 1011 | Capacity To Ship Packages Within D Days | [Ruby](./algorithms/ruby/1011-capacity-to-ship-packages-within-d-days.rb) | Medium |
 | 1020 | Number of Enclaves | [Ruby](./algorithms/ruby/1020-number-of-enclaves.rb) | Medium |
+| 1027 | Longest Arithmetic Subsequence | [Ruby](./algorithms/ruby/1027-longest-arithmetic-subsequence.rb) | Medium |
 | 1035 | Uncrossed Lines | [Ruby](./algorithms/ruby/1035-uncrossed-lines.rb) | Medium |
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
