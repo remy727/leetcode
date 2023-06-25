@@ -244,6 +244,7 @@
 | 946 | Validate Stack Sequences | [Ruby](./algorithms/ruby/0946-validate-stack-sequences.rb) | Medium |
 | 947 | Most Stones Removed with Same Row or Column | [Ruby](./algorithms/ruby/0947-most-stones-removed-with-same-row-or-column.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
+| 956 | Tallest Billboard | [Ruby](./algorithms/ruby/0956-tallest-billboard.rb) | Hard |
 | 958 | Check Completeness of a Binary Tree | [Ruby](./algorithms/ruby/0958-check-completeness-of-a-binary-tree.rb) | Medium |
 | 983 | Minimum Cost For Tickets | [Ruby](./algorithms/ruby/0983-minimum-cost-for-tickets.rb) | Medium |
 | 989 | Add to Array-Form of Integer | [Ruby](./algorithms/ruby/0989-add-to-array-form-of-integer.rb) | Easy |
