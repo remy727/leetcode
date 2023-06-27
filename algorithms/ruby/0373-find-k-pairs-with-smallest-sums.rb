@@ -39,32 +39,18 @@ Constraints:
 # @param {Integer[]} nums2
 # @param {Integer} k
 # @return {Integer[][]}
-# require 'priority_queue'
-require "algorithms"
-include Containers
-
-def k_smallest_pairs(nums1, nums2, k)
-  return [] if nums1.empty? || nums2.empty? || k == 0
-
-  pq = PriorityQueue.new
-  nums1.each_with_index do |num1, i|
-    pq.push([num1, nums2[0], 0], -(num1 + nums2[0]))
-    break if i + 1 >= k
-  end
-
+def k_smallest_pairs(a, b, k)
+  queue = a.map.with_index { [_1 + b[0], _2, 0] }
   result = []
   k.times do
-    break if pq.empty?
-
-    pair = pq.pop
-    result << [pair[0], nums2[pair[2]]]
-
-    next_index = pair[2] + 1
-    if next_index < nums2.length
-      pq.push([pair[0], nums2[next_index], next_index], -(pair[0] + nums2[next_index]))
-    end
+    break unless (_, a_i, b_i = queue.shift)
+    result << [a[a_i], b[b_i]]
+    b_i += 1
+    next unless b_i < b.size
+    sum = a[a_i] + b[b_i]
+    i = queue.bsearch_index { |q_sum, _, _| sum < q_sum } || queue.size
+    queue.insert(i, [sum, a_i, b_i])
   end
-
   result
 end
 
