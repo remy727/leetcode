@@ -331,6 +331,7 @@
 | 2215 | Find the Difference of Two Arrays | [Ruby](./algorithms/ruby/2215-find-the-difference-of-two-arrays.rb) | Easy |
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
+| 2305 | Fair Distribution of Cookies | [Ruby](./algorithms/ruby/2305-fair-distribution-of-cookies.rb) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
 | 2328 | Number of Increasing Paths in a Grid | [Ruby](./algorithms/ruby/2328-number-of-increasing-paths-in-a-grid.rb) | Hard |
 | 2336 | Smallest Number in Infinite Set | [Ruby](./algorithms/ruby/2336-smallest-number-in-infinite-set.rb) | Medium |
