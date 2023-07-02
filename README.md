@@ -303,6 +303,7 @@
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
 | 1575 | Count All Possible Routes | [Ruby](./algorithms/ruby/1575-count-all-possible-routes.rb) | Hard |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
+| 1601 | Maximum Number of Achievable Transfer Requests | [Ruby](./algorithms/ruby/1601-maximum-number-of-achievable-transfer-requests.rb) | Hard |
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
