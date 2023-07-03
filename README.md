@@ -229,6 +229,7 @@
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
 | 841 | Backspace String Compare | [Ruby](./algorithms/ruby/0841-keys-and-rooms.rb) | Medium |
 | 844 | Backspace String Compare | [Ruby](./algorithms/ruby/0844-backspace-string-compare.rb) | Easy |
+| 859 | Buddy Strings | [Ruby](./algorithms/ruby/0859-buddy-strings.rb) | Easy |
 | 864 | Backspace String Compare | [Ruby](./algorithms/ruby/0864-shortest-path-to-get-all-keys.rb) | Hard |
 | 872 | Leaf-Similar Trees | [Ruby](./algorithms/ruby/0872-leaf-similar-trees.rb) | Medium |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
