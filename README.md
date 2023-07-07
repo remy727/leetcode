@@ -323,6 +323,7 @@
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
+| 2024 | Maximize the Confusion of an Exam | [Ruby](./algorithms/ruby/2024-maximize-the-confusion-of-an-exam.rb) | Medium |
 | 2090 | K Radius Subarray Averages | [Ruby](./algorithms/ruby/2090-k-radius-subarray-averages.rb) | Medium |
 | 2095 | Delete the Middle Node of a Linked List | [Ruby](./algorithms/ruby/2095-delete-the-middle-node-of-a-linked-list.rb) | Medium |
 | 2101 | Detonate the Maximum Bombs | [Ruby](./algorithms/ruby/2101-detonate-the-maximum-bombs.rb) | Medium |
