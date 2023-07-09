@@ -362,20 +362,25 @@
 ### Database
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 175 | Combine Two Tables | [Database](./database/0175-combine-two-tables.sql) | Easy |
-| 181 | Employees Earning More Than Their Managers | [Database](./database/0181-employees-earning-more-than-their-managers.sql) | Easy |
-| 182 | Duplicate Emails | [Database](./database/0182-duplicate-emails.sql) | Easy |
-| 183 | Customers Who Never Order | [Database](./database/0183-customers-who-never-order.sql) | Easy |
-| 196 | Delete Duplicate Emails | [Database](./database/0196-delete-duplicate-emails.sql) | Easy |
-| 197 | Rising Temperature | [Database](./database/0197-rising-temperature.sql) | Easy |
-| 584 | Find Customer Referee | [Database](./database/0584-find-customer-referee.sql) | Easy |
-| 595 | Big Countries | [Database](./database/0595-big-countries.sql) | Easy |
+| 175 | Combine Two Tables | [MySQL](./database/0175-combine-two-tables.sql) | Easy |
+| 181 | Employees Earning More Than Their Managers | [MySQL](./database/0181-employees-earning-more-than-their-managers.sql) | Easy |
+| 182 | Duplicate Emails | [MySQL](./database/0182-duplicate-emails.sql) | Easy |
+| 183 | Customers Who Never Order | [MySQL](./database/0183-customers-who-never-order.sql) | Easy |
+| 196 | Delete Duplicate Emails | [MySQL](./database/0196-delete-duplicate-emails.sql) | Easy |
+| 197 | Rising Temperature | [MySQL](./database/0197-rising-temperature.sql) | Easy |
+| 570 | Managers with at Least 5 Direct Reports | [MySQL](./database/0570-managers-with-at-least-5-direct-reports.sql) | Medium |
+| 577 | Employee Bonus | [MySQL](./database/0577-employee-bonus.sql) | Easy |
+| 584 | Find Customer Referee | [MySQL](./database/0584-find-customer-referee.sql) | Easy |
+| 595 | Big Countries | [MySQL](./database/0595-big-countries.sql) | Easy |
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
-| 1148 | Article Views I | [Database](./database/1148-article-views-i.sql) | Easy |
-| 1378 | Replace Employee ID With The Unique Identifier | [Database](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
-| 1581 | Customer Who Visited but Did Not Make Any Transactions | [Database](./database/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | Easy |
-| 1683 | Invalid Tweets | [Database](./database/1683-invalid-tweets.sql) | Easy |
-| 1757 | Recyclable and Low Fat Products | [Database](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
+| 1148 | Article Views I | [MySQL](./database/1148-article-views-i.sql) | Easy |
+| 1280 | Students and Examinations | [MySQL](./database/1280-students-and-examinations.sql) | Easy |
+| 1378 | Replace Employee ID With The Unique Identifier | [MySQL](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
+| 1581 | Customer Who Visited but Did Not Make Any Transactions | [MySQL](./database/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | Easy |
+| 1661 | Average Time of Process per Machine | [MySQL](./database/1661-average-time-of-process-per-machine.sql) | Easy |
+| 1683 | Invalid Tweets | [MySQL](./database/1683-invalid-tweets.sql) | Easy |
+| 1757 | Recyclable and Low Fat Products | [MySQL](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
+| 1934 | Confirmation Rate | [MySQL](./database/1934-confirmation-rate.sql) | Medium |
 
 ### Shell
 | # | Title | Solution | Difficulty |
