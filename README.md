@@ -84,6 +84,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree | [Ruby](./algorithms/ruby/0108-convert-sorted-array-to-binary-search-tree.rb) | Easy |
 | 109 | Convert Sorted List to Binary Search Tree | [Ruby](./algorithms/ruby/0109-convert-sorted-list-to-binary-search-tree.rb) | Medium |
 | 110 | Balanced Binary Tree | [Ruby](./algorithms/ruby/0110-balanced-binary-tree.rb) | Easy |
+| 111 | Minimum Depth of Binary Tree | [Ruby](./algorithms/ruby/0111-minimum-depth-of-binary-tree.rb) | Easy |
 | 112 | Path Sum | [Ruby](./algorithms/ruby/0112-path-sum.rb) | Easy |
 | 113 | Path Sum II | [Ruby](./algorithms/ruby/0113-path-sum-ii.rb) | Medium |
 | 114 | Flatten Binary Tree to Linked List | [Ruby](./algorithms/ruby/0114-flatten-binary-tree-to-linked-list.rb) | Medium |
