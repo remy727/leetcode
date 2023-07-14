@@ -273,6 +273,7 @@
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1187 | Make Array Strictly Increasing | [Ruby](./algorithms/ruby/1187-make-array-strictly-increasing.rb) | Hard |
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
+| 1218 | Longest Arithmetic Subsequence of Given Difference | [Ruby](./algorithms/ruby/1218-longest-arithmetic-subsequence-of-given-difference.rb) | Medium |
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
