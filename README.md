@@ -319,6 +319,7 @@
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 1721 | Swapping Nodes in a Linked List | [Ruby](./algorithms/ruby/1721-swapping-nodes-in-a-linked-list.rb) | Medium |
 | 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
+| 1751 | Maximum Number of Events That Can Be Attended II | [Ruby](./algorithms/ruby/1751-maximum-number-of-events-that-can-be-attended-ii.rb) | Hard |
 | 1768 | Merge Strings Alternately | [Ruby](./algorithms/ruby/1768-merge-strings-alternately.rb) | Easy |
 | 1799 | Maximize Score After N Operations | [Ruby](./algorithms/ruby/1799-maximize-score-after-n-operations.rb) | Hard |
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
