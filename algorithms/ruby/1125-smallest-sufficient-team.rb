@@ -38,29 +38,23 @@ Constraints:
 # @return {Integer[]}
 def smallest_sufficient_team(req_skills, people)
   n = req_skills.size
-  skill_map, dp = {}, Array.new(1 << n, [n + 1]) # Initialize.
+  skill_map, dp = {}, Array.new(1 << n, [n + 1])
 
-  # Map skills to index.
   req_skills.each_with_index { |rs, idx| skill_map[rs] = idx }
 
-  # Create bitmask for each person representing his skills
   people = people.map { |p| p.inject(0) { |acc, skill| acc | (1 << skill_map[skill]) } }
 
-  # For covering no skills, 0 member is enough although having 0 members are not possible
   dp[0] = [0, []]
 
   people.each_with_index do |skills, p|
     ((1 << req_skills.length) - 1).downto(0) do |i|
-      # skills obtained by adding new person
       nex = i | skills
-      # if new person adds any new skill then we add him to team and update team size and new team in dp table
       if dp[nex][0] > dp[i][0] + 1
         dp[nex] = [dp[i][0] + 1, dp[i][1] + [p]]
       end
     end
   end
 
-  # return the team
   dp[(1 << req_skills.size) - 1][1]
 end
 
