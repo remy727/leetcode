@@ -212,6 +212,7 @@
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
 | 662 | Maximum Width of Binary Tree | [Ruby](./algorithms/ruby/0662-maximum-width-of-binary-tree.rb) | Medium |
 | 673 | Number of Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0673-number-of-longest-increasing-subsequence.rb) | Medium |
+| 688 | Knight Probability in Chessboard | [Ruby](./algorithms/ruby/0688-knight-probability-in-chessboard.rb) | Medium |
 | 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
 | 700 | Search in a Binary Search Tree | [Ruby](./algorithms/ruby/0700-search-in-a-binary-search-tree.rb) | Easy |
 | 703 | Kth Largest Element in a Stream | [Ruby](./algorithms/ruby/0703-kth-largest-element-in-a-stream.rb) | Easy |
