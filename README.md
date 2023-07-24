@@ -382,6 +382,7 @@
 | 577 | Employee Bonus | [MySQL](./database/0577-employee-bonus.sql) | Easy |
 | 584 | Find Customer Referee | [MySQL](./database/0584-find-customer-referee.sql) | Easy |
 | 595 | Big Countries | [MySQL](./database/0595-big-countries.sql) | Easy |
+| 620 | Not Boring Movies | [MySQL](./database/0620-not-boring-movies.sql) | Easy |
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
 | 1148 | Article Views I | [MySQL](./database/1148-article-views-i.sql) | Easy |
 | 1280 | Students and Examinations | [MySQL](./database/1280-students-and-examinations.sql) | Easy |
