@@ -384,6 +384,7 @@
 | 595 | Big Countries | [MySQL](./database/0595-big-countries.sql) | Easy |
 | 620 | Not Boring Movies | [MySQL](./database/0620-not-boring-movies.sql) | Easy |
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
+| 1075 | Project Employees I | [Ruby](./database/1075-project-employees-i.sql) | Easy |
 | 1148 | Article Views I | [MySQL](./database/1148-article-views-i.sql) | Easy |
 | 1251 | Average Selling Price | [MySQL](./database/1251-average-selling-price.sql) | Easy |
 | 1280 | Students and Examinations | [MySQL](./database/1280-students-and-examinations.sql) | Easy |
