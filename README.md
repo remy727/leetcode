@@ -242,6 +242,7 @@
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
 | 879 | Profitable Schemes | [Ruby](./algorithms/ruby/0879-profitable-schemes.rb) | Hard |
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
+| 894 | All Possible Full Binary Trees | [Ruby](./algorithms/ruby/0894-all-possible-full-binary-trees.rb) | Medium |
 | 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 909 | Snakes and Ladders | [Ruby](./algorithms/ruby/0909-snakes-and-ladders.rb) | Medium |
