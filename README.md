@@ -385,6 +385,7 @@
 | 620 | Not Boring Movies | [MySQL](./database/0620-not-boring-movies.sql) | Easy |
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
 | 1148 | Article Views I | [MySQL](./database/1148-article-views-i.sql) | Easy |
+| 1251 | Average Selling Price | [MySQL](./database/1251-average-selling-price.sql) | Easy |
 | 1280 | Students and Examinations | [MySQL](./database/1280-students-and-examinations.sql) | Easy |
 | 1378 | Replace Employee ID With The Unique Identifier | [MySQL](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | [MySQL](./database/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | Easy |
