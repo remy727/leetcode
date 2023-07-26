@@ -331,6 +331,7 @@
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
+| 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
