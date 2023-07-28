@@ -193,6 +193,7 @@
 | 445 | Add Two Numbers II | [Ruby](./algorithms/ruby/0445-add-two-numbers-ii.rb) | Medium |
 | 450 | Delete Node in a BST | [Ruby](./algorithms/ruby/0450-delete-node-in-a-bst.rb) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [Ruby](./algorithms/ruby/0452-minimum-number-of-arrows-to-burst-balloons.rb) | Medium |
+| 486 | Predict the Winner | [Ruby](./algorithms/ruby/0486-predict-the-winner.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
