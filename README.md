@@ -230,6 +230,7 @@
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
 | 790 | Domino and Tromino Tiling | [Ruby](./algorithms/ruby/0790-domino-and-tromino-tiling.rb) | Medium |
 | 802 | Find Eventual Safe States | [Ruby](./algorithms/ruby/0802-find-eventual-safe-states.rb) | Medium |
+| 808 | Soup Servings | [Ruby](./algorithms/python3/0808-soup-servings.py) | Medium |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
 | 837 | New 21 Game | [Ruby](./algorithms/ruby/0837-new-21-game.rb) | Medium |
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
