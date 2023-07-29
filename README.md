@@ -383,6 +383,7 @@
 | 183 | Customers Who Never Order | [MySQL](./database/0183-customers-who-never-order.sql) | Easy |
 | 196 | Delete Duplicate Emails | [MySQL](./database/0196-delete-duplicate-emails.sql) | Easy |
 | 197 | Rising Temperature | [MySQL](./database/0197-rising-temperature.sql) | Easy |
+| 550 | Game Play Analysis IV | [MySQL](./database/0550-game-play-analysis-iv.sql) | Medium |
 | 570 | Managers with at Least 5 Direct Reports | [MySQL](./database/0570-managers-with-at-least-5-direct-reports.sql) | Medium |
 | 577 | Employee Bonus | [MySQL](./database/0577-employee-bonus.sql) | Easy |
 | 584 | Find Customer Referee | [MySQL](./database/0584-find-customer-referee.sql) | Easy |
@@ -391,10 +392,14 @@
 | 1068 | Product Sales Analysis I | [Ruby](./database/1068-product-sales-analysis-i.sql) | Easy |
 | 1075 | Project Employees I | [Ruby](./database/1075-project-employees-i.sql) | Easy |
 | 1148 | Article Views I | [MySQL](./database/1148-article-views-i.sql) | Easy |
+| 1174 | Immediate Food Delivery II | [MySQL](./database/1174-immediate-food-delivery-ii.sql) | Medium |
+| 1193 | Monthly Transactions I | [MySQL](./database/1193-monthly-transactions-i.sql) | Medium |
+| 1211 | Queries Quality and Percentage | [MySQL](./database/1211-queries-quality-and-percentage.sql) | Easy |
 | 1251 | Average Selling Price | [MySQL](./database/1251-average-selling-price.sql) | Easy |
 | 1280 | Students and Examinations | [MySQL](./database/1280-students-and-examinations.sql) | Easy |
 | 1378 | Replace Employee ID With The Unique Identifier | [MySQL](./database/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
 | 1581 | Customer Who Visited but Did Not Make Any Transactions | [MySQL](./database/1581-customer-who-visited-but-did-not-make-any-transactions.sql) | Easy |
+| 1633 | Percentage of Users Attended a Contest | [MySQL](./database/1633-percentage-of-users-attended-a-contest.sql) | Easy |
 | 1661 | Average Time of Process per Machine | [MySQL](./database/1661-average-time-of-process-per-machine.sql) | Easy |
 | 1683 | Invalid Tweets | [MySQL](./database/1683-invalid-tweets.sql) | Easy |
 | 1757 | Recyclable and Low Fat Products | [MySQL](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
