@@ -253,6 +253,7 @@
 | 909 | Snakes and Ladders | [Ruby](./algorithms/ruby/0909-snakes-and-ladders.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 918 | Maximum Sum Circular Subarray | [Ruby](./algorithms/ruby/0918-maximum-sum-circular-subarray.rb) | Medium |
+| 920 | Number of Music Playlists | [Ruby](./algorithms/ruby/0920-number-of-music-playlists.rb) | Hard |
 | 933 | Number of Recent Calls | [Ruby](./algorithms/ruby/0933-number-of-recent-calls.rb) | Easy |
 | 934 | Shortest Bridge | [Ruby](./algorithms/ruby/0934-shortest-bridge.rb) | Medium |
 | 946 | Validate Stack Sequences | [Ruby](./algorithms/ruby/0946-validate-stack-sequences.rb) | Medium |
