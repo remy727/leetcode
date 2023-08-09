@@ -80,7 +80,7 @@ def check_nodes_for_one_person(nodes, label)
   @checked = Array.new(nodes.size, nil)
   check_node(nodes[0], label)
 
-  return -1 if @checked.include? nil
+  -1 if @checked.include? nil
 end
 
 def check_both_edges_only(nodes)
