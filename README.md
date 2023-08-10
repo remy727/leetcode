@@ -66,6 +66,7 @@
 | 77 | Combinations | [Ruby](./algorithms/ruby/0077-combinations.rb) | Medium |
 | 79 | Word Search | [Ruby](./algorithms/ruby/0079-word-search.rb) | Medium |
 | 80 | Remove Duplicates from Sorted Array II | [Ruby](./algorithms/ruby/0080-remove-duplicates-from-sorted-array-ii.rb) | Medium |
+| 81 | Search in Rotated Sorted Array II | [Ruby](./algorithms/ruby/0081-search-in-rotated-sorted-array-ii.rb) | Medium |
 | 82 | Remove Duplicates from Sorted List II | [Ruby](./algorithms/ruby/0082-remove-duplicates-from-sorted-list-ii.rb) | Medium |
 | 86 | Partition List | [Ruby](./algorithms/ruby/0086-partition-list.rb) | Medium |
 | 87 | Scramble String | [Ruby](./algorithms/ruby/0087-scramble-string.rb) | Hard |
