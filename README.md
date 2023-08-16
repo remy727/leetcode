@@ -155,6 +155,7 @@
 | 235 | Lowest Common Ancestor of a Binary Search Tree | [Ruby](./algorithms/ruby/0235-lowest-common-ancestor-of-a-binary-search-tree.rb) | Medium |
 | 236 | Lowest Common Ancestor of a Binary Tree | [Ruby](./algorithms/ruby/0236-lowest-common-ancestor-of-a-binary-tree.rb) | Medium |
 | 238 | Product of Array Except Self | [Ruby](./algorithms/ruby/0238-product-of-array-except-self.rb) | Medium |
+| 239 | Sliding Window Maximum | [Ruby](./algorithms/ruby/0239-sliding-window-maximum.rb) | Hard |
 | 242 | Valid Anagram | [Ruby](./algorithms/ruby/0242-valid-anagram.rb) | Easy |
 | 258 | Add Digits | [Ruby](./algorithms/ruby/0258-add-digits.rb) | Easy |
 | 274 | H-Index | [Ruby](./algorithms/ruby/0274-h-index.rb) | Medium |
