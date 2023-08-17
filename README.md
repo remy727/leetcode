@@ -203,6 +203,7 @@
 | 518 | Coin Change II | [Ruby](./algorithms/ruby/0518-coin-change-ii.rb) | Medium |
 | 530 | Minimum Absolute Difference in BST | [Ruby](./algorithms/ruby/0530-minimum-absolute-difference-in-bst.rb) | Easy |
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
+| 542 | 01 Matrix | [Ruby](./algorithms/ruby/0542-01-matrix.rb) | Medium |
 | 543 | Diameter of Binary Tree | [Ruby](./algorithms/ruby/0543-diameter-of-binary-tree.rb) | Easy |
 | 547 | Number of Provinces | [Ruby](./algorithms/ruby/0547-number-of-provinces.rb) | Medium |
 | 557 | Reverse Words in a String III | [Ruby](./algorithms/ruby/0557-reverse-words-in-a-string-iii.rb) | Easy |
