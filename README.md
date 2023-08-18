@@ -326,6 +326,7 @@
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
 | 1601 | Maximum Number of Achievable Transfer Requests | [Ruby](./algorithms/ruby/1601-maximum-number-of-achievable-transfer-requests.rb) | Hard |
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
+| 1615 | Maximal Network Rank | [Ruby](./algorithms/ruby/1615-maximal-network-rank.rb) | Medium |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
