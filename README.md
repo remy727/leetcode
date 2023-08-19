@@ -311,6 +311,7 @@
 | 1470 | Shuffle the Array | [Ruby](./algorithms/ruby/1470-shuffle-the-array.rb) | Easy |
 | 1472 | Design Browser History | [Ruby](./algorithms/ruby/1472-design-browser-history.rb) | Medium |
 | 1480 | Running Sum of 1d Array | [Ruby](./algorithms/ruby/1480-running-sum-of-1d-array.rb) | Easy |
+| 1489 | Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree | [Ruby](./algorithms/ruby/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.rb) | Hard |
 | 1491 | Average Salary Excluding the Minimum and Maximum Salary | [Ruby](./algorithms/ruby/1491-average-salary-excluding-the-minimum-and-maximum-salary.rb) | Easy |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [Ruby](./algorithms/ruby/1493-longest-subarray-of-1s-after-deleting-one-element.rb) | Medium |
 | 1498 | Number of Subsequences That Satisfy the Given Sum Condition | [Ruby](./algorithms/ruby/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.rb) | Medium |
