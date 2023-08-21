@@ -70,7 +70,7 @@ end
 require "test/unit"
 class Test_length_of_longest_substring < Test::Unit::TestCase
   def test_
-    assert_equal [[0,1],[2,3,4,5]], find_critical_and_pseudo_critical_edges(5, [[0,1,1],[1,2,1],[2,3,2],[0,3,2],[0,4,3],[3,4,3],[1,4,6]])
-    assert_equal [[],[0,1,2,3]], find_critical_and_pseudo_critical_edges(4, [[0,1,1],[1,2,1],[2,3,1],[0,3,1]])
+    assert_equal [[0, 1], [2, 3, 4, 5]], find_critical_and_pseudo_critical_edges(5, [[0, 1, 1], [1, 2, 1], [2, 3, 2], [0, 3, 2], [0, 4, 3], [3, 4, 3], [1, 4, 6]])
+    assert_equal [[], [0, 1, 2, 3]], find_critical_and_pseudo_critical_edges(4, [[0, 1, 1], [1, 2, 1], [2, 3, 1], [0, 3, 1]])
   end
 end
