@@ -289,6 +289,7 @@
 | 1161 | Maximum Level Sum of a Binary Tree | [Ruby](./algorithms/ruby/1161-maximum-level-sum-of-a-binary-tree.rb) | Medium |
 | 1162 | As Far from Land as Possible | [Ruby](./algorithms/ruby/1162-as-far-from-land-as-possible.rb) | Medium |
 | 1187 | Make Array Strictly Increasing | [Ruby](./algorithms/ruby/1187-make-array-strictly-increasing.rb) | Hard |
+| 1203 | Sort Items by Groups Respecting Dependencies | [Ruby](./algorithms/ruby/1203-sort-items-by-groups-respecting-dependencies.rb) | Hard |
 | 1207 | Unique Number of Occurrences | [Ruby](./algorithms/ruby/1207-unique-number-of-occurrences.rb) | Easy |
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [Ruby](./algorithms/ruby/1218-longest-arithmetic-subsequence-of-given-difference.rb) | Medium |
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
