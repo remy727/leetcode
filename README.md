@@ -120,6 +120,7 @@
 | 155 | Min Stack | [Ruby](./algorithms/ruby/0155-min-stack.rb) | Medium |
 | 162 | Find Peak Element | [Ruby](./algorithms/ruby/0162-find-peak-element.rb) | Medium |
 | 167 | Two Sum II - Input Array Is Sorted | [Ruby](./algorithms/ruby/0167-two-sum-ii-input-array-is-sorted.rb) | Medium |
+| 168 | Excel Sheet Column Title | [Ruby](./algorithms/ruby/0168-excel-sheet-column-title.rb) | Easy |
 | 169 | Majority Element | [Ruby](./algorithms/ruby/0169-majority-element.rb) | Easy |
 | 172 | Factorial Trailing Zeroes | [Ruby](./algorithms/ruby/0172-factorial-trailing-zeroes.rb) | Medium |
 | 173 | Binary Search Tree Iterator | [Ruby](./algorithms/ruby/0173-binary-search-tree-iterato.rb) | Medium |
