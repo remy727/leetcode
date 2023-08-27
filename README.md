@@ -184,6 +184,7 @@
 | 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
 | 394 | Decode String | [Ruby](./algorithms/ruby/0394-decode-string.rb) | Medium |
 | 399 | Evaluate Division | [Ruby](./algorithms/ruby/0399-evaluate-division.rb) | Medium |
+| 403 | Frog Jump | [Ruby](./algorithms/ruby/0403-frog-jump.rb) | Hard |
 | 409 | Longest Palindrome | [Ruby](./algorithms/ruby/0409-longest-palindrome.rb) | Easy |
 | 416 | Partition Equal Subset Sum | [Ruby](./algorithms/ruby/0416-partition-equal-subset-sum.rb) | Medium |
 | 417 | Pacific Atlantic Water Flow | [Ruby](./algorithms/ruby/0417-pacific-atlantic-water-flow.rb) | Medium |
