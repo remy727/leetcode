@@ -147,6 +147,7 @@
 | 221 | Maximal Square | [Ruby](./algorithms/ruby/0221-maximal-square.rb) | Medium |
 | 222 | Count Complete Tree Nodes | [Ruby](./algorithms/ruby/0222-count-complete-tree-nodes.rb) | Medium |
 | 224 | Basic Calculator | [Ruby](./algorithms/ruby/0224-basic-calculator.rb) | Hard |
+| 225 | Implement Stack using Queues | [Ruby](./algorithms/ruby/0225-implement-stack-using-queues.rb) | Easy |
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
 | 228 | Summary Ranges | [Ruby](./algorithms/ruby/0228-summary-ranges.rb) | Easy |
