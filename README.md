@@ -385,6 +385,7 @@
 | 2462 | Total Cost to Hire K Workers | [Python3](./algorithms/python3/2462-total-cost-to-hire-k-workers.py) | Medium |
 | 2466 | Count Ways To Build Good Strings | [Ruby](./algorithms/ruby/2466-count-ways-to-build-good-strings.rb) | Medium |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
+| 2483 | Minimum Penalty for a Shop | [Ruby](./algorithms/ruby/2483-minimum-penalty-for-a-shop.rb) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | [Ruby](./algorithms/ruby/2492-minimum-score-of-a-path-between-two-cities.rb) | Medium |
 | 2542 | Maximum Subsequence Score | [Ruby](./algorithms/ruby/2542-maximum-subsequence-score.rb) | Medium |
 | 2551 | Put Marbles in Bags | [Ruby](./algorithms/ruby/2551-put-marbles-in-bags.rb) | Hard |
