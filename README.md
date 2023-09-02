@@ -395,6 +395,7 @@
 | 2616 | Minimize the Maximum Difference of Pairs | [Ruby](./algorithms/ruby/2616-minimize-the-maximum-difference-of-pairs.rb) | Medium |
 | 2696 | Minimum String Length After Removing Substrings | [Ruby](./algorithms/ruby/2696-minimum-string-length-after-removing-substrings.rb) | Easy |
 | 2697 | Lexicographically Smallest Palindrome | [Ruby](./algorithms/ruby/2697-lexicographically-smallest-palindrome.rb) | Easy |
+| 2707 | Extra Characters in a String | [Ruby](./algorithms/ruby/2707-extra-characters-in-a-string.rb) | Medium |
 
 ### Database
 | # | Title | Solution | Difficulty |
