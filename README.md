@@ -233,6 +233,7 @@
 | 712 | Minimum ASCII Delete Sum for Two Strings | [Ruby](./algorithms/ruby/0712-minimum-ascii-delete-sum-for-two-strings.rb) | Medium |
 | 714 | Best Time to Buy and Sell Stock with Transaction | [Ruby](./algorithms/ruby/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.rb) | Medium |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
+| 725 | Split Linked List in Parts | [Ruby](./algorithms/ruby/0725-split-linked-list-in-parts.rb) | Medium |
 | 733 | Flood Fill | [Ruby](./algorithms/ruby/0733-flood-fill.rb) | Easy |
 | 735 | Asteroid Collision | [Ruby](./algorithms/ruby/0735-asteroid-collision.rb) | Medium |
 | 739 | Daily Temperatures | [Ruby](./algorithms/ruby/0739-daily-temperatures.rb) | Medium |
