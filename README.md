@@ -178,6 +178,7 @@
 | 347 | Top K Frequent Elements | [Ruby](./algorithms/ruby/0347-top-k-frequent-elements.rb) | Medium |
 | 373 | Find K Pairs with Smallest Sums | [Ruby](./algorithms/ruby/0373-find-k-pairs-with-smallest-sums.rb) | Medium |
 | 374 | Guess Number Higher or Lower | [Ruby](./algorithms/ruby/0374-guess-number-higher-or-lower.rb) | Easy |
+| 377 | Combination Sum IV | [Ruby](./algorithms/ruby/0377-combination-sum-iv.rb) | Medium |
 | 380 | Insert Delete GetRandom O(1) | [Ruby](./algorithms/ruby/0380-insert-delete-getrandom-o1.rb) | Medium |
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 383 | Ransom Note | [Ruby](./algorithms/ruby/0383-ransom-note.rb) | Easy |
