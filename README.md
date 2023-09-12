@@ -303,10 +303,12 @@
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
+| 1282 | Group the People Given the Group Size They Belong To | [Ruby](./algorithms/ruby/1282-group-the-people-given-the-group-size-they-belong-to.rb) | Medium |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | [Ruby](./algorithms/ruby/1326-minimum-number-of-taps-to-open-to-water-a-garden.rb) | Hard |
 | 1351 | Count Negative Numbers in a Sorted Matrix | [Ruby](./algorithms/ruby/1351-count-negative-numbers-in-a-sorted-matrix.rb) | Easy |
+| 1359 | Count All Valid Pickup and Delivery Options | [Ruby](./algorithms/ruby/1359-count-all-valid-pickup-and-delivery-options.rb) | Hard |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
 | 1376 | Time Needed to Inform All Employees | [Ruby](./algorithms/ruby/1376-time-needed-to-inform-all-employees.rb) | Medium |
@@ -340,6 +342,7 @@
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
 | 1615 | Maximal Network Rank | [Ruby](./algorithms/ruby/1615-maximal-network-rank.rb) | Medium |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
+| 1647 | Minimum Deletions to Make Character Frequencies Unique | [Ruby](./algorithms/ruby/1647-minimum-deletions-to-make-character-frequencies-unique.rb) | Medium |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1679 | Max Number of K-Sum Pairs | [Ruby](./algorithms/ruby/1679-max-number-of-k-sum-pairs.rb) | Medium |
