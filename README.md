@@ -172,6 +172,7 @@
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
+| 332 | Reconstruct Itinerary | [Ruby](./algorithms/ruby/0332-reconstruct-itinerary.rb) | Hard |
 | 334 | Increasing Triplet Subsequence | [Ruby](./algorithms/ruby/0334-increasing-triplet-subsequence.rb) | Medium |
 | 338 | Counting Bits | [Ruby](./algorithms/ruby/0338-counting-bits.rb) | Easy |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
