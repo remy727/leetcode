@@ -131,7 +131,7 @@ end
 # **************** #
 
 require "test/unit"
-class Test_two_sum < Test::Unit::TestCase
+class Test_max_num_edges_to_remove < Test::Unit::TestCase
   def test_
     assert_equal 2, max_num_edges_to_remove(4, [[3, 1, 2], [3, 2, 3], [1, 1, 3], [1, 2, 4], [1, 1, 2], [2, 3, 4]])
     assert_equal 0, max_num_edges_to_remove(4, [[3, 1, 2], [3, 2, 3], [1, 1, 4], [2, 1, 4]])
