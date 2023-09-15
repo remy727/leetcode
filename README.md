@@ -339,6 +339,7 @@
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
 | 1575 | Count All Possible Routes | [Ruby](./algorithms/ruby/1575-count-all-possible-routes.rb) | Hard |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
+| 1584 | Min Cost to Connect All Points | [Ruby](./algorithms/ruby/1584-min-cost-to-connect-all-points.rb) | Medium |
 | 1601 | Maximum Number of Achievable Transfer Requests | [Ruby](./algorithms/ruby/1601-maximum-number-of-achievable-transfer-requests.rb) | Hard |
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
 | 1615 | Maximal Network Rank | [Ruby](./algorithms/ruby/1615-maximal-network-rank.rb) | Medium |
