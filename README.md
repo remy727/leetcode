@@ -253,6 +253,7 @@
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
 | 841 | Backspace String Compare | [Ruby](./algorithms/ruby/0841-keys-and-rooms.rb) | Medium |
 | 844 | Backspace String Compare | [Ruby](./algorithms/ruby/0844-backspace-string-compare.rb) | Easy |
+| 847 | Shortest Path Visiting All Nodes | [Ruby](./algorithms/ruby/0847-shortest-path-visiting-all-nodes.rb) | Hard |
 | 852 | Peak Index in a Mountain Array | [Ruby](./algorithms/ruby/0852-peak-index-in-a-mountain-array.rb) | Medium |
 | 859 | Buddy Strings | [Ruby](./algorithms/ruby/0859-buddy-strings.rb) | Easy |
 | 863 | All Nodes Distance K in Binary Tree | [Ruby](./algorithms/ruby/0863-all-nodes-distance-k-in-binary-tree.rb) | Medium |
