@@ -164,6 +164,7 @@
 | 274 | H-Index | [Ruby](./algorithms/ruby/0274-h-index.rb) | Medium |
 | 278 | First Bad Version | [Ruby](./algorithms/ruby/0278-first-bad-version.rb) | Easy |
 | 283 | Move Zeroes | [Ruby](./algorithms/ruby/0283-move-zeroes.rb) | Easy |
+| 287 | Find the Duplicate Number | [Ruby](./algorithms/ruby/0287-find-the-duplicate-number.rb) | Medium |
 | 289 | Game of Life | [Ruby](./algorithms/ruby/0289-game-of-life.rb) | Medium |
 | 290 | Word Pattern | [Ruby](./algorithms/ruby/0290-word-pattern.rb) | Easy |
 | 295 | Find Median from Data Stream | [Ruby](./algorithms/ruby/0295-find-median-from-data-stream.rb) | Hard |
@@ -309,6 +310,7 @@
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | [Ruby](./algorithms/ruby/1326-minimum-number-of-taps-to-open-to-water-a-garden.rb) | Hard |
+| 1337 | The K Weakest Rows in a Matrix | [Ruby](./algorithms/ruby/1337-the-k-weakest-rows-in-a-matrix.rb) | Easy |
 | 1351 | Count Negative Numbers in a Sorted Matrix | [Ruby](./algorithms/ruby/1351-count-negative-numbers-in-a-sorted-matrix.rb) | Easy |
 | 1359 | Count All Valid Pickup and Delivery Options | [Ruby](./algorithms/ruby/1359-count-all-valid-pickup-and-delivery-options.rb) | Hard |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |

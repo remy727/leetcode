@@ -80,7 +80,7 @@ end
 require "test/unit"
 class Test_shortest_path_length < Test::Unit::TestCase
   def test_
-    assert_equal 4, shortest_path_length([[1,2,3],[0],[0],[0]])
-    assert_equal 4, shortest_path_length([[1],[0,2,4],[1,3,4],[2],[1,2]])
+    assert_equal 4, shortest_path_length([[1, 2, 3], [0], [0], [0]])
+    assert_equal 4, shortest_path_length([[1], [0, 2, 4], [1, 3, 4], [2], [1, 2]])
   end
 end
