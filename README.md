@@ -350,6 +350,7 @@
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | [Ruby](./algorithms/ruby/1647-minimum-deletions-to-make-character-frequencies-unique.rb) | Medium |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
+| 1658 | Minimum Operations to Reduce X to Zero | [Ruby](./algorithms/ruby/1658-minimum-operations-to-reduce-x-to-zero.rb) | Medium |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1679 | Max Number of K-Sum Pairs | [Ruby](./algorithms/ruby/1679-max-number-of-k-sum-pairs.rb) | Medium |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
