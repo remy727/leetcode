@@ -288,6 +288,7 @@
 | 1027 | Longest Arithmetic Subsequence | [Ruby](./algorithms/ruby/1027-longest-arithmetic-subsequence.rb) | Medium |
 | 1035 | Uncrossed Lines | [Ruby](./algorithms/ruby/1035-uncrossed-lines.rb) | Medium |
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
+| 1048 | Longest String Chain | [Ruby](./algorithms/ruby/1048-longest-string-chain.rb) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1091 | Shortest Path in Binary Matrix | [Ruby](./algorithms/ruby/1091-shortest-path-in-binary-matrix.rb) | Medium |
 | 1125 | Smallest Sufficient Team | [Ruby](./algorithms/ruby/1125-smallest-sufficient-team.rb) | Hard |
