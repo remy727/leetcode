@@ -247,6 +247,7 @@
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
 | 790 | Domino and Tromino Tiling | [Ruby](./algorithms/ruby/0790-domino-and-tromino-tiling.rb) | Medium |
+| 799 | Champagne Tower | [Ruby](./algorithms/ruby/0799-champagne-tower.rb) | Medium |
 | 802 | Find Eventual Safe States | [Ruby](./algorithms/ruby/0802-find-eventual-safe-states.rb) | Medium |
 | 808 | Soup Servings | [Ruby](./algorithms/python3/0808-soup-servings.py) | Medium |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
