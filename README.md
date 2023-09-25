@@ -186,6 +186,7 @@
 | 382 | Linked List Random Node | [Ruby](./algorithms/ruby/0382-linked-list-random-node.rb) | Medium |
 | 383 | Ransom Note | [Ruby](./algorithms/ruby/0383-ransom-note.rb) | Easy |
 | 387 | First Unique Character in a String | [Ruby](./algorithms/ruby/0387-first-unique-character-in-a-string.rb) | Easy |
+| 389 | Find the Difference | [Ruby](./algorithms/ruby/0389-find-the-difference.rb) | Easy |
 | 392 | Is Subsequence | [Ruby](./algorithms/ruby/0392-is-subsequence.rb) | Easy |
 | 394 | Decode String | [Ruby](./algorithms/ruby/0394-decode-string.rb) | Medium |
 | 399 | Evaluate Division | [Ruby](./algorithms/ruby/0399-evaluate-division.rb) | Medium |
