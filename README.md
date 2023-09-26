@@ -170,6 +170,7 @@
 | 295 | Find Median from Data Stream | [Ruby](./algorithms/ruby/0295-find-median-from-data-stream.rb) | Hard |
 | 299 | Bulls and Cows | [Ruby](./algorithms/ruby/0299-bulls-and-cows.rb) [Python3](./algorithms/python3/0299-bulls-and-cows.py) | Medium |
 | 300 | Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0300-longest-increasing-subsequence.rb) | Medium |
+| 316 | Remove Duplicate Letters | [Ruby](./algorithms/ruby/0316-remove-duplicate-letters.rb) | Medium |
 | 319 | Bulb Switcher | [Ruby](./algorithms/ruby/0319-bulb-switcher.rb) | Medium |
 | 322 | Coin Change | [Ruby](./algorithms/ruby/0322-coin-change.rb) | Medium |
 | 328 | Odd Even Linked List | [Ruby](./algorithms/ruby/0328-odd-even-linked-list.rb) | Medium |
