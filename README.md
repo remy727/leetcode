@@ -266,6 +266,7 @@
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
 | 879 | Profitable Schemes | [Ruby](./algorithms/ruby/0879-profitable-schemes.rb) | Hard |
+| 880 | Decoded String at Index | [Ruby](./algorithms/ruby/0880-decoded-string-at-index.rb) | Medium |
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
 | 894 | All Possible Full Binary Trees | [Ruby](./algorithms/ruby/0894-all-possible-full-binary-trees.rb) | Medium |
 | 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
