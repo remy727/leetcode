@@ -271,6 +271,7 @@
 | 894 | All Possible Full Binary Trees | [Ruby](./algorithms/ruby/0894-all-possible-full-binary-trees.rb) | Medium |
 | 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
+| 905 | Sort Array By Parity | [Ruby](./algorithms/ruby/0905-sort-array-by-parity.rb) | Easy |
 | 909 | Snakes and Ladders | [Ruby](./algorithms/ruby/0909-snakes-and-ladders.rb) | Medium |
 | 912 | Sort an Array | [Ruby](./algorithms/ruby/0912-sort-an-array.rb) | Medium |
 | 918 | Maximum Sum Circular Subarray | [Ruby](./algorithms/ruby/0918-maximum-sum-circular-subarray.rb) | Medium |
