@@ -205,6 +205,7 @@
 | 445 | Add Two Numbers II | [Ruby](./algorithms/ruby/0445-add-two-numbers-ii.rb) | Medium |
 | 450 | Delete Node in a BST | [Ruby](./algorithms/ruby/0450-delete-node-in-a-bst.rb) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [Ruby](./algorithms/ruby/0452-minimum-number-of-arrows-to-burst-balloons.rb) | Medium |
+| 456 | 132 Pattern | [Ruby](./algorithms/ruby/0456-132-pattern.rb) | Medium |
 | 459 | Repeated Substring Pattern | [Ruby](./algorithms/ruby/0459-repeated-substring-pattern.rb) | Easy |
 | 486 | Predict the Winner | [Ruby](./algorithms/ruby/0486-predict-the-winner.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
@@ -236,6 +237,7 @@
 | 703 | Kth Largest Element in a Stream | [Ruby](./algorithms/ruby/0703-kth-largest-element-in-a-stream.rb) | Easy |
 | 704 | Binary Search | [Ruby](./algorithms/ruby/0704-binary-search.rb) | Easy |
 | 705 | Design HashSet | [Ruby](./algorithms/ruby/0705-design-hashset.rb) | Easy |
+| 706 | Design HashMap | [Ruby](./algorithms/ruby/0706-design-hashmap.rb) | Easy |
 | 712 | Minimum ASCII Delete Sum for Two Strings | [Ruby](./algorithms/ruby/0712-minimum-ascii-delete-sum-for-two-strings.rb) | Medium |
 | 714 | Best Time to Buy and Sell Stock with Transaction | [Ruby](./algorithms/ruby/0714-best-time-to-buy-and-sell-stock-with-transaction-fee.rb) | Medium |
 | 724 | Find Pivot Index | [Ruby](./algorithms/ruby/0724-find-pivot-index.rb) | Easy |
@@ -269,6 +271,7 @@
 | 880 | Decoded String at Index | [Ruby](./algorithms/ruby/0880-decoded-string-at-index.rb) | Medium |
 | 881 | Middle of the Linked List | [Ruby](./algorithms/ruby/0881-boats-to-save-people.rb) | Medium |
 | 894 | All Possible Full Binary Trees | [Ruby](./algorithms/ruby/0894-all-possible-full-binary-trees.rb) | Medium |
+| 896 | Monotonic Array | [Ruby](./algorithms/ruby/0896-monotonic-array.rb) | Easy |
 | 901 | Online Stock Span | [Ruby](./algorithms/ruby/0901-online-stock-span.rb) | Medium |
 | 904 | Fruit Into Baskets | [Ruby](./algorithms/ruby/0904-fruit-into-baskets.rb) | Medium |
 | 905 | Sort Array By Parity | [Ruby](./algorithms/ruby/0905-sort-array-by-parity.rb) | Easy |
