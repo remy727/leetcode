@@ -152,6 +152,7 @@
 | 226 | Invert Binary Tree | [Ruby](./algorithms/ruby/0226-invert-binary-tree.rb) | Easy |
 | 227 | Basic Calculator II | [Ruby](./algorithms/ruby/0227-basic-calculator-ii.rb) | Medium |
 | 228 | Summary Ranges | [Ruby](./algorithms/ruby/0228-summary-ranges.rb) | Easy |
+| 229 | Majority Element II | [Ruby](./algorithms/ruby/0229-majority-element-ii.rb) | Medium |
 | 230 | Kth Smallest Element in a BST | [Ruby](./algorithms/ruby/0230-kth-smallest-element-in-a-bst.rb) | Medium |
 | 232 | Implement Queue using Stacks | [Ruby](./algorithms/ruby/0232-implement-queue-using-stacks.rb) | Easy |
 | 234 | Palindrome Linked List | [Ruby](./algorithms/ruby/0234-palindrome-linked-list.rb) | Easy |

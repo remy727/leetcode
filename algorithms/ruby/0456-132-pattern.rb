@@ -54,8 +54,8 @@ end
 require "test/unit"
 class Test_find132pattern < Test::Unit::TestCase
   def test_
-    assert_equal false, find132pattern([1,2,3,4])
-    assert_equal true, find132pattern([3,1,4,2])
-    assert_equal true, find132pattern([-1,3,2,0])
+    assert_equal false, find132pattern([1, 2, 3, 4])
+    assert_equal true, find132pattern([3, 1, 4, 2])
+    assert_equal true, find132pattern([-1, 3, 2, 0])
   end
 end
