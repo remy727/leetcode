@@ -178,6 +178,7 @@
 | 332 | Reconstruct Itinerary | [Ruby](./algorithms/ruby/0332-reconstruct-itinerary.rb) | Hard |
 | 334 | Increasing Triplet Subsequence | [Ruby](./algorithms/ruby/0334-increasing-triplet-subsequence.rb) | Medium |
 | 338 | Counting Bits | [Ruby](./algorithms/ruby/0338-counting-bits.rb) | Easy |
+| 343 | Integer Break | [Ruby](./algorithms/ruby/0343-integer-break.rb) | Medium |
 | 344 | Reverse String | [Ruby](./algorithms/ruby/0344-reverse-string.rb) | Easy |
 | 345 | Reverse Vowels of a String | [Ruby](./algorithms/ruby/0345-reverse-vowels-of-a-string.rb) | Easy |
 | 347 | Top K Frequent Elements | [Ruby](./algorithms/ruby/0347-top-k-frequent-elements.rb) | Medium |
