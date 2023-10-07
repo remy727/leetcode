@@ -331,6 +331,7 @@
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
+| 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | [Ruby](./algorithms/ruby/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rb) | Hard |
 | 1431 | Kids With the Greatest Number of Candies | [Ruby](./algorithms/ruby/1431-kids-with-the-greatest-number-of-candies.rb) | Easy |
 | 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
 | 1448 | Count Good Nodes in Binary Tree | [Ruby](./algorithms/ruby/1448-count-good-nodes-in-binary-tree.rb) | Medium |
