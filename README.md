@@ -393,6 +393,7 @@
 | 2187 | Minimum Time to Complete Trips | [Ruby](./algorithms/ruby/2187-minimum-time-to-complete-trips.rb) [Python3](./algorithms/python3/2187-minimum-time-to-complete-trips.py) | Medium |
 | 2215 | Find the Difference of Two Arrays | [Ruby](./algorithms/ruby/2215-find-the-difference-of-two-arrays.rb) | Easy |
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
+| 2251 | Number of Flowers in Full Bloom | [Ruby](./algorithms/ruby/2251-number-of-flowers-in-full-bloom.rb) | Hard |
 | 2272 | Substring With Largest Variance | [Ruby](./algorithms/ruby/2272-substring-with-largest-variance.rb) | Hard |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
 | 2305 | Fair Distribution of Cookies | [Ruby](./algorithms/ruby/2305-fair-distribution-of-cookies.rb) | Medium |
