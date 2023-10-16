@@ -92,6 +92,7 @@
 | 114 | Flatten Binary Tree to Linked List | [Ruby](./algorithms/ruby/0114-flatten-binary-tree-to-linked-list.rb) | Medium |
 | 117 | Populating Next Right Pointers in Each Node II | [Ruby](./algorithms/ruby/0117-populating-next-right-pointers-in-each-node-ii.rb) | Medium |
 | 118 | Pascal's Triangle | [Ruby](./algorithms/ruby/0118-pascals-triangle.rb) | Easy |
+| 119 | Pascal's Triangle II | [Ruby](./algorithms/ruby/0119-pascals-triangle-ii.rb) | Easy |
 | 120 | Triangle | [Ruby](./algorithms/ruby/0120-triangle.rb) | Medium |
 | 121 | Best Time to Buy and Sell Stock | [Ruby](./algorithms/ruby/0121-best-time-to-buy-and-sell-stock.rb) | Easy |
 | 122 | Best Time to Buy and Sell Stock II | [Ruby](./algorithms/ruby/0122-best-time-to-buy-and-sell-stock-ii.rb) | Medium |
