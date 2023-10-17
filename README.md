@@ -327,6 +327,7 @@
 | 1359 | Count All Valid Pickup and Delivery Options | [Ruby](./algorithms/ruby/1359-count-all-valid-pickup-and-delivery-options.rb) | Hard |
 | 1372 | Longest ZigZag Path in a Binary Tree | [Ruby](./algorithms/ruby/1372-longest-zigzag-path-in-a-binary-tree.rb) | Medium |
 | 1345 | Jump Game IV | [Ruby](./algorithms/ruby/1345-jump-game-iv.rb) | Hard |
+| 1361 | Validate Binary Tree Nodes | [Ruby](./algorithms/ruby/1361-validate-binary-tree-nodes.rb) | Medium |
 | 1376 | Time Needed to Inform All Employees | [Ruby](./algorithms/ruby/1376-time-needed-to-inform-all-employees.rb) | Medium |
 | 1396 | Design Underground System | [Ruby](./algorithms/ruby/1396-design-underground-system.rb) | Medium |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
