@@ -91,7 +91,7 @@ end
 require "test/unit"
 class Test_minimum_time < Test::Unit::TestCase
   def test_
-    assert_equal 8, minimum_time(3, [[1,3],[2,3]], [3,2,5])
-    assert_equal 12, minimum_time(5, [[1,5],[2,5],[3,5],[3,4],[4,5]], [1,2,3,4,5])
+    assert_equal 8, minimum_time(3, [[1, 3], [2, 3]], [3, 2, 5])
+    assert_equal 12, minimum_time(5, [[1, 5], [2, 5], [3, 5], [3, 4], [4, 5]], [1, 2, 3, 4, 5])
   end
 end
