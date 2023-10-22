@@ -377,6 +377,7 @@
 | 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
 | 1751 | Maximum Number of Events That Can Be Attended II | [Ruby](./algorithms/ruby/1751-maximum-number-of-events-that-can-be-attended-ii.rb) | Hard |
 | 1768 | Merge Strings Alternately | [Ruby](./algorithms/ruby/1768-merge-strings-alternately.rb) | Easy |
+| 1793 | Maximum Score of a Good Subarray | [Ruby](./algorithms/ruby/1793-maximum-score-of-a-good-subarray.rb) | Hard |
 | 1799 | Maximize Score After N Operations | [Ruby](./algorithms/ruby/1799-maximize-score-after-n-operations.rb) | Hard |
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
