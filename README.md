@@ -215,6 +215,7 @@
 | 486 | Predict the Winner | [Ruby](./algorithms/ruby/0486-predict-the-winner.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
+| 515 | Find Largest Value in Each Tree Row | [Ruby](./algorithms/ruby/0515-find-largest-value-in-each-tree-row.rb) | Medium |
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
 | 518 | Coin Change II | [Ruby](./algorithms/ruby/0518-coin-change-ii.rb) | Medium |
 | 530 | Minimum Absolute Difference in BST | [Ruby](./algorithms/ruby/0530-minimum-absolute-difference-in-bst.rb) | Easy |
