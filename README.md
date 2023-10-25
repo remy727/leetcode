@@ -254,6 +254,7 @@
 | 744 | Find Smallest Letter Greater Than Target | [Ruby](./algorithms/ruby/0744-find-smallest-letter-greater-than-target.rb) | Easy |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 767 | Reorganize String | [Ruby](./algorithms/ruby/0767-reorganize-string.rb) | Medium |
+| 779 | K-th Symbol in Grammar | [Ruby](./algorithms/ruby/0779-k-th-symbol-in-grammar.rb) | Medium |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
 | 790 | Domino and Tromino Tiling | [Ruby](./algorithms/ruby/0790-domino-and-tromino-tiling.rb) | Medium |
