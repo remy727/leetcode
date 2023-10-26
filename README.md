@@ -262,6 +262,7 @@
 | 802 | Find Eventual Safe States | [Ruby](./algorithms/ruby/0802-find-eventual-safe-states.rb) | Medium |
 | 808 | Soup Servings | [Ruby](./algorithms/python3/0808-soup-servings.py) | Medium |
 | 815 | Bus Routes | [Ruby](./algorithms/ruby/0815-bus-routes.rb) | Hard |
+| 823 | Binary Trees With Factors | [Ruby](./algorithms/ruby/0823-binary-trees-with-factors.rb) | Medium |
 | 837 | New 21 Game | [Ruby](./algorithms/ruby/0837-new-21-game.rb) | Medium |
 | 839 | Similar String Groups | [Ruby](./algorithms/ruby/0839-similar-string-groups.rb) | Hard |
 | 841 | Backspace String Compare | [Ruby](./algorithms/ruby/0841-keys-and-rooms.rb) | Medium |
