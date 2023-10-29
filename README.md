@@ -211,6 +211,7 @@
 | 450 | Delete Node in a BST | [Ruby](./algorithms/ruby/0450-delete-node-in-a-bst.rb) | Medium |
 | 452 | Minimum Number of Arrows to Burst Balloons | [Ruby](./algorithms/ruby/0452-minimum-number-of-arrows-to-burst-balloons.rb) | Medium |
 | 456 | 132 Pattern | [Ruby](./algorithms/ruby/0456-132-pattern.rb) | Medium |
+| 458 | Poor Pigs | [Ruby](./algorithms/ruby/0458-poor-pigs.rb) | Hard |
 | 459 | Repeated Substring Pattern | [Ruby](./algorithms/ruby/0459-repeated-substring-pattern.rb) | Easy |
 | 486 | Predict the Winner | [Ruby](./algorithms/ruby/0486-predict-the-winner.rb) | Medium |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
