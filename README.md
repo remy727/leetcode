@@ -422,6 +422,7 @@
 | 2405 | Count Days Spent Together | [Ruby](./algorithms/ruby/2405-optimal-partition-of-string.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
+| 2433 | Find The Original Array of Prefix Xor | [Ruby](./algorithms/ruby/2433-find-the-original-array-of-prefix-xor.rb) | Medium |
 | 2439 | Minimize Maximum of Array | [Ruby](./algorithms/ruby/2439-minimize-maximum-of-array.rb) | Medium |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
 | 2448 | Minimum Cost to Make Array Equal | [Ruby](./algorithms/ruby/2448-minimum-cost-to-make-array-equal.rb) | Hard |
