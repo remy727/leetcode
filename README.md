@@ -214,6 +214,7 @@
 | 458 | Poor Pigs | [Ruby](./algorithms/ruby/0458-poor-pigs.rb) | Hard |
 | 459 | Repeated Substring Pattern | [Ruby](./algorithms/ruby/0459-repeated-substring-pattern.rb) | Easy |
 | 486 | Predict the Winner | [Ruby](./algorithms/ruby/0486-predict-the-winner.rb) | Medium |
+| 501 | Find Mode in Binary Search Tree | [Ruby](./algorithms/ruby/0501-find-mode-in-binary-search-tree.rb) | Easy |
 | 502 | IPO | [Ruby](./algorithms/ruby/0502-ipo.rb) [Python3](./algorithms/python3/0502-ipo.py) | Hard |
 | 509 | Fibonacci Number | [Ruby](./algorithms/ruby/0509-fibonacci-number.rb) | Easy |
 | 515 | Find Largest Value in Each Tree Row | [Ruby](./algorithms/ruby/0515-find-largest-value-in-each-tree-row.rb) | Medium |
