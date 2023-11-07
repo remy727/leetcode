@@ -395,6 +395,7 @@
 | 1845 | Seat Reservation Manager | [Ruby](./algorithms/ruby/1845-seat-reservation-manager.rb) | Medium |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
+| 1921 | Eliminate Maximum Number of Monsters | [Ruby](./algorithms/ruby/1921-eliminate-maximum-number-of-monsters.rb) | Medium |
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
