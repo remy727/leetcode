@@ -386,6 +386,7 @@
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 1721 | Swapping Nodes in a Linked List | [Ruby](./algorithms/ruby/1721-swapping-nodes-in-a-linked-list.rb) | Medium |
 | 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
+| 1743 | Restore the Array From Adjacent Pairs | [Ruby](./algorithms/ruby/1743-restore-the-array-from-adjacent-pairs.rb) | Medium |
 | 1751 | Maximum Number of Events That Can Be Attended II | [Ruby](./algorithms/ruby/1751-maximum-number-of-events-that-can-be-attended-ii.rb) | Hard |
 | 1759 | Count Number of Homogenous Substrings | [Ruby](./algorithms/ruby/1759-count-number-of-homogenous-substrings.rb) | Medium |
 | 1768 | Merge Strings Alternately | [Ruby](./algorithms/ruby/1768-merge-strings-alternately.rb) | Easy |
