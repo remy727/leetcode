@@ -37,4 +37,51 @@ sum(routes[i].length) <= 105
 # @param {Integer} target
 # @return {Integer}
 def num_buses_to_destination(routes, source, target)
+  return 0 if source == target
+
+  stop_to_bus = Hash.new { |h, k| h[k] = [] }
+  routes.each_with_index do |route, i|
+    route.each { |stop| stop_to_bus[stop] << i }
+  end
+
+  buses_taken = 0
+  visited_stops = Set.new([source])
+  visited_buses = Set.new
+  queue = [source]
+
+  while !queue.empty?
+    buses_taken += 1
+    next_queue = []
+
+    queue.each do |stop|
+      stop_to_bus[stop].each do |bus|
+        next if visited_buses.include?(bus)
+        visited_buses.add(bus)
+
+        routes[bus].each do |next_stop|
+          return buses_taken if next_stop == target
+          next if visited_stops.include?(next_stop)
+
+          visited_stops.add(next_stop)
+          next_queue << next_stop
+        end
+      end
+    end
+
+    queue = next_queue
+  end
+
+  -1
+end
+
+# **************** #
+#       TEST       #
+# **************** #
+
+require "test/unit"
+class Test_num_buses_to_destination < Test::Unit::TestCase
+  def test_
+    assert_equal 2, num_buses_to_destination([[1, 2, 7], [3, 6, 7]], 1, 6)
+    assert_equal(-1, num_buses_to_destination([[7, 12], [4, 5, 15], [6], [15, 19], [9, 12, 13]], 15, 12))
+  end
 end

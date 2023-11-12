@@ -444,6 +444,7 @@
 | 2551 | Put Marbles in Bags | [Ruby](./algorithms/ruby/2551-put-marbles-in-bags.rb) | Hard |
 | 2595 | Number of Even and Odd Bits | [Ruby](./algorithms/ruby/2595-number-of-even-and-odd-bits.rb) | Easy |
 | 2616 | Minimize the Maximum Difference of Pairs | [Ruby](./algorithms/ruby/2616-minimize-the-maximum-difference-of-pairs.rb) | Medium |
+| 2642 | Design Graph With Shortest Path Calculator | [Ruby](./algorithms/ruby/2642-design-graph-with-shortest-path-calculator.rb) | Hard |
 | 2696 | Minimum String Length After Removing Substrings | [Ruby](./algorithms/ruby/2696-minimum-string-length-after-removing-substrings.rb) | Easy |
 | 2697 | Lexicographically Smallest Palindrome | [Ruby](./algorithms/ruby/2697-lexicographically-smallest-palindrome.rb) | Easy |
 | 2707 | Extra Characters in a String | [Ruby](./algorithms/ruby/2707-extra-characters-in-a-string.rb) | Medium |
