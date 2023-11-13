@@ -449,6 +449,7 @@
 | 2697 | Lexicographically Smallest Palindrome | [Ruby](./algorithms/ruby/2697-lexicographically-smallest-palindrome.rb) | Easy |
 | 2707 | Extra Characters in a String | [Ruby](./algorithms/ruby/2707-extra-characters-in-a-string.rb) | Medium |
 | 2742 | Painting the Walls | [Ruby](./algorithms/ruby/2742-painting-the-walls.rb) | Hard |
+| 2785 | Sort Vowels in a String | [Ruby](./algorithms/ruby/2785-sort-vowels-in-a-string.rb) | Medium |
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
 
 ### Database
