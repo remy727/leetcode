@@ -399,6 +399,7 @@
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1921 | Eliminate Maximum Number of Monsters | [Ruby](./algorithms/ruby/1921-eliminate-maximum-number-of-monsters.rb) | Medium |
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
+| 1930 | Unique Length-3 Palindromic Subsequences | [Ruby](./algorithms/ruby/1930-unique-length-3-palindromic-subsequences.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
 | 2009 | Minimum Number of Operations to Make Array Continuous | [Ruby](./algorithms/ruby/2009-minimum-number-of-operations-to-make-array-continuous.rb) | Hard |
