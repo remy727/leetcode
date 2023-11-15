@@ -395,6 +395,7 @@
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
 | 1845 | Seat Reservation Manager | [Ruby](./algorithms/ruby/1845-seat-reservation-manager.rb) | Medium |
+| 1846 | Maximum Element After Decreasing and Rearranging | [Ruby](./algorithms/ruby/1846-maximum-element-after-decreasing-and-rearranging.rb) | Medium |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1921 | Eliminate Maximum Number of Monsters | [Ruby](./algorithms/ruby/1921-eliminate-maximum-number-of-monsters.rb) | Medium |
