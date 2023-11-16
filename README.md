@@ -403,6 +403,7 @@
 | 1930 | Unique Length-3 Palindromic Subsequences | [Ruby](./algorithms/ruby/1930-unique-length-3-palindromic-subsequences.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
+| 1980 | Find Unique Binary String | [Ruby](./algorithms/ruby/1980-find-unique-binary-string.rb) | Medium |
 | 2009 | Minimum Number of Operations to Make Array Continuous | [Ruby](./algorithms/ruby/2009-minimum-number-of-operations-to-make-array-continuous.rb) | Hard |
 | 2024 | Maximize the Confusion of an Exam | [Ruby](./algorithms/ruby/2024-maximize-the-confusion-of-an-exam.rb) | Medium |
 | 2050 | Parallel Courses III | [Ruby](./algorithms/ruby/2050-parallel-courses-iii.rb) | Hard |
