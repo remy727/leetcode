@@ -400,6 +400,7 @@
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1877 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1877-minimize-maximum-pair-sum-in-array.rb) | Medium |
+| 1887 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1887-reduction-operations-to-make-the-array-elements-equal.rb) | Medium |
 | 1921 | Eliminate Maximum Number of Monsters | [Ruby](./algorithms/ruby/1921-eliminate-maximum-number-of-monsters.rb) | Medium |
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1930 | Unique Length-3 Palindromic Subsequences | [Ruby](./algorithms/ruby/1930-unique-length-3-palindromic-subsequences.rb) | Medium |
