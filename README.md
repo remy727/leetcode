@@ -434,6 +434,7 @@
 | 2366 | Minimum Replacements to Sort the Array | [Ruby](./algorithms/ruby/2366-minimum-replacements-to-sort-the-array.rb) | Hard |
 | 2369 | Check if There is a Valid Partition For The Array | [Ruby](./algorithms/ruby/2369-check-if-there-is-a-valid-partition-for-the-array.rb) | Medium |
 | 2390 | Removing Stars From a String | [Ruby](./algorithms/ruby/2390-removing-stars-from-a-string.rb) | Medium |
+| 2391 | Minimum Amount of Time to Collect Garbage | [Ruby](./algorithms/ruby/2391-minimum-amount-of-time-to-collect-garbage.rb) | Medium |
 | 2405 | Count Days Spent Together | [Ruby](./algorithms/ruby/2405-optimal-partition-of-string.rb) | Medium |
 | 2409 | Count Days Spent Together | [Ruby](./algorithms/ruby/2409-count-days-spent-together.rb) | Easy |
 | 2413 | Smallest Even Multiple | [Ruby](./algorithms/ruby/2413-smallest-even-multiple.rb) | Easy |
