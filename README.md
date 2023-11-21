@@ -393,6 +393,7 @@
 | 1793 | Maximum Score of a Good Subarray | [Ruby](./algorithms/ruby/1793-maximum-score-of-a-good-subarray.rb) | Hard |
 | 1799 | Maximize Score After N Operations | [Ruby](./algorithms/ruby/1799-maximize-score-after-n-operations.rb) | Hard |
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
+| 1814 | Count Nice Pairs in an Array | [Ruby](./algorithms/ruby/1814-count-nice-pairs-in-an-array.rb) | Medium |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
 | 1838 | Frequency of the Most Frequent Element | [Ruby](./algorithms/ruby/1838-frequency-of-the-most-frequent-element.rb) | Medium |
 | 1845 | Seat Reservation Manager | [Ruby](./algorithms/ruby/1845-seat-reservation-manager.rb) | Medium |
