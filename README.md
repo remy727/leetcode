@@ -493,6 +493,7 @@
 | 1683 | Invalid Tweets | [MySQL](./database/1683-invalid-tweets.sql) | Easy |
 | 1757 | Recyclable and Low Fat Products | [MySQL](./database/1757-recyclable-and-low-fat-products.sql) | Easy |
 | 1934 | Confirmation Rate | [MySQL](./database/1934-confirmation-rate.sql) | Medium |
+| 2356 | Confirmation Rate | [MySQL](./database/2356-number-of-unique-subjects-taught-by-each-teacher.sql) | Easy |
 
 ### Shell
 | # | Title | Solution | Difficulty |
