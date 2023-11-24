@@ -367,6 +367,7 @@
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
 | 1547 | Minimum Cost to Cut a Stick | [Ruby](./algorithms/ruby/1547-minimum-cost-to-cut-a-stick.rb) | Hard |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [Ruby](./algorithms/ruby/1557-minimum-number-of-vertices-to-reach-all-nodes.rb) | Medium |
+| 1561 | Maximum Number of Coins You Can Get | [Ruby](./algorithms/ruby/1561-maximum-number-of-coins-you-can-get.rb) | Medium |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | [Ruby](./algorithms/ruby/1569-number-of-ways-to-reorder-array-to-get-same-bst.rb) | Hard |
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
 | 1575 | Count All Possible Routes | [Ruby](./algorithms/ruby/1575-count-all-possible-routes.rb) | Hard |
