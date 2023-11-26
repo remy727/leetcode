@@ -389,6 +389,7 @@
 | 1697 | Checking Existence of Edge Length Limited Paths | [Ruby](./algorithms/ruby/1697-checking-existence-of-edge-length-limited-paths.rb) | Hard |
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 1721 | Swapping Nodes in a Linked List | [Ruby](./algorithms/ruby/1721-swapping-nodes-in-a-linked-list.rb) | Medium |
+| 1727 | Largest Submatrix With Rearrangements | [Ruby](./algorithms/ruby/1727-largest-submatrix-with-rearrangements.rb) | Medium |
 | 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
 | 1743 | Restore the Array From Adjacent Pairs | [Ruby](./algorithms/ruby/1743-restore-the-array-from-adjacent-pairs.rb) | Medium |
 | 1751 | Maximum Number of Events That Can Be Attended II | [Ruby](./algorithms/ruby/1751-maximum-number-of-events-that-can-be-attended-ii.rb) | Hard |
