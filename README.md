@@ -291,6 +291,7 @@
 | 920 | Number of Music Playlists | [Ruby](./algorithms/ruby/0920-number-of-music-playlists.rb) | Hard |
 | 933 | Number of Recent Calls | [Ruby](./algorithms/ruby/0933-number-of-recent-calls.rb) | Easy |
 | 934 | Shortest Bridge | [Ruby](./algorithms/ruby/0934-shortest-bridge.rb) | Medium |
+| 935 | Knight Dialer | [Ruby](./algorithms/ruby/0935-knight-dialer.rb) | Medium |
 | 946 | Validate Stack Sequences | [Ruby](./algorithms/ruby/0946-validate-stack-sequences.rb) | Medium |
 | 947 | Most Stones Removed with Same Row or Column | [Ruby](./algorithms/ruby/0947-most-stones-removed-with-same-row-or-column.rb) | Medium |
 | 953 | Verifying an Alien Dictionary | [Ruby](./algorithms/ruby/0953-verifying-an-alien-dictionary.rb) | Easy |
