@@ -376,6 +376,7 @@
 | 1584 | Min Cost to Connect All Points | [Ruby](./algorithms/ruby/1584-min-cost-to-connect-all-points.rb) | Medium |
 | 1601 | Maximum Number of Achievable Transfer Requests | [Ruby](./algorithms/ruby/1601-maximum-number-of-achievable-transfer-requests.rb) | Hard |
 | 1603 | Design Parking System | [Ruby](./algorithms/ruby/1603-design-parking-system.rb) | Easy |
+| 1611 | Minimum One Bit Operations to Make Integers Zero | [Ruby](./algorithms/ruby/1611-minimum-one-bit-operations-to-make-integers-zero.rb) | Hard |
 | 1615 | Maximal Network Rank | [Ruby](./algorithms/ruby/1615-maximal-network-rank.rb) | Medium |
 | 1630 | Arithmetic Subarrays | [Ruby](./algorithms/ruby/1630-arithmetic-subarrays.rb) | Medium |
 | 1631 | Path With Minimum Effort | [Ruby](./algorithms/ruby/1631-path-with-minimum-effort.rb) | Medium |
