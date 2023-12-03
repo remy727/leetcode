@@ -327,6 +327,7 @@
 | 1220 | Count Vowels Permutation | [Ruby](./algorithms/ruby/1220-count-vowels-permutation.rb) | Hard |
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
+| 1266 | Minimum Time Visiting All Points | [Ruby](./algorithms/ruby/1266-minimum-time-visiting-all-points.rb) | Easy |
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | [Ruby](./algorithms/ruby/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.rb) | Hard |
 | 1282 | Group the People Given the Group Size They Belong To | [Ruby](./algorithms/ruby/1282-group-the-people-given-the-group-size-they-belong-to.rb) | Medium |
