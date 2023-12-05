@@ -391,6 +391,7 @@
 | 1679 | Max Number of K-Sum Pairs | [Ruby](./algorithms/ruby/1679-max-number-of-k-sum-pairs.rb) | Medium |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
 | 1685 | Sum of Absolute Differences in a Sorted Array | [Ruby](./algorithms/ruby/1685-sum-of-absolute-differences-in-a-sorted-array.rb) | Medium |
+| 1688 | Count of Matches in Tournament | [Ruby](./algorithms/ruby/1688-count-of-matches-in-tournament.rb) | Easy |
 | 1697 | Checking Existence of Edge Length Limited Paths | [Ruby](./algorithms/ruby/1697-checking-existence-of-edge-length-limited-paths.rb) | Hard |
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
 | 1721 | Swapping Nodes in a Linked List | [Ruby](./algorithms/ruby/1721-swapping-nodes-in-a-linked-list.rb) | Medium |
@@ -433,6 +434,7 @@
 | 2215 | Find the Difference of Two Arrays | [Ruby](./algorithms/ruby/2215-find-the-difference-of-two-arrays.rb) | Easy |
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
 | 2251 | Number of Flowers in Full Bloom | [Ruby](./algorithms/ruby/2251-number-of-flowers-in-full-bloom.rb) | Hard |
+| 2264 | Largest 3-Same-Digit Number in String | [Ruby](./algorithms/ruby/2264-largest-3-same-digit-number-in-string.rb) | Easy |
 | 2265 | Count Nodes Equal to Average of Subtree | [Ruby](./algorithms/ruby/2265-count-nodes-equal-to-average-of-subtree.rb) | Medium |
 | 2272 | Substring With Largest Variance | [Ruby](./algorithms/ruby/2272-substring-with-largest-variance.rb) | Hard |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
