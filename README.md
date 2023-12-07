@@ -394,6 +394,7 @@
 | 1688 | Count of Matches in Tournament | [Ruby](./algorithms/ruby/1688-count-of-matches-in-tournament.rb) | Easy |
 | 1697 | Checking Existence of Edge Length Limited Paths | [Ruby](./algorithms/ruby/1697-checking-existence-of-edge-length-limited-paths.rb) | Hard |
 | 1706 | Where Will the Ball Fall | [Ruby](./algorithms/ruby/1706-where-will-the-ball-fall.rb) | Medium |
+| 1716 | Calculate Money in Leetcode Bank | [Ruby](./algorithms/ruby/1716-calculate-money-in-leetcode-bank.rb) | Easy |
 | 1721 | Swapping Nodes in a Linked List | [Ruby](./algorithms/ruby/1721-swapping-nodes-in-a-linked-list.rb) | Medium |
 | 1727 | Largest Submatrix With Rearrangements | [Ruby](./algorithms/ruby/1727-largest-submatrix-with-rearrangements.rb) | Medium |
 | 1732 | Find the Highest Altitude | [Ruby](./algorithms/ruby/1732-find-the-highest-altitude.rb) | Easy |
@@ -413,6 +414,7 @@
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1877 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1877-minimize-maximum-pair-sum-in-array.rb) | Medium |
 | 1887 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1887-reduction-operations-to-make-the-array-elements-equal.rb) | Medium |
+| 1903 | Largest Odd Number in String | [Ruby](./algorithms/ruby/1903-largest-odd-number-in-string.rb) | Easy |
 | 1921 | Eliminate Maximum Number of Monsters | [Ruby](./algorithms/ruby/1921-eliminate-maximum-number-of-monsters.rb) | Medium |
 | 1926 | Nearest Exit from Entrance in Maze | [Ruby](./algorithms/ruby/1926-nearest-exit-from-entrance-in-maze.rb) | Medium |
 | 1930 | Unique Length-3 Palindromic Subsequences | [Ruby](./algorithms/ruby/1930-unique-length-3-palindromic-subsequences.rb) | Medium |
