@@ -229,6 +229,7 @@
 | 567 | Permutation in String | [Ruby](./algorithms/ruby/0567-permutation-in-string.rb) | Medium |
 | 589 | N-ary Tree Preorder Traversal | [Ruby](./algorithms/ruby/0589-n-ary-tree-preorder-traversal.rb) | Easy |
 | 605 | Can Place Flowers | [Ruby](./algorithms/ruby/0605-can-place-flowers.rb) | Easy |
+| 606 | Construct String from Binary Tree | [Ruby](./algorithms/ruby/0606-construct-string-from-binary-tree.rb) | Easy |
 | 621 | Task Scheduler | [Ruby](./algorithms/ruby/0621-task-scheduler.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
 | 637 | Average of Levels in Binary Tree | [Ruby](./algorithms/ruby/0637-average-of-levels-in-binary-tree.rb) | Easy |
