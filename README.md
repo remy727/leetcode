@@ -73,6 +73,7 @@
 | 88 | Merge Sorted Array | [Ruby](./algorithms/ruby/0088-merge-sorted-array.rb) | Easy |
 | 91 | Decode Ways | [Ruby](./algorithms/ruby/0091-decode-ways.rb) | Medium |
 | 92 | Reverse Linked List II | [Ruby](./algorithms/ruby/0092-reverse-linked-list-ii.rb) | Medium |
+| 94 | Binary Tree Inorder Traversal | [Ruby](./algorithms/ruby/0094-binary-tree-inorder-traversal.rb) | Easy |
 | 95 | Unique Binary Search Trees II | [Ruby](./algorithms/ruby/0095-unique-binary-search-trees-ii.rb) | Medium |
 | 97 | Interleaving String | [Ruby](./algorithms/ruby/0097-interleaving-string.rb) | Medium |
 | 98 | Validate Binary Search Tree | [Ruby](./algorithms/ruby/0098-validate-binary-search-tree.rb) | Medium |
@@ -275,6 +276,7 @@
 | 859 | Buddy Strings | [Ruby](./algorithms/ruby/0859-buddy-strings.rb) | Easy |
 | 863 | All Nodes Distance K in Binary Tree | [Ruby](./algorithms/ruby/0863-all-nodes-distance-k-in-binary-tree.rb) | Medium |
 | 864 | Backspace String Compare | [Ruby](./algorithms/ruby/0864-shortest-path-to-get-all-keys.rb) | Hard |
+| 867 | Transpose Matrix | [Ruby](./algorithms/ruby/0867-transpose-matrix.rb) | Easy |
 | 872 | Leaf-Similar Trees | [Ruby](./algorithms/ruby/0872-leaf-similar-trees.rb) | Medium |
 | 875 | Koko Eating Bananas | [Ruby](./algorithms/ruby/0875-koko-eating-bananas.rb) [Python3](./algorithms/python3/0875-koko-eating-bananas.py) | Medium |
 | 876 | Middle of the Linked List | [Ruby](./algorithms/ruby/0876-middle-of-the-linked-list.rb) | Easy |
