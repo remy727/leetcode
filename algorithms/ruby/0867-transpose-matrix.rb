@@ -37,7 +37,7 @@ end
 require "test/unit"
 class Test_transpose < Test::Unit::TestCase
   def test_
-    assert_equal [[1,4,7],[2,5,8],[3,6,9]], transpose([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
+    assert_equal [[1, 4, 7], [2, 5, 8], [3, 6, 9]], transpose([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
     assert_equal [[1, 4], [2, 5], [3, 6]], transpose([[1, 2, 3], [4, 5, 6]])
   end
 end

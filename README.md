@@ -334,6 +334,7 @@
 | 1268 | Search Suggestions System | [Ruby](./algorithms/ruby/1268-search-suggestions-system.rb) | Medium |
 | 1269 | Number of Ways to Stay in the Same Place After Some Steps | [Ruby](./algorithms/ruby/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps.rb) | Hard |
 | 1282 | Group the People Given the Group Size They Belong To | [Ruby](./algorithms/ruby/1282-group-the-people-given-the-group-size-they-belong-to.rb) | Medium |
+| 1287 | Element Appearing More Than 25% In Sorted Array | [Ruby](./algorithms/ruby/1287-element-appearing-more-than-25-in-sorted-array.rb) | Easy |
 | 1318 | Minimum Flips to Make a OR b Equal to c | [Ruby](./algorithms/ruby/1318-minimum-flips-to-make-a-or-b-equal-to-c.rb) | Medium |
 | 1319 | Number of Operations to Make Network Connected | [Ruby](./algorithms/ruby/1319-number-of-operations-to-make-network-connected.rb) | Medium |
 | 1326 | Minimum Number of Taps to Open to Water a Garden | [Ruby](./algorithms/ruby/1326-minimum-number-of-taps-to-open-to-water-a-garden.rb) | Hard |
