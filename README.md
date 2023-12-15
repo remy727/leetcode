@@ -353,6 +353,7 @@
 | 1424 | Diagonal Traverse II | [Ruby](./algorithms/ruby/1424-diagonal-traverse-ii.rb) | Medium |
 | 1425 | Constrained Subsequence Sum | [Ruby](./algorithms/ruby/1425-constrained-subsequence-sum.rb.rb) | Hard |
 | 1431 | Kids With the Greatest Number of Candies | [Ruby](./algorithms/ruby/1431-kids-with-the-greatest-number-of-candies.rb) | Easy |
+| 1436 | 1436. Destination City | [Ruby](./algorithms/ruby/1436-destination-city.rb) | Easy |
 | 1441 | Build an Array With Stack Operations | [Ruby](./algorithms/ruby/1441-build-an-array-with-stack-operations.rb) | Medium |
 | 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
 | 1448 | Count Good Nodes in Binary Tree | [Ruby](./algorithms/ruby/1448-count-good-nodes-in-binary-tree.rb) | Medium |
@@ -478,6 +479,7 @@
 | 2707 | Extra Characters in a String | [Ruby](./algorithms/ruby/2707-extra-characters-in-a-string.rb) | Medium |
 | 2742 | Painting the Walls | [Ruby](./algorithms/ruby/2742-painting-the-walls.rb) | Hard |
 | 2785 | Sort Vowels in a String | [Ruby](./algorithms/ruby/2785-sort-vowels-in-a-string.rb) | Medium |
+| 2842 | Difference Between Ones and Zeros in Row and Column | [Ruby](./algorithms/ruby/2842-difference-between-ones-and-zeros-in-row-and-column.rb) | Medium |
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
 
 ### Database
