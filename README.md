@@ -452,6 +452,7 @@
 | 2336 | Smallest Number in Infinite Set | [Ruby](./algorithms/ruby/2336-smallest-number-in-infinite-set.rb) | Medium |
 | 2348 | Number of Zero-Filled Subarrays | [Ruby](./algorithms/ruby/2348-number-of-zero-filled-subarrays.rb) | Medium |
 | 2352 | Equal Row and Column Pairs | [Ruby](./algorithms/ruby/2352-equal-row-and-column-pairs.rb) | Medium |
+| 2353 | Design a Food Rating System | [Ruby](./algorithms/ruby/2353-design-a-food-rating-system.rb) | Medium |
 | 2360 | Longest Cycle in a Graph | [Ruby](./algorithms/ruby/2360-longest-cycle-in-a-graph.rb) | Hard |
 | 2366 | Minimum Replacements to Sort the Array | [Ruby](./algorithms/ruby/2366-minimum-replacements-to-sort-the-array.rb) | Hard |
 | 2369 | Check if There is a Valid Partition For The Array | [Ruby](./algorithms/ruby/2369-check-if-there-is-a-valid-partition-for-the-array.rb) | Medium |
