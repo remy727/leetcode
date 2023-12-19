@@ -238,6 +238,7 @@
 | 646 | Maximum Length of Pair Chain | [Ruby](./algorithms/ruby/0646-maximum-length-of-pair-chain.rb) | Medium |
 | 649 | Dota2 Senate | [Ruby](./algorithms/ruby/0649-dota2-senate.rb) | Medium |
 | 652 | Find Duplicate Subtrees | [Ruby](./algorithms/ruby/0652-find-duplicate-subtrees.rb) | Medium |
+| 661 | Image Smoother | [Ruby](./algorithms/ruby/0661-image-smoother.rb) | Easy |
 | 662 | Maximum Width of Binary Tree | [Ruby](./algorithms/ruby/0662-maximum-width-of-binary-tree.rb) | Medium |
 | 664 | Strange Printer | [Ruby](./algorithms/ruby/0664-strange-printer.rb) | Hard |
 | 673 | Number of Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0673-number-of-longest-increasing-subsequence.rb) | Medium |
