@@ -389,6 +389,7 @@
 | 1615 | Maximal Network Rank | [Ruby](./algorithms/ruby/1615-maximal-network-rank.rb) | Medium |
 | 1630 | Arithmetic Subarrays | [Ruby](./algorithms/ruby/1630-arithmetic-subarrays.rb) | Medium |
 | 1631 | Path With Minimum Effort | [Ruby](./algorithms/ruby/1631-path-with-minimum-effort.rb) | Medium |
+| 1637 | Widest Vertical Area Between Two Points Containing No Points | [Ruby](./algorithms/ruby/1637-widest-vertical-area-between-two-points-containing-no-points.rb) | Medium |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | [Ruby](./algorithms/ruby/1647-minimum-deletions-to-make-character-frequencies-unique.rb) | Medium |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
@@ -478,6 +479,7 @@
 | 2642 | Design Graph With Shortest Path Calculator | [Ruby](./algorithms/ruby/2642-design-graph-with-shortest-path-calculator.rb) | Hard |
 | 2696 | Minimum String Length After Removing Substrings | [Ruby](./algorithms/ruby/2696-minimum-string-length-after-removing-substrings.rb) | Easy |
 | 2697 | Lexicographically Smallest Palindrome | [Ruby](./algorithms/ruby/2697-lexicographically-smallest-palindrome.rb) | Easy |
+| 2706 | Buy Two Chocolates | [Ruby](./algorithms/ruby/2706-buy-two-chocolates.rb) | Easy |
 | 2707 | Extra Characters in a String | [Ruby](./algorithms/ruby/2707-extra-characters-in-a-string.rb) | Medium |
 | 2742 | Painting the Walls | [Ruby](./algorithms/ruby/2742-painting-the-walls.rb) | Hard |
 | 2785 | Sort Vowels in a String | [Ruby](./algorithms/ruby/2785-sort-vowels-in-a-string.rb) | Medium |
