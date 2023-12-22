@@ -351,6 +351,7 @@
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | [Ruby](./algorithms/ruby/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rb) | Hard |
+| 1422 | Maximum Score After Splitting a String | [Ruby](./algorithms/ruby/1422-maximum-score-after-splitting-a-string.rb) | Easy |
 | 1424 | Diagonal Traverse II | [Ruby](./algorithms/ruby/1424-diagonal-traverse-ii.rb) | Medium |
 | 1425 | Constrained Subsequence Sum | [Ruby](./algorithms/ruby/1425-constrained-subsequence-sum.rb.rb) | Hard |
 | 1431 | Kids With the Greatest Number of Candies | [Ruby](./algorithms/ruby/1431-kids-with-the-greatest-number-of-candies.rb) | Easy |
