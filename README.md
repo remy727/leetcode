@@ -20,6 +20,7 @@
 | 15 | 3Sum | [Ruby](./algorithms/ruby/0015-3sum.rb) | Medium |
 | 16 | 3Sum Closest | [Ruby](./algorithms/ruby/0016-3sum-closest.rb) | Medium |
 | 17 | Letter Combinations of a Phone Number | [Ruby](./algorithms/ruby/0017-letter-combinations-of-a-phone-number.rb) | Medium |
+| 18 | 4Sum | [Ruby](./algorithms/ruby/0018-4sum.rb) | Medium |
 | 19 | Remove Nth Node From End of List | [Ruby](./algorithms/ruby/0019-remove-nth-node-from-end-of-list.rb) | Medium |
 | 20 | Valid Parentheses | [Ruby](./algorithms/ruby/0020-valid-parentheses.rb) | Easy |
 | 21 | Merge Two Sorted Lists | [Ruby](./algorithms/ruby/0021-merge-two-sorted-lists.rb) | Easy |
