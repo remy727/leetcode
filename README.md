@@ -363,6 +363,7 @@
 | 1444 | Number of Ways of Cutting a Pizza | [Ruby](./algorithms/ruby/1444-number-of-ways-of-cutting-a-pizza.rb) [Python3](./algorithms/python3/1444-number-of-ways-of-cutting-a-pizza.py) | Hard |
 | 1448 | Count Good Nodes in Binary Tree | [Ruby](./algorithms/ruby/1448-count-good-nodes-in-binary-tree.rb) | Medium |
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | [Ruby](./algorithms/ruby/1456-maximum-number-of-vowels-in-a-substring-of-given-length.rb) | Medium |
+| 1457 | Pseudo-Palindromic Paths in a Binary Tree | [Ruby](./algorithms/ruby/1456-pseudo-palindromic-paths-in-a-binary-tree.rb) | Medium |
 | 1458 | Max Dot Product of Two Subsequences | [Ruby](./algorithms/ruby/1458-max-dot-product-of-two-subsequences.rb) | Hard |
 | 1464 | Maximum Product of Two Elements in an Array | [Ruby](./algorithms/ruby/1464-maximum-product-of-two-elements-in-an-array.rb) | Easy |
 | 1466 | Reorder Routes to Make All Paths Lead to the City Zero | [Ruby](./algorithms/ruby/1466-eorder-routes-to-make-all-paths-lead-to-the-city-zero.rb) | Medium |
