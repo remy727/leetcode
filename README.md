@@ -376,6 +376,7 @@
 | 1498 | Number of Subsequences That Satisfy the Given Sum Condition | [Ruby](./algorithms/ruby/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.rb) | Medium |
 | 1502 | Can Make Arithmetic Progression From Sequence | [Ruby](./algorithms/ruby/1502-can-make-arithmetic-progression-from-sequence.rb) | Easy |
 | 1503 | Last Moment Before All Ants Fall Out of a Plank | [Ruby](./algorithms/ruby/1503-last-moment-before-all-ants-fall-out-of-a-plank.rb) | Medium |
+| 1508 | Range Sum of Sorted Subarray Sums | [Ruby](./algorithms/ruby/1508-range-sum-of-sorted-subarray-sums.rb) | Medium |
 | 1514 | Path with Maximum Probability | [Ruby](./algorithms/ruby/1514-path-with-maximum-probability.rb) | Medium |
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1535 | Find the Winner of an Array Game | [Ruby](./algorithms/ruby/1535-find-the-winner-of-an-array-game.rb) | Medium |
