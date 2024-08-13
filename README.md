@@ -37,6 +37,7 @@
 | 35 | Search Insert Position | [Ruby](./algorithms/ruby/0035-search-insert-position.rb) | Easy |
 | 36 | Valid Sudoku | [Ruby](./algorithms/ruby/0036-valid-sudoku.rb) | Medium |
 | 39 | Combination Sum | [Ruby](./algorithms/ruby/0039-combination-sum.rb) | Medium |
+| 40 | Combination Sum II | [Ruby](./algorithms/ruby/0040-combination-sum-ii.rb) | Medium |
 | 42 | Trapping Rain Water | [Ruby](./algorithms/ruby/0042-trapping-rain-water.rb) | Hard |
 | 43 | Multiply Strings | [Ruby](./algorithms/ruby/0043-multiply-strings.rb) | Medium |
 | 45 | Jump Game II | [Ruby](./algorithms/ruby/0045-jump-game-ii.rb) | Medium |
