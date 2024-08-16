@@ -236,6 +236,7 @@
 | 606 | Construct String from Binary Tree | [Ruby](./algorithms/ruby/0606-construct-string-from-binary-tree.rb) | Easy |
 | 621 | Task Scheduler | [Ruby](./algorithms/ruby/0621-task-scheduler.rb) | Medium |
 | 622 | Design Circular Queue | [Ruby](./algorithms/ruby/0622-design-circular-queue.rb) | Medium |
+| 624 | Maximum Distance in Arrays | [Ruby](./algorithms/ruby/0624-maximum-distance-in-arrays.rb) | Medium |
 | 637 | Average of Levels in Binary Tree | [Ruby](./algorithms/ruby/0637-average-of-levels-in-binary-tree.rb) | Easy |
 | 643 | Maximum Average Subarray I | [Ruby](./algorithms/ruby/0643-maximum-average-subarray-i.rb) | Easy |
 | 646 | Maximum Length of Pair Chain | [Ruby](./algorithms/ruby/0646-maximum-length-of-pair-chain.rb) | Medium |
