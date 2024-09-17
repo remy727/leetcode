@@ -225,6 +225,7 @@
 | 516 | Longest Palindromic Subsequence | [Ruby](./algorithms/ruby/0516-longest-palindromic-subsequence.rb) | Medium |
 | 518 | Coin Change II | [Ruby](./algorithms/ruby/0518-coin-change-ii.rb) | Medium |
 | 530 | Minimum Absolute Difference in BST | [Ruby](./algorithms/ruby/0530-minimum-absolute-difference-in-bst.rb) | Easy |
+| 539 | Minimum Time Difference | [Ruby](./algorithms/ruby/0539-minimum-time-difference.rb) | Medium |
 | 540 | Single Element in a Sorted Array | [Ruby](./algorithms/ruby/0540-single-element-in-a-sorted-array.rb) | Medium |
 | 542 | 01 Matrix | [Ruby](./algorithms/ruby/0542-01-matrix.rb) | Medium |
 | 543 | Diameter of Binary Tree | [Ruby](./algorithms/ruby/0543-diameter-of-binary-tree.rb) | Easy |
