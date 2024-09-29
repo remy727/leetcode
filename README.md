@@ -205,6 +205,7 @@
 | 417 | Pacific Atlantic Water Flow | [Ruby](./algorithms/ruby/0417-pacific-atlantic-water-flow.rb) | Medium |
 | 424 | Longest Repeating Character Replacement | [Ruby](./algorithms/ruby/0424-longest-repeating-character-replacement.rb) | Medium |
 | 427 | Construct Quad Tree | [Ruby](./algorithms/ruby/0427-construct-quad-tree.rb) | Medium |
+| 432 | All O`one Data Structure | [Ruby](./algorithms/ruby/0432-all-oone-data-structure.rb) | Hard |
 | 433 | Minimum Genetic Mutation | [Ruby](./algorithms/ruby/0433-minimum-genetic-mutation.rb) | Medium |
 | 435 | Non-overlapping Intervals | [Ruby](./algorithms/ruby/0435-non-overlapping-intervals.rb) | Medium |
 | 437 | Path Sum III | [Ruby](./algorithms/ruby/0437-path-sum-iii.rb) | Medium |
