@@ -355,6 +355,7 @@
 | 1361 | Validate Binary Tree Nodes | [Ruby](./algorithms/ruby/1361-validate-binary-tree-nodes.rb) | Medium |
 | 1371 | Find the Longest Substring Containing Vowels in Even Counts | [Ruby](./algorithms/ruby/1371-find-the-longest-substring-containing-vowels-in-even-counts.rb) | Medium |
 | 1376 | Time Needed to Inform All Employees | [Ruby](./algorithms/ruby/1376-time-needed-to-inform-all-employees.rb) | Medium |
+| 1381 | Design a Stack With Increment Operation | [Ruby](./algorithms/ruby/1381-design-a-stack-with-increment-operation.rb) | Medium |
 | 1396 | Design Underground System | [Ruby](./algorithms/ruby/1396-design-underground-system.rb) | Medium |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
