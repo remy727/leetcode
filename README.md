@@ -358,6 +358,7 @@
 | 1381 | Design a Stack With Increment Operation | [Ruby](./algorithms/ruby/1381-design-a-stack-with-increment-operation.rb) | Medium |
 | 1396 | Design Underground System | [Ruby](./algorithms/ruby/1396-design-underground-system.rb) | Medium |
 | 1402 | Reducing Dishes | [Ruby](./algorithms/ruby/1402-reducing-dishes.rb) | Hard |
+| 1405 | Longest Happy String | [Ruby](./algorithms/ruby/1405-longest-happy-string.rb) | Medium |
 | 1406 | Stone Game III | [Ruby](./algorithms/ruby/1406-stone-game-iii.rb) | Hard |
 | 1416 | Restore The Array | [Ruby](./algorithms/ruby/1416-restore-the-array.rb) | Hard |
 | 1420 | Build Array Where You Can Find The Maximum Exactly K Comparisons | [Ruby](./algorithms/ruby/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons.rb) | Hard |
