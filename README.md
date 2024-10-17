@@ -247,6 +247,7 @@
 | 661 | Image Smoother | [Ruby](./algorithms/ruby/0661-image-smoother.rb) | Easy |
 | 662 | Maximum Width of Binary Tree | [Ruby](./algorithms/ruby/0662-maximum-width-of-binary-tree.rb) | Medium |
 | 664 | Strange Printer | [Ruby](./algorithms/ruby/0664-strange-printer.rb) | Hard |
+| 670 | Maximum Swap | [Ruby](./algorithms/ruby/0670-maximum-swap.rb) | Medium |
 | 673 | Number of Longest Increasing Subsequence | [Ruby](./algorithms/ruby/0673-number-of-longest-increasing-subsequence.rb) | Medium |
 | 688 | Knight Probability in Chessboard | [Ruby](./algorithms/ruby/0688-knight-probability-in-chessboard.rb) | Medium |
 | 692 | Top K Frequent Words | [Ruby](./algorithms/ruby/0692-top-k-frequent-words.rb) | Medium |
