@@ -447,6 +447,7 @@
 | 1980 | Find Unique Binary String | [Ruby](./algorithms/ruby/1980-find-unique-binary-string.rb) | Medium |
 | 2009 | Minimum Number of Operations to Make Array Continuous | [Ruby](./algorithms/ruby/2009-minimum-number-of-operations-to-make-array-continuous.rb) | Hard |
 | 2024 | Maximize the Confusion of an Exam | [Ruby](./algorithms/ruby/2024-maximize-the-confusion-of-an-exam.rb) | Medium |
+| 2044 | Count Number of Maximum Bitwise-OR Subsets | [Ruby](./algorithms/ruby/2044-count-number-of-maximum-bitwise-or-subsets.rb) | Medium |
 | 2050 | Parallel Courses III | [Ruby](./algorithms/ruby/2050-parallel-courses-iii.rb) | Hard |
 | 2090 | K Radius Subarray Averages | [Ruby](./algorithms/ruby/2090-k-radius-subarray-averages.rb) | Medium |
 | 2095 | Delete the Middle Node of a Linked List | [Ruby](./algorithms/ruby/2095-delete-the-middle-node-of-a-linked-list.rb) | Medium |

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # 432. All O`one Data Structure
 # Hard
 # https://leetcode.com/problems/all-oone-data-structure
@@ -37,8 +39,8 @@ Constraints:
 =end
 
 class AllOne
-  def initialize()
-    @smin, @smax, @str = '', '', Hash.new(0)
+  def initialize
+    @smin, @smax, @str = "", "", Hash.new(0)
   end
 
 =begin
@@ -78,10 +80,9 @@ class AllOne
   end
 
   private
-
-  def find_v(sign = 0, val = sign == 0 ? @str.values.min : @str.values.max)
-    @str.find { |_, v| v == val }&.first || ''
-  end
+    def find_v(sign = 0, val = sign == 0 ? @str.values.min : @str.values.max)
+      @str.find { |_, v| v == val }&.first || ""
+    end
 end
 
 # Your AllOne object will be instantiated and called as such:
