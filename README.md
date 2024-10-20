@@ -322,6 +322,7 @@
 | 1048 | Longest String Chain | [Ruby](./algorithms/ruby/1048-longest-string-chain.rb) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
 | 1091 | Shortest Path in Binary Matrix | [Ruby](./algorithms/ruby/1091-shortest-path-in-binary-matrix.rb) | Medium |
+| 1106 | Parsing A Boolean Expression | [Ruby](./algorithms/ruby/1106-parsing-a-boolean-expression.rb) | Hard |
 | 1125 | Smallest Sufficient Team | [Ruby](./algorithms/ruby/1125-smallest-sufficient-team.rb) | Hard |
 | 1129 | Shortest Path with Alternating Colors | [Ruby](./algorithms/ruby/1129-shortest-path-with-alternating-colors.rb) | Medium |
 | 1137 | N-th Tribonacci Number | [Ruby](./algorithms/ruby/1137-n-th-tribonacci-number.rb) | Easy |
