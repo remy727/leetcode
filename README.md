@@ -390,6 +390,7 @@
 | 1523 | Count Odd Numbers in an Interval Range | [Ruby](./algorithms/ruby/1523-count-odd-numbers-in-an-interval-range.rb) | Easy |
 | 1535 | Find the Winner of an Array Game | [Ruby](./algorithms/ruby/1535-find-the-winner-of-an-array-game.rb) | Medium |
 | 1539 | Kth Missing Positive Number | [Ruby](./algorithms/ruby/1539-kth-missing-positive-number.rb) | Easy |
+| 1545 | Find Kth Bit in Nth Binary String | [Ruby](./algorithms/ruby/1545-find-kth-bit-in-nth-binary-string.rb) | Medium |
 | 1547 | Minimum Cost to Cut a Stick | [Ruby](./algorithms/ruby/1547-minimum-cost-to-cut-a-stick.rb) | Hard |
 | 1557 | Minimum Number of Vertices to Reach All Nodes | [Ruby](./algorithms/ruby/1557-minimum-number-of-vertices-to-reach-all-nodes.rb) | Medium |
 | 1561 | Maximum Number of Coins You Can Get | [Ruby](./algorithms/ruby/1561-maximum-number-of-coins-you-can-get.rb) | Medium |
