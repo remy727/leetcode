@@ -339,6 +339,7 @@
 | 1218 | Longest Arithmetic Subsequence of Given Difference | [Ruby](./algorithms/ruby/1218-longest-arithmetic-subsequence-of-given-difference.rb) | Medium |
 | 1220 | Count Vowels Permutation | [Ruby](./algorithms/ruby/1220-count-vowels-permutation.rb) | Hard |
 | 1232 | Check If It Is a Straight Line | [Ruby](./algorithms/ruby/1232-check-if-it-is-a-straight-line.rb) | Easy |
+| 1233 | Remove Sub-Folders from the Filesystem | [Ruby](./algorithms/ruby/1233-remove-sub-folders-from-the-filesystem.rb) | Medium |
 | 1239 | Maximum Length of a Concatenated String with Unique Characters | [Ruby](./algorithms/ruby/1239-maximum-length-of-a-concatenated-string-with-unique-characters.rb) | Medium |
 | 1254 | Number of Closed Islands | [Ruby](./algorithms/ruby/1254-number-of-closed-islands.rb) | Medium |
 | 1266 | Minimum Time Visiting All Points | [Ruby](./algorithms/ruby/1266-minimum-time-visiting-all-points.rb) | Easy |
