@@ -487,6 +487,7 @@
 | 2439 | Minimize Maximum of Array | [Ruby](./algorithms/ruby/2439-minimize-maximum-of-array.rb) | Medium |
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
 | 2448 | Minimum Cost to Make Array Equal | [Ruby](./algorithms/ruby/2448-minimum-cost-to-make-array-equal.rb) | Hard |
+| 2458 | Height of Binary Tree After Subtree Removal Queries | [Ruby](./algorithms/ruby/2458-height-of-binary-tree-after-subtree-removal-queries.rb) | Hard |
 | 2462 | Total Cost to Hire K Workers | [Python3](./algorithms/python3/2462-total-cost-to-hire-k-workers.py) | Medium |
 | 2466 | Count Ways To Build Good Strings | [Ruby](./algorithms/ruby/2466-count-ways-to-build-good-strings.rb) | Medium |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
