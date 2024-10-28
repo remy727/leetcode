@@ -494,6 +494,7 @@
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
 | 2483 | Minimum Penalty for a Shop | [Ruby](./algorithms/ruby/2483-minimum-penalty-for-a-shop.rb) | Medium |
 | 2492 | Minimum Score of a Path Between Two Cities | [Ruby](./algorithms/ruby/2492-minimum-score-of-a-path-between-two-cities.rb) | Medium |
+| 2501 | Longest Square Streak in an Array | [Ruby](./algorithms/ruby/2501-longest-square-streak-in-an-array.rb) | Medium |
 | 2542 | Maximum Subsequence Score | [Ruby](./algorithms/ruby/2542-maximum-subsequence-score.rb) | Medium |
 | 2551 | Put Marbles in Bags | [Ruby](./algorithms/ruby/2551-put-marbles-in-bags.rb) | Hard |
 | 2583 | Kth Largest Sum in a Binary Tree | [Ruby](./algorithms/ruby/2583-kth-largest-sum-in-a-binary-tree.rb) | Medium |
