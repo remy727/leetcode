@@ -414,6 +414,7 @@
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
 | 1658 | Minimum Operations to Reduce X to Zero | [Ruby](./algorithms/ruby/1658-minimum-operations-to-reduce-x-to-zero.rb) | Medium |
 | 1662 | Check If Two String Arrays are Equivalent | [Ruby](./algorithms/ruby/1662-check-if-two-string-arrays-are-equivalent.rb) | Easy |
+| 1671 | Minimum Number of Removals to Make Mountain Array | [Ruby](./algorithms/ruby/1671-minimum-number-of-removals-to-make-mountain-array.rb) | Hard |
 | 1675 | Minimize Deviation in Array | [Ruby](./algorithms/ruby/1675-minimize-deviation-in-array.rb) | Hard |
 | 1679 | Max Number of K-Sum Pairs | [Ruby](./algorithms/ruby/1679-max-number-of-k-sum-pairs.rb) | Medium |
 | 1680 | Concatenation of Consecutive Binary Numbers | [Ruby](./algorithms/ruby/1680-concatenation-of-consecutive-binary-numbers.rb) | Medium |
