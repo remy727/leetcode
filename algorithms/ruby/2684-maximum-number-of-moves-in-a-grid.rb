@@ -55,7 +55,7 @@ end
 require "test/unit"
 class Test_max_moves < Test::Unit::TestCase
   def test_
-    assert_equal 3, max_moves([[2,4,3,5],[5,4,9,3],[3,4,2,11],[10,9,13,15]])
-    assert_equal 0, max_moves([[3,2,4],[2,1,9],[1,1,7]])
+    assert_equal 3, max_moves([[2, 4, 3, 5], [5, 4, 9, 3], [3, 4, 2, 11], [10, 9, 13, 15]])
+    assert_equal 0, max_moves([[3, 2, 4], [2, 1, 9], [1, 1, 7]])
   end
 end
