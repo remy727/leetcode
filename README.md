@@ -491,6 +491,7 @@
 | 2448 | Minimum Cost to Make Array Equal | [Ruby](./algorithms/ruby/2448-minimum-cost-to-make-array-equal.rb) | Hard |
 | 2458 | Height of Binary Tree After Subtree Removal Queries | [Ruby](./algorithms/ruby/2458-height-of-binary-tree-after-subtree-removal-queries.rb) | Hard |
 | 2462 | Total Cost to Hire K Workers | [Python3](./algorithms/python3/2462-total-cost-to-hire-k-workers.py) | Medium |
+| 2463 | Minimum Total Distance Traveled | [Ruby](./algorithms/ruby/2463-minimum-total-distance-traveled.rb) | Hard |
 | 2466 | Count Ways To Build Good Strings | [Ruby](./algorithms/ruby/2466-count-ways-to-build-good-strings.rb) | Medium |
 | 2477 | Minimum Fuel Cost to Report to the Capital | [Ruby](./algorithms/ruby/2477-minimum-fuel-cost-to-report-to-the-capital.rb) | Medium |
 | 2483 | Minimum Penalty for a Shop | [Ruby](./algorithms/ruby/2483-minimum-penalty-for-a-shop.rb) | Medium |
