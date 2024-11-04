@@ -270,6 +270,7 @@
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
 | 790 | Domino and Tromino Tiling | [Ruby](./algorithms/ruby/0790-domino-and-tromino-tiling.rb) | Medium |
+| 796 | Rotate String | [Ruby](./algorithms/ruby/0796-rotate-string.rb) | Easy |
 | 799 | Champagne Tower | [Ruby](./algorithms/ruby/0799-champagne-tower.rb) | Medium |
 | 802 | Find Eventual Safe States | [Ruby](./algorithms/ruby/0802-find-eventual-safe-states.rb) | Medium |
 | 808 | Soup Servings | [Ruby](./algorithms/python3/0808-soup-servings.py) | Medium |
@@ -515,6 +516,7 @@
 | 2842 | Difference Between Ones and Zeros in Row and Column | [Ruby](./algorithms/ruby/2842-difference-between-ones-and-zeros-in-row-and-column.rb) | Medium |
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
 | 2966 | Divide Array Into Arrays With Max Difference | [Ruby](./algorithms/ruby/2966-divide-array-into-arrays-with-max-difference) | Medium |
+| 3163 | String Compression III | [Ruby](./algorithms/ruby/3163-string-compression-iii.rb) | Medium |
 
 ### Database
 | # | Title | Solution | Difficulty |
