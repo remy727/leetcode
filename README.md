@@ -516,6 +516,7 @@
 | 2842 | Difference Between Ones and Zeros in Row and Column | [Ruby](./algorithms/ruby/2842-difference-between-ones-and-zeros-in-row-and-column.rb) | Medium |
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
 | 2966 | Divide Array Into Arrays With Max Difference | [Ruby](./algorithms/ruby/2966-divide-array-into-arrays-with-max-difference) | Medium |
+| 3011 | Find if Array Can Be Sorted | [Ruby](./algorithms/ruby/3011-find-if-array-can-be-sorted.rb) | Medium |
 | 3163 | String Compression III | [Ruby](./algorithms/ruby/3163-string-compression-iii.rb) | Medium |
 
 ### Database
