@@ -436,6 +436,7 @@
 | 1802 | Maximum Value at a Given Index in a Bounded Array | [Ruby](./algorithms/ruby/1802-maximum-value-at-a-given-index-in-a-bounded-array.rb) | Medium |
 | 1814 | Count Nice Pairs in an Array | [Ruby](./algorithms/ruby/1814-count-nice-pairs-in-an-array.rb) | Medium |
 | 1822 | Sign of the Product of an Array | [Ruby](./algorithms/ruby/1822-sign-of-the-product-of-an-array.rb) | Easy |
+| 1829 | Maximum XOR for Each Query | [Ruby](./algorithms/ruby/1829-maximum-xor-for-each-query.rb) | Medium |
 | 1838 | Frequency of the Most Frequent Element | [Ruby](./algorithms/ruby/1838-frequency-of-the-most-frequent-element.rb) | Medium |
 | 1845 | Seat Reservation Manager | [Ruby](./algorithms/ruby/1845-seat-reservation-manager.rb) | Medium |
 | 1846 | Maximum Element After Decreasing and Rearranging | [Ruby](./algorithms/ruby/1846-maximum-element-after-decreasing-and-rearranging.rb) | Medium |
@@ -470,6 +471,7 @@
 | 2264 | Largest 3-Same-Digit Number in String | [Ruby](./algorithms/ruby/2264-largest-3-same-digit-number-in-string.rb) | Easy |
 | 2265 | Count Nodes Equal to Average of Subtree | [Ruby](./algorithms/ruby/2265-count-nodes-equal-to-average-of-subtree.rb) | Medium |
 | 2272 | Substring With Largest Variance | [Ruby](./algorithms/ruby/2272-substring-with-largest-variance.rb) | Hard |
+| 2275 | Largest Combination With Bitwise AND Greater Than Zero | [Ruby](./algorithms/ruby/2275-largest-combination-with-bitwise-and-greater-than-zero.rb) | Medium |
 | 2300 | Successful Pairs of Spells and Potions | [Ruby](./algorithms/ruby/2300-successful-pairs-of-spells-and-potions.rb) | Medium |
 | 2305 | Fair Distribution of Cookies | [Ruby](./algorithms/ruby/2305-fair-distribution-of-cookies.rb) | Medium |
 | 2316 | Count Unreachable Pairs of Nodes in an Undirected Graph | [Ruby](./algorithms/ruby/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph.rb) | Medium |
