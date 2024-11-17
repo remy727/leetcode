@@ -283,6 +283,7 @@
 | 847 | Shortest Path Visiting All Nodes | [Ruby](./algorithms/ruby/0847-shortest-path-visiting-all-nodes.rb) | Hard |
 | 852 | Peak Index in a Mountain Array | [Ruby](./algorithms/ruby/0852-peak-index-in-a-mountain-array.rb) | Medium |
 | 859 | Buddy Strings | [Ruby](./algorithms/ruby/0859-buddy-strings.rb) | Easy |
+| 862 | Shortest Subarray with Sum at Least K | [Ruby](./algorithms/ruby/0862-shortest-subarray-with-sum-at-least-k.rb) | Hard |
 | 863 | All Nodes Distance K in Binary Tree | [Ruby](./algorithms/ruby/0863-all-nodes-distance-k-in-binary-tree.rb) | Medium |
 | 864 | Backspace String Compare | [Ruby](./algorithms/ruby/0864-shortest-path-to-get-all-keys.rb) | Hard |
 | 867 | Transpose Matrix | [Ruby](./algorithms/ruby/0867-transpose-matrix.rb) | Easy |
@@ -400,6 +401,7 @@
 | 1561 | Maximum Number of Coins You Can Get | [Ruby](./algorithms/ruby/1561-maximum-number-of-coins-you-can-get.rb) | Medium |
 | 1569 | Number of Ways to Reorder Array to Get Same BST | [Ruby](./algorithms/ruby/1569-number-of-ways-to-reorder-array-to-get-same-bst.rb) | Hard |
 | 1572 | Matrix Diagonal Sum | [Ruby](./algorithms/ruby/1572-matrix-diagonal-sum.rb) | Easy |
+| 1574 | Shortest Subarray to be Removed to Make Array Sorted | [Ruby](./algorithms/ruby/1574-shortest-subarray-to-be-removed-to-make-array-sorted.rb) | Medium |
 | 1575 | Count All Possible Routes | [Ruby](./algorithms/ruby/1575-count-all-possible-routes.rb) | Hard |
 | 1579 | Remove Max Number of Edges to Keep Graph Fully Traversable | [Ruby](./algorithms/ruby/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable.rb) | Hard |
 | 1584 | Min Cost to Connect All Points | [Ruby](./algorithms/ruby/1584-min-cost-to-connect-all-points.rb) | Medium |
@@ -456,6 +458,8 @@
 | 2024 | Maximize the Confusion of an Exam | [Ruby](./algorithms/ruby/2024-maximize-the-confusion-of-an-exam.rb) | Medium |
 | 2044 | Count Number of Maximum Bitwise-OR Subsets | [Ruby](./algorithms/ruby/2044-count-number-of-maximum-bitwise-or-subsets.rb) | Medium |
 | 2050 | Parallel Courses III | [Ruby](./algorithms/ruby/2050-parallel-courses-iii.rb) | Hard |
+| 2064 | Minimized Maximum of Products Distributed to Any Store | [Ruby](./algorithms/ruby/2064-minimized-maximum-of-products-distributed-to-any-store.rb) | Medium |
+| 2070 | Most Beautiful Item for Each Query | [Ruby](./algorithms/ruby/2070-most-beautiful-item-for-each-query.rb) | Medium |
 | 2090 | K Radius Subarray Averages | [Ruby](./algorithms/ruby/2090-k-radius-subarray-averages.rb) | Medium |
 | 2095 | Delete the Middle Node of a Linked List | [Ruby](./algorithms/ruby/2095-delete-the-middle-node-of-a-linked-list.rb) | Medium |
 | 2101 | Detonate the Maximum Bombs | [Ruby](./algorithms/ruby/2101-detonate-the-maximum-bombs.rb) | Medium |
@@ -503,8 +507,10 @@
 | 2501 | Longest Square Streak in an Array | [Ruby](./algorithms/ruby/2501-longest-square-streak-in-an-array.rb) | Medium |
 | 2542 | Maximum Subsequence Score | [Ruby](./algorithms/ruby/2542-maximum-subsequence-score.rb) | Medium |
 | 2551 | Put Marbles in Bags | [Ruby](./algorithms/ruby/2551-put-marbles-in-bags.rb) | Hard |
+| 2563 | Count the Number of Fair Pairs | [Ruby](./algorithms/ruby/2563-count-the-number-of-fair-pairs.rb) | Medium |
 | 2583 | Kth Largest Sum in a Binary Tree | [Ruby](./algorithms/ruby/2583-kth-largest-sum-in-a-binary-tree.rb) | Medium |
 | 2595 | Number of Even and Odd Bits | [Ruby](./algorithms/ruby/2595-number-of-even-and-odd-bits.rb) | Easy |
+| 2601 | Prime Subtraction Operation | [Ruby](./algorithms/ruby/2601-prime-subtraction-operation.rb) | Medium |
 | 2616 | Minimize the Maximum Difference of Pairs | [Ruby](./algorithms/ruby/2616-minimize-the-maximum-difference-of-pairs.rb) | Medium |
 | 2641 | Cousins in Binary Tree II | [Ruby](./algorithms/ruby/2641-cousins-in-binary-tree-ii.rb) | Medium |
 | 2642 | Design Graph With Shortest Path Calculator | [Ruby](./algorithms/ruby/2642-design-graph-with-shortest-path-calculator.rb) | Hard |
@@ -519,7 +525,9 @@
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
 | 2966 | Divide Array Into Arrays With Max Difference | [Ruby](./algorithms/ruby/2966-divide-array-into-arrays-with-max-difference) | Medium |
 | 3011 | Find if Array Can Be Sorted | [Ruby](./algorithms/ruby/3011-find-if-array-can-be-sorted.rb) | Medium |
+| 3097 | Shortest Subarray With OR At Least K II | [Ruby](./algorithms/ruby/3097-shortest-subarray-with-or-at-least-k-ii.rb) | Medium |
 | 3163 | String Compression III | [Ruby](./algorithms/ruby/3163-string-compression-iii.rb) | Medium |
+| 3254 | Find the Power of K-Size Subarrays I | [Ruby](./algorithms/ruby/3254-find-the-power-of-k-size-subarrays-i.rb) | Medium |
 
 ### Database
 | # | Title | Solution | Difficulty |
