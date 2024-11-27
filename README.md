@@ -266,6 +266,7 @@
 | 744 | Find Smallest Letter Greater Than Target | [Ruby](./algorithms/ruby/0744-find-smallest-letter-greater-than-target.rb) | Easy |
 | 746 | Min Cost Climbing Stairs | [Ruby](./algorithms/ruby/0746-min-cost-climbing-stairs.rb) | Easy |
 | 767 | Reorganize String | [Ruby](./algorithms/ruby/0767-reorganize-string.rb) | Medium |
+| 773 | Sliding Puzzle | [Ruby](./algorithms/ruby/0773-sliding-puzzle.rb) | Hard |
 | 779 | K-th Symbol in Grammar | [Ruby](./algorithms/ruby/0779-k-th-symbol-in-grammar.rb) | Medium |
 | 783 | Minimum Distance Between BST Nodes | [Ruby](./algorithms/ruby/0783-minimum-distance-between-bst-nodes.rb) [Python3](./algorithms/python3/0783-minimum-distance-between-bst-nodes.py) | Easy |
 | 785 | Is Graph Bipartite? | [Ruby](./algorithms/ruby/0785-is-graph-bipartite.rb) | Medium |
@@ -323,6 +324,7 @@
 | 1046 | Last Stone Weight | [Ruby](./algorithms/ruby/1046-last-stone-weight.rb) | Easy |
 | 1048 | Longest String Chain | [Ruby](./algorithms/ruby/1048-longest-string-chain.rb) | Medium |
 | 1071 | Greatest Common Divisor of Strings | [Ruby](./algorithms/ruby/1071-greatest-common-divisor-of-strings.rb) | Easy |
+| 1072 | Flip Columns For Maximum Number of Equal Rows | [Ruby](./algorithms/ruby/1072-flip-columns-for-maximum-number-of-equal-rows.rb) | Medium |
 | 1091 | Shortest Path in Binary Matrix | [Ruby](./algorithms/ruby/1091-shortest-path-in-binary-matrix.rb) | Medium |
 | 1106 | Parsing A Boolean Expression | [Ruby](./algorithms/ruby/1106-parsing-a-boolean-expression.rb) | Hard |
 | 1125 | Smallest Sufficient Team | [Ruby](./algorithms/ruby/1125-smallest-sufficient-team.rb) | Hard |
@@ -414,6 +416,7 @@
 | 1637 | Widest Vertical Area Between Two Points Containing No Points | [Ruby](./algorithms/ruby/1637-widest-vertical-area-between-two-points-containing-no-points.rb) | Medium |
 | 1639 | Number of Ways to Form a Target String Given a Dictionary | [Ruby](./algorithms/ruby/1639-number-of-ways-to-form-a-target-string-given-a-dictionary.rb) | Hard |
 | 1647 | Minimum Deletions to Make Character Frequencies Unique | [Ruby](./algorithms/ruby/1647-minimum-deletions-to-make-character-frequencies-unique.rb) | Medium |
+| 1652 | Defuse the Bomb | [Ruby](./algorithms/ruby/1652-defuse-the-bomb.rb) | Easy |
 | 1657 | Determine if Two Strings Are Close | [Ruby](./algorithms/ruby/1657-determine-if-two-strings-are-close.rb) | Medium |
 | 1658 | Minimum Operations to Reduce X to Zero | [Ruby](./algorithms/ruby/1658-minimum-operations-to-reduce-x-to-zero.rb) | Medium |
 | 1662 | Check If Two String Arrays are Equivalent | [Ruby](./algorithms/ruby/1662-check-if-two-string-arrays-are-equivalent.rb) | Easy |
@@ -443,6 +446,7 @@
 | 1845 | Seat Reservation Manager | [Ruby](./algorithms/ruby/1845-seat-reservation-manager.rb) | Medium |
 | 1846 | Maximum Element After Decreasing and Rearranging | [Ruby](./algorithms/ruby/1846-maximum-element-after-decreasing-and-rearranging.rb) | Medium |
 | 1857 | Largest Color Value in a Directed Graph | [Ruby](./algorithms/ruby/1857-largest-color-value-in-a-directed-graph.rb) | Hard |
+| 1861 | Rotating the Box | [Ruby](./algorithms/ruby/1861-rotating-the-box.rb) | Medium |
 | 1870 | Minimum Speed to Arrive on Time | [Ruby](./algorithms/ruby/1870-minimum-speed-to-arrive-on-time.rb) | Medium |
 | 1877 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1877-minimize-maximum-pair-sum-in-array.rb) | Medium |
 | 1887 | Minimize Maximum Pair Sum in Array | [Ruby](./algorithms/ruby/1887-reduction-operations-to-make-the-array-elements-equal.rb) | Medium |
@@ -453,6 +457,7 @@
 | 1930 | Unique Length-3 Palindromic Subsequences | [Ruby](./algorithms/ruby/1930-unique-length-3-palindromic-subsequences.rb) | Medium |
 | 1964 | Find the Longest Valid Obstacle Course at Each Position | [Ruby](./algorithms/ruby/1964-find-the-longest-valid-obstacle-course-at-each-position.rb) | Hard |
 | 1970 | Last Day Where You Can Still Cross | [Ruby](./algorithms/ruby/1970-last-day-where-you-can-still-cross.rb) | Hard |
+| 1975 | Maximum Matrix Sum | [Ruby](./algorithms/ruby/1975-maximum-matrix-sum.rb) | Medium |
 | 1980 | Find Unique Binary String | [Ruby](./algorithms/ruby/1980-find-unique-binary-string.rb) | Medium |
 | 2009 | Minimum Number of Operations to Make Array Continuous | [Ruby](./algorithms/ruby/2009-minimum-number-of-operations-to-make-array-continuous.rb) | Hard |
 | 2024 | Maximize the Confusion of an Exam | [Ruby](./algorithms/ruby/2024-maximize-the-confusion-of-an-exam.rb) | Medium |
@@ -472,6 +477,7 @@
 | 2215 | Find the Difference of Two Arrays | [Ruby](./algorithms/ruby/2215-find-the-difference-of-two-arrays.rb) | Easy |
 | 2218 | Maximum Value of K Coins From Piles | [Ruby](./algorithms/ruby/2218-maximum-value-of-k-coins-from-piles.rb) | Hard |
 | 2251 | Number of Flowers in Full Bloom | [Ruby](./algorithms/ruby/2251-number-of-flowers-in-full-bloom.rb) | Hard |
+| 2257 | Count Unguarded Cells in the Grid | [Ruby](./algorithms/ruby/2257-count-unguarded-cells-in-the-grid.rb) | Medium |
 | 2264 | Largest 3-Same-Digit Number in String | [Ruby](./algorithms/ruby/2264-largest-3-same-digit-number-in-string.rb) | Easy |
 | 2265 | Count Nodes Equal to Average of Subtree | [Ruby](./algorithms/ruby/2265-count-nodes-equal-to-average-of-subtree.rb) | Medium |
 | 2272 | Substring With Largest Variance | [Ruby](./algorithms/ruby/2272-substring-with-largest-variance.rb) | Hard |
@@ -497,6 +503,7 @@
 | 2444 | Count Subarrays With Fixed Bounds | [Ruby](./algorithms/ruby/2444-count-subarrays-with-fixed-bounds.rb) | Hard |
 | 2448 | Minimum Cost to Make Array Equal | [Ruby](./algorithms/ruby/2448-minimum-cost-to-make-array-equal.rb) | Hard |
 | 2458 | Height of Binary Tree After Subtree Removal Queries | [Ruby](./algorithms/ruby/2458-height-of-binary-tree-after-subtree-removal-queries.rb) | Hard |
+| 2461 | Maximum Sum of Distinct Subarrays With Length K | [Ruby](./algorithms/ruby/2461-maximum-sum-of-distinct-subarrays-with-length-k.rb) | Medium |
 | 2462 | Total Cost to Hire K Workers | [Python3](./algorithms/python3/2462-total-cost-to-hire-k-workers.py) | Medium |
 | 2463 | Minimum Total Distance Traveled | [Ruby](./algorithms/ruby/2463-minimum-total-distance-traveled.rb) | Hard |
 | 2466 | Count Ways To Build Good Strings | [Ruby](./algorithms/ruby/2466-count-ways-to-build-good-strings.rb) | Medium |
@@ -505,6 +512,7 @@
 | 2490 | Circular Sentence | [Ruby](./algorithms/ruby/2490-circular-sentence.rb) | Easy |
 | 2492 | Minimum Score of a Path Between Two Cities | [Ruby](./algorithms/ruby/2492-minimum-score-of-a-path-between-two-cities.rb) | Medium |
 | 2501 | Longest Square Streak in an Array | [Ruby](./algorithms/ruby/2501-longest-square-streak-in-an-array.rb) | Medium |
+| 2516 | Take K of Each Character From Left and Right | [Ruby](./algorithms/ruby/2516-take-k-of-each-character-from-left-and-right.rb) | Medium |
 | 2542 | Maximum Subsequence Score | [Ruby](./algorithms/ruby/2542-maximum-subsequence-score.rb) | Medium |
 | 2551 | Put Marbles in Bags | [Ruby](./algorithms/ruby/2551-put-marbles-in-bags.rb) | Hard |
 | 2563 | Count the Number of Fair Pairs | [Ruby](./algorithms/ruby/2563-count-the-number-of-fair-pairs.rb) | Medium |
@@ -523,10 +531,12 @@
 | 2785 | Sort Vowels in a String | [Ruby](./algorithms/ruby/2785-sort-vowels-in-a-string.rb) | Medium |
 | 2842 | Difference Between Ones and Zeros in Row and Column | [Ruby](./algorithms/ruby/2842-difference-between-ones-and-zeros-in-row-and-column.rb) | Medium |
 | 2849 | Determine if a Cell Is Reachable at a Given Time | [Ruby](./algorithms/ruby/2849-determine-if-a-cell-is-reachable-at-a-given-time) | Medium |
+| 2924 | Find Champion II | [Ruby](./algorithms/ruby/2924-find-champion-ii.rb) | Medium |
 | 2966 | Divide Array Into Arrays With Max Difference | [Ruby](./algorithms/ruby/2966-divide-array-into-arrays-with-max-difference) | Medium |
 | 3011 | Find if Array Can Be Sorted | [Ruby](./algorithms/ruby/3011-find-if-array-can-be-sorted.rb) | Medium |
 | 3097 | Shortest Subarray With OR At Least K II | [Ruby](./algorithms/ruby/3097-shortest-subarray-with-or-at-least-k-ii.rb) | Medium |
 | 3163 | String Compression III | [Ruby](./algorithms/ruby/3163-string-compression-iii.rb) | Medium |
+| 3243 | Shortest Distance After Road Addition Queries I | [Ruby](./algorithms/ruby/3243-shortest-distance-after-road-addition-queries-i.rb) | Medium |
 | 3254 | Find the Power of K-Size Subarrays I | [Ruby](./algorithms/ruby/3254-find-the-power-of-k-size-subarrays-i.rb) | Medium |
 
 ### Database
